@@ -1,19 +1,19 @@
 # DotNet 
 名称| 仓库 | Star
 -|-|-|
-PDF|[https://github.com/QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF)|[![GitHub Repo stars](https://img.shields.io/github/stars/QuestPDF/QuestPDF?style=for-the-badge)](https://github.com/QuestPDF/QuestPDF/stargazers)
+QuestPDF|[https://github.com/QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF)|[![GitHub Repo stars](https://img.shields.io/github/stars/QuestPDF/QuestPDF?style=for-the-badge)](https://github.com/QuestPDF/QuestPDF/stargazers)
 
 # Task Scheduling
 名称| 仓库 | Star
 -|-|-|
-xxl-job|[https://github.com/xuxueli/xxl-job](https://github.com/xuxueli/xxl-job)|[![GitHub Repo stars](https://img.shields.io/github/stars/xuxueli/xxl-job?style=for-the-badge)](https://github.com/xuxueli/xxl-job/stargazers)
-QuartzUI|[https://github.com/zhaopeiym/quartzui](https://github.com/zhaopeiym/quartzui)|[![GitHub Repo stars](https://img.shields.io/github/stars/zhaopeiym/quartzui?style=for-the-badge)](https://github.com/zhaopeiym/quartzui/stargazers)
+XXL-JOB|[https://github.com/xuxueli/xxl-job](https://github.com/xuxueli/xxl-job)|[![GitHub Repo stars](https://img.shields.io/github/stars/xuxueli/xxl-job?style=for-the-badge)](https://github.com/xuxueli/xxl-job/stargazers)
+Quartz UI|[https://github.com/zhaopeiym/quartzui](https://github.com/zhaopeiym/quartzui)|[![GitHub Repo stars](https://img.shields.io/github/stars/zhaopeiym/quartzui?style=for-the-badge)](https://github.com/zhaopeiym/quartzui/stargazers)
 Apache Dolphinscheduler|[https://github.com/apache/dolphinscheduler](https://github.com/apache/dolphinscheduler)|[![GitHub Repo stars](https://img.shields.io/github/stars/apache/dolphinscheduler?style=for-the-badge)](https://github.com/apache/dolphinscheduler/stargazers)
 
 # Devops
 名称| 仓库 | Star
 -|-|-|
-onedev|[https://github.com/theonedev/onedev](https://github.com/theonedev/onedev)|[![GitHub Repo stars](https://img.shields.io/github/stars/theonedev/onedev?style=for-the-badge)](https://github.com/theonedev/onedev/stargazers)
+OneDev|[https://github.com/theonedev/onedev](https://github.com/theonedev/onedev)|[![GitHub Repo stars](https://img.shields.io/github/stars/theonedev/onedev?style=for-the-badge)](https://github.com/theonedev/onedev/stargazers)
 gitness|[https://github.com/harness/gitness](https://github.com/harness/gitness)|[![GitHub Repo stars](https://img.shields.io/github/stars/harness/gitness?style=for-the-badge)](https://github.com/harness/gitness/stargazers)
 
 
