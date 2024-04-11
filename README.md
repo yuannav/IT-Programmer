@@ -14,3 +14,14 @@ PDF|[https://github.com/QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF)
 ChromeAppHeroes|[https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)|[![GitHub Repo stars](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes?style=for-the-badge)](https://github.com/zhaoolee/ChromeAppHeroes/stargazers)
 
 # Windows
+
+
+# 效率软件
+名称| 仓库 | Star
+-|-|-|
+ChromeAppHeroes|[https://github.com/GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)|[![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=for-the-badge)](https://github.com/GopeedLab/gopeed/stargazers)
+
+
+
+# Template
+XXXX|[https://github.com/XXXX](https://github.com/XXXX)|[![GitHub Repo stars](https://img.shields.io/github/stars/XXXX?style=for-the-badge)](https://github.com/XXXX/stargazers)
