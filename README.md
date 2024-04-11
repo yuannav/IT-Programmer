@@ -3,6 +3,20 @@
 -|-|-|
 PDF|[https://github.com/QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF)|[![GitHub Repo stars](https://img.shields.io/github/stars/QuestPDF/QuestPDF?style=for-the-badge)](https://github.com/QuestPDF/QuestPDF/stargazers)
 
+# Devops
+名称| 仓库 | Star
+-|-|-|
+onedev|[https://github.com/theonedev/onedev](https://github.com/theonedev/onedev)|[![GitHub Repo stars](https://img.shields.io/github/stars/theonedev/onedev?style=for-the-badge)](https://github.com/theonedev/onedev/stargazers)
+gitness|[https://github.com/harness/gitness](https://github.com/harness/gitness)|[![GitHub Repo stars](https://img.shields.io/github/stars/harness/gitness?style=for-the-badge)](https://github.com/harness/gitness/stargazers)
+
+
+# Monitoring Tool
+名称| 仓库 | Star
+-|-|-|
+uptime-kuma|[https://github.com/louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)|[![GitHub Repo stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=for-the-badge)](https://github.com/louislam/uptime-kuma/stargazers)
+healthchecks|[https://github.com/healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)|[![GitHub Repo stars](https://img.shields.io/github/stars/healthchecks/healthchecks?style=for-the-badge)](https://github.com/healthchecks/healthchecks/stargazers)
+
+
 # Mac
 名称| 仓库 | Star
 -|-|-|
