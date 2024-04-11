@@ -9,6 +9,8 @@ QuestPDF|[https://github.com/QuestPDF/QuestPDF](https://github.com/QuestPDF/Ques
 XXL-JOB|[https://github.com/xuxueli/xxl-job](https://github.com/xuxueli/xxl-job)|[![GitHub Repo stars](https://img.shields.io/github/stars/xuxueli/xxl-job?style=for-the-badge)](https://github.com/xuxueli/xxl-job/stargazers)
 Quartz UI|[https://github.com/zhaopeiym/quartzui](https://github.com/zhaopeiym/quartzui)|[![GitHub Repo stars](https://img.shields.io/github/stars/zhaopeiym/quartzui?style=for-the-badge)](https://github.com/zhaopeiym/quartzui/stargazers)
 Apache Dolphinscheduler|[https://github.com/apache/dolphinscheduler](https://github.com/apache/dolphinscheduler)|[![GitHub Repo stars](https://img.shields.io/github/stars/apache/dolphinscheduler?style=for-the-badge)](https://github.com/apache/dolphinscheduler/stargazers)
+Crontab UI|[https://github.com/alseambusher/crontab-ui](https://github.com/alseambusher/crontab-ui)|[![GitHub Repo stars](https://img.shields.io/github/stars/alseambusher/crontab-ui?style=for-the-badge)](https://github.com/alseambusher/crontab-ui/stargazers)
+
 
 # Devops
 名称| 仓库 | Star
@@ -55,6 +57,13 @@ Elastic stack (ELK) on Docker|[https://github.com/deviantony/docker-elk](https:/
 名称| 仓库 | Star
 -|-|-|
 nginxWebUI|[https://github.com/cym1102/nginxWebUI](https://github.com/cym1102/nginxWebUI)|[![GitHub Repo stars](https://img.shields.io/github/stars/cym1102/nginxWebUI?style=for-the-badge)](https://github.com/cym1102/nginxWebUI/stargazers)
+
+
+# Object Storage
+名称| 仓库 | Star
+-|-|-|
+MinIO|[https://github.com/minio/minio](https://github.com/minio/minio)|[![GitHub Repo stars](https://img.shields.io/github/stars/minio/minio?style=for-the-badge)](https://github.com/minio/minio/stargazers)
+
 
 # Template
 名称| 仓库 | Star
