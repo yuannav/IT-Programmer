@@ -12,7 +12,7 @@ gitness|[https://github.com/harness/gitness](https://github.com/harness/gitness)
 名称| 仓库 | Star
 -|-|-|
 开发效率提升：Mac 生产力工具链推荐|[https://github.com/Louiszhai/tool](https://github.com/Louiszhai/tool)|[![GitHub Repo stars](https://img.shields.io/github/stars/Louiszhai/tool?style=for-the-badge)](https://github.com/Louiszhai/tool/stargazers)
-开发效率提升：Mac 生产力工具链推荐|[https://github.com/Louiszhai/tool](https://github.com/Louiszhai/tool)|<img src="https://img.shields.io/github/stars/louislam/uptime-kuma?style=flat" />
+开发效率提升：Mac 生产力工具链推荐|[https://github.com/Louiszhai/tool](https://github.com/Louiszhai/tool)|<img src="https://img.shields.io/github/stars/Louiszhai/tool?style=flat" />
 
 # Chrome 插件
 名称| 仓库 | Star
