@@ -19,7 +19,7 @@ ChromeAppHeroes|[https://github.com/zhaoolee/ChromeAppHeroes](https://github.com
 # 效率软件
 名称| 仓库 | Star
 -|-|-|
-ChromeAppHeroes|[https://github.com/GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)|[![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=for-the-badge)](https://github.com/GopeedLab/gopeed/stargazers)
+文件下载器|[https://github.com/GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)|[![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=for-the-badge)](https://github.com/GopeedLab/gopeed/stargazers)
 
 
 
