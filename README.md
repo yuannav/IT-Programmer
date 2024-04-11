@@ -51,6 +51,10 @@ WeChat QQ TIM 防撤回|[https://github.com/huiyadanli/RevokeMsgPatcher](https:/
 Elasticsearch|[https://github.com/elastic/elasticsearch](https://github.com/elastic/elasticsearch)|[![GitHub Repo stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=for-the-badge)](https://github.com/elastic/elasticsearch/stargazers)
 Elastic stack (ELK) on Docker|[https://github.com/deviantony/docker-elk](https://github.com/deviantony/docker-elk)|[![GitHub Repo stars](https://img.shields.io/github/stars/deviantony/docker-elk?style=for-the-badge)](https://github.com/deviantony/docker-elk/stargazers)
 
+# Nginx
+名称| 仓库 | Star
+-|-|-|
+nginxWebUI|[https://github.com/cym1102/nginxWebUI](https://github.com/cym1102/nginxWebUI)|[![GitHub Repo stars](https://img.shields.io/github/stars/cym1102/nginxWebUI?style=for-the-badge)](https://github.com/cym1102/nginxWebUI/stargazers)
 
 # Template
 名称| 仓库 | Star
