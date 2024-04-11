@@ -14,7 +14,7 @@ PDF|[https://github.com/QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF)
 ChromeAppHeroes|[https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)|[![GitHub Repo stars](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes?style=for-the-badge)](https://github.com/zhaoolee/ChromeAppHeroes/stargazers)
 
 # Windows
-WeChat/QQ/TIM 防撤回|[https://github.com/huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)|[![GitHub Repo stars](https://img.shields.io/github/stars/huiyadanli/RevokeMsgPatcher?style=for-the-badge)](https://github.com/huiyadanli/RevokeMsgPatcher/stargazers)
+WeChat QQ TIM 防撤回|[https://github.com/huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)|[![GitHub Repo stars](https://img.shields.io/github/stars/huiyadanli/RevokeMsgPatcher?style=for-the-badge)](https://github.com/huiyadanli/RevokeMsgPatcher/stargazers)
 
 # 效率软件
 名称| 仓库 | Star
