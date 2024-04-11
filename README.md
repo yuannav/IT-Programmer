@@ -38,6 +38,13 @@ WeChat QQ TIM 防撤回|[https://github.com/huiyadanli/RevokeMsgPatcher](https:/
 文件下载器|[https://github.com/GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)|[![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=for-the-badge)](https://github.com/GopeedLab/gopeed/stargazers)
 
 
+# elastic search
+名称| 仓库 | Star
+-|-|-|
+Elasticsearch|[https://github.com/elastic/elasticsearch](https://github.com/elastic/elasticsearch)|[![GitHub Repo stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=for-the-badge)](https://github.com/elastic/elasticsearch/stargazers)
+Elastic stack (ELK) on Docker|[https://github.com/deviantony/docker-elk](https://github.com/deviantony/docker-elk)|[![GitHub Repo stars](https://img.shields.io/github/stars/deviantony/docker-elk?style=for-the-badge)](https://github.com/deviantony/docker-elk/stargazers)
+
+
 # Template
 名称| 仓库 | Star
 -|-|-|
