@@ -2,6 +2,12 @@
 名称| 仓库 | Star
 -|-|-|
 QuestPDF|[https://github.com/QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF)|[![GitHub Repo stars](https://img.shields.io/github/stars/QuestPDF/QuestPDF?style=for-the-badge)](https://github.com/QuestPDF/QuestPDF/stargazers)
+Hangfire|[https://github.com/HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire)|[![GitHub Repo stars](https://img.shields.io/github/stars/HangfireIO/Hangfire?style=for-the-badge)](https://github.com/HangfireIO/Hangfire/stargazers)
+Quartz.NET|[https://github.com/quartznet/quartznet](https://github.com/quartznet/quartznet)|[![GitHub Repo stars](https://img.shields.io/github/stars/quartznet/quartznet?style=for-the-badge)](https://github.com/quartznet/quartznet/stargazers)
+SkyAPM C#/.NET|[https://github.com/SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet)|[![GitHub Repo stars](https://img.shields.io/github/stars/SkyAPM/SkyAPM-dotnet?style=for-the-badge)](https://github.com/SkyAPM/SkyAPM-dotnet/stargazers)
+OpenTelemetry .NET|[https://github.com/open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet)|[![GitHub Repo stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-dotnet?style=for-the-badge)](https://github.com/open-telemetry/opentelemetry-dotnet/stargazers)
+WeiXinMPSDK|[https://github.com/JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)|[![GitHub Repo stars](https://img.shields.io/github/stars/JeffreySu/WeiXinMPSDK?style=for-the-badge)](https://github.com/JeffreySu/WeiXinMPSDK/stargazers)
+
 
 # Task Scheduling
 名称| 仓库 | Star
