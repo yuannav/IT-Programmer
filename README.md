@@ -1,4 +1,4 @@
-[DotNet Library](./DotNet/README.md) , [Task Scheduling & Timed Task](./Task%20Scheduling/README.md) , [Monitoring Tool](./Monitoring%20Tool/README.md)
+[DotNet](./DotNet/README.md) , [Task Scheduling & Timed Task](./Task%20Scheduling/README.md) , [Monitoring Tool](./Monitoring%20Tool/README.md)
 
 # Devops
 名称| 仓库 | Star
