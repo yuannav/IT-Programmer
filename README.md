@@ -55,4 +55,4 @@ minikube|[https://github.com/kubernetes/minikube](https://github.com/kubernetes/
 # Template
 名称| 仓库 | Star
 -|-|-|
-XXXX|[https://github.com/XXXX](https://github.com/XXXX)|[![GitHub Repo stars](https://img.shields.io/github/stars/XXXX?style=for-the-badge)](https://github.com/XXXX/stargazers)
+XXXX|[https://github.com/XXXX](https://github.com/XXXX)|<img src="https://img.shields.io/github/stars/XXXX?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/XXXX?style=for-the-badge" />
