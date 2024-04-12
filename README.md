@@ -58,6 +58,7 @@ minikube|[https://github.com/kubernetes/minikube](https://github.com/kubernetes/
 vfox|[https://github.com/version-fox/vfox](https://github.com/version-fox/vfox)|<img src="https://img.shields.io/github/stars/version-fox/vfox?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/version-fox/vfox?style=for-the-badge" />
 asdf|[https://github.com/asdf-vm/asdf](https://github.com/asdf-vm/asdf)|<img src="https://img.shields.io/github/stars/asdf-vm/asdf?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/asdf-vm/asdf?style=for-the-badge" />
 nvm|[https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm)|<img src="https://img.shields.io/github/stars/nvm-sh/nvm?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/nvm-sh/nvm?style=for-the-badge" />
+NVM for Windows|[https://github.com/coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)|<img src="https://img.shields.io/github/stars/coreybutler/nvm-windows?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/coreybutler/nvm-windows?style=for-the-badge" />
 
 
 # Template
