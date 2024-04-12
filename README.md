@@ -7,7 +7,6 @@ OneDev|[https://github.com/theonedev/onedev](https://github.com/theonedev/onedev
 gitness|[https://github.com/harness/gitness](https://github.com/harness/gitness)|[![GitHub Repo stars](https://img.shields.io/github/stars/harness/gitness?style=for-the-badge)](https://github.com/harness/gitness/stargazers)
 
 
-
 # Mac
 名称| 仓库 | Star
 -|-|-|
