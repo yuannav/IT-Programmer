@@ -30,7 +30,7 @@ ImageSharp|[https://github.com/SixLabors/ImageSharp](https://github.com/SixLabor
 MediatR|[https://github.com/jbogard/MediatR](https://github.com/jbogard/MediatR)|<img src="https://img.shields.io/github/stars/jbogard/MediatR?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/jbogard/MediatR?style=for-the-badge" />
 Dapr SDK for .NET|[https://github.com/dapr/dotnet-sdk](https://github.com/dapr/dotnet-sdk)|<img src="https://img.shields.io/github/stars/dapr/dotnet-sdk?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dapr/dotnet-sdk?style=for-the-badge" />
 
-###### Scheduled Tasks
+###### Scheduled Task
 Name| Address | Star| Last Update
 -|-|-|-|
 Hangfire|[github.com/HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire)|<img src="https://img.shields.io/github/stars/HangfireIO/Hangfire?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/HangfireIO/Hangfire?style=for-the-badge" />
