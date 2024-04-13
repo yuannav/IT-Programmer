@@ -26,3 +26,9 @@ vfox|[https://github.com/version-fox/vfox](https://github.com/version-fox/vfox)|
 asdf|[https://github.com/asdf-vm/asdf](https://github.com/asdf-vm/asdf)|<img src="https://img.shields.io/github/stars/asdf-vm/asdf?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/asdf-vm/asdf?style=for-the-badge" />
 nvm|[https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm)|<img src="https://img.shields.io/github/stars/nvm-sh/nvm?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/nvm-sh/nvm?style=for-the-badge" />
 NVM for Windows|[https://github.com/coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)|<img src="https://img.shields.io/github/stars/coreybutler/nvm-windows?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/coreybutler/nvm-windows?style=for-the-badge" />
+
+# Devops
+名称| 仓库 | Star
+-|-|-|
+OneDev|[https://github.com/theonedev/onedev](https://github.com/theonedev/onedev)|[![GitHub Repo stars](https://img.shields.io/github/stars/theonedev/onedev?style=for-the-badge)](https://github.com/theonedev/onedev/stargazers)
+gitness|[https://github.com/harness/gitness](https://github.com/harness/gitness)|[![GitHub Repo stars](https://img.shields.io/github/stars/harness/gitness?style=for-the-badge)](https://github.com/harness/gitness/stargazers)
