@@ -12,12 +12,6 @@ gitness|[https://github.com/harness/gitness](https://github.com/harness/gitness)
 -|-|-|
 ChromeAppHeroes|[https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)|[![GitHub Repo stars](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes?style=for-the-badge)](https://github.com/zhaoolee/ChromeAppHeroes/stargazers)
 
-# 效率软件
-名称| 仓库 | Star
--|-|-|
-文件下载器|[https://github.com/GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)|[![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=for-the-badge)](https://github.com/GopeedLab/gopeed/stargazers)
-
-
 # elastic search
 名称| 仓库 | Star
 -|-|-|
