@@ -4,7 +4,7 @@ Name| Address | Star| Last Update
 iBar|[https://www.better365.cn/ibar.html](https://www.better365.cn/ibar.html)|-|- 
 AlDente|[https://apphousekitchen.com](https://apphousekitchen.com/)|-|- 
 uTools|[https://www.u.tools](https://www.u.tools)|-|- 
-文件下载器|[https://github.com/GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)|[![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=for-the-badge)](https://github.com/GopeedLab/gopeed/stargazers)
+文件下载器|[https://github.com/GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)|[![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=for-the-badge)](https://github.com/GopeedLab/gopeed/stargazers)|<img src="https://img.shields.io/github/last-commit/GopeedLab/gopeed?style=for-the-badge" />
 
 # Virtual Machine
 Name| Address | Star| Last Update
