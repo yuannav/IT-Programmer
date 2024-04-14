@@ -1,14 +1,5 @@
 [DotNet](./DotNet/README.md) , [Task Scheduling & Timed Task](./Task%20Scheduling/README.md) , [Monitoring Tool](./Monitoring%20Tool/README.md)
 
-
-
-
-# elastic search
-名称| 仓库 | Star
--|-|-|
-Elasticsearch|[https://github.com/elastic/elasticsearch](https://github.com/elastic/elasticsearch)|[![GitHub Repo stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=for-the-badge)](https://github.com/elastic/elasticsearch/stargazers)
-Elastic stack (ELK) on Docker|[https://github.com/deviantony/docker-elk](https://github.com/deviantony/docker-elk)|[![GitHub Repo stars](https://img.shields.io/github/stars/deviantony/docker-elk?style=for-the-badge)](https://github.com/deviantony/docker-elk/stargazers)
-
 # Nginx
 名称| 仓库 | Star
 -|-|-|
