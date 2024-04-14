@@ -5,12 +5,6 @@
 -|-|-|
 nginxWebUI|[https://github.com/cym1102/nginxWebUI](https://github.com/cym1102/nginxWebUI)|[![GitHub Repo stars](https://img.shields.io/github/stars/cym1102/nginxWebUI?style=for-the-badge)](https://github.com/cym1102/nginxWebUI/stargazers)
 
-
-# K8S
-名称| 仓库 | Star
--|-|-|
-minikube|[https://github.com/kubernetes/minikube](https://github.com/kubernetes/minikube)|[![GitHub Repo stars](https://img.shields.io/github/stars/kubernetes/minikube?style=for-the-badge)](https://github.com/kubernetes/minikube/stargazers)
-
 # Template
 名称| 仓库 | Star
 -|-|-|
