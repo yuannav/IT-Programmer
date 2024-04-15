@@ -8,7 +8,7 @@ XApp|[XApp](https://apps.apple.com/cn/app/xapp-%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA
 Name| Address | Star| Last Update
 -|-|-|-|
 State|[State](https://apps.apple.com/cn/app/state-cpu-fan-memory-tem/id1472818562?l=en-GB&mt=12)|-|- 
-Stats|[https://github.com//exelban/stats](https://github.com//exelban/stats)|<img src="https://img.shields.io/github/stars//exelban/stats?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/exelban/stats?style=for-the-badge" />
+Stats|[https://github.com//exelban/stats](https://github.com//exelban/stats)|<img src="https://img.shields.io/github/stars/exelban/stats?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/exelban/stats?style=for-the-badge" />
 
 # Search Tool
 Name| Address | Star| Last Update
