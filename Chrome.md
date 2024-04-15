@@ -7,3 +7,4 @@ Authenticator|[Authenticator](https://chromewebstore.google.com/detail/bhghoamap
 Datalayer Checker|[Datalayer Checker](https://chromewebstore.google.com/detail/ffljdddodmkedhkcjhpmdajhjdbkogke)|-|-  
 User-Agent Switcher for Chrome|[User-Agent Switcher for Chrome](https://chromewebstore.google.com/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)|-|-  
 Tampermonkey|[Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)|-|-  
+JSONVue|[JSONVue](https://chromewebstore.google.com/detail/chklaanhfefbnpoihckbnefhakgolnmc)|-|-  
