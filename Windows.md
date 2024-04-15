@@ -9,7 +9,6 @@ TrafficMonitor|[https://github.com/zhongyang219/TrafficMonitor](https://github.c
 # Virtual Machine
 Name| Address | Star| Last Update
 -|-|-|-|
-Windows On Docker|[https://github.com/dockur/windows](https://github.com/dockur/windows)|<img src="https://img.shields.io/github/stars/dockur/windows?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dockur/windows?style=for-the-badge" />
 Hyper-V|[enable-hyper-v](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)、[quick-create-virtual-machine](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/quick-create-virtual-machine)|-|-
 VMware Workstation Pro|[VMware Workstation Pro 17](https://customerconnect.vmware.com/cn/downloads/info/slug/desktop_end_user_computing/vmware_workstation_pro/17_0)|-|-
 VMware Workstation Player|[VMware Workstation Player 17](https://customerconnect.vmware.com/cn/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/17_0)|-|-
