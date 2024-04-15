@@ -11,3 +11,4 @@ Name| Address | Star| Last Update
 -|-|-|-|
 UTM|[https://github.com/utmapp/UTM](https://github.com/utmapp/UTM)|<img src="https://img.shields.io/github/stars/utmapp/UTM?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/utmapp/UTM?style=for-the-badge" />
 Parallels Desktop|[hhttps://www.parallels.cn](https://www.parallels.cn/)|-|-
+VMware Fusion|[VMware Fusion 13](https://customerconnect.vmware.com/cn/downloads/info/slug/desktop_end_user_computing/vmware_fusion/13_0)|-|-
