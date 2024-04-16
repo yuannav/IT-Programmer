@@ -20,6 +20,11 @@ Util|[https://github.com/dotnetcore/Util](https://github.com/dotnetcore/Util)|<i
 IdentityServer4|[https://github.com/IdentityServer/IdentityServer4](https://github.com/IdentityServer/IdentityServer4)|<img src="https://img.shields.io/github/stars/IdentityServer/IdentityServer4?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/IdentityServer/IdentityServer4?style=for-the-badge" />
 ImageSharp|[https://github.com/SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp)|<img src="https://img.shields.io/github/stars/SixLabors/ImageSharp?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/SixLabors/ImageSharp?style=for-the-badge" />
 
+# OAuth 
+Name| Address | Star| Last Update
+-|-|-|-|
+IdentityServer4|[https://github.com/IdentityServer/IdentityServer4](https://github.com/IdentityServer/IdentityServer4)|<img src="https://img.shields.io/github/stars/IdentityServer/IdentityServer4?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/IdentityServer/IdentityServer4?style=for-the-badge" />
+IdentityServer4.Admin|[https://github.com/skoruba/IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin)|<img src="https://img.shields.io/github/stars/skoruba/IdentityServer4.Admin?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/skoruba/IdentityServer4.Admin?style=for-the-badge" />
 
 # Cache
 Name| Address | Star| Last Update
