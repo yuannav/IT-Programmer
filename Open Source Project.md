@@ -7,7 +7,6 @@ JumpServer|[https://github.com/jumpserver/jumpserver](https://github.com/jumpser
 Ajenti|[https://github.com/ajenti/ajenti](https://github.com/ajenti/ajenti)|<img src="https://img.shields.io/github/stars/ajenti/ajenti?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ajenti/ajenti?style=for-the-badge" />
 listmonk|[https://github.com/knadh/listmonk](https://github.com/knadh/listmonk)|<img src="https://img.shields.io/github/stars/knadh/listmonk?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/knadh/listmonk?style=for-the-badge" />
 restic|[https://github.com/restic/restic](https://github.com/restic/restic)|<img src="https://img.shields.io/github/stars/restic/restic?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/restic/restic?style=for-the-badge" />
-
 muffet|[https://github.com/raviqqe/muffet](https://github.com/raviqqe/muffet)|<img src="https://img.shields.io/github/stars/raviqqe/muffet?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/raviqqe/muffet?style=for-the-badge" />
 Focalboard|[https://github.com/mattermost/focalboard](https://github.com/mattermost/focalboard)|<img src="https://img.shields.io/github/stars/mattermost/focalboard?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mattermost/focalboard?style=for-the-badge" />
 
