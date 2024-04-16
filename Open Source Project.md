@@ -75,6 +75,7 @@ NVM for Windows|[https://github.com/coreybutler/nvm-windows](https://github.com/
 # Devops
 Name| Respository Address | Star| Last Update
 -|-|-|-|
-OneDev|[https://github.com/theonedev/onedev](https://github.com/theonedev/onedev)|[![GitHub Repo stars](https://img.shields.io/github/stars/theonedev/onedev?style=for-the-badge)](https://github.com/theonedev/onedev/stargazers)
-Gitness|[https://github.com/harness/gitness](https://github.com/harness/gitness)|[![GitHub Repo stars](https://img.shields.io/github/stars/harness/gitness?style=for-the-badge)](https://github.com/harness/gitness/stargazers)
+OneDev|[https://github.com/theonedev/onedev](https://github.com/theonedev/onedev)||<img src="https://img.shields.io/github/stars/theonedev/onedev?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/theonedev/onedev?style=for-the-badge" />
+Gitness|[https://github.com/harness/gitness](https://github.com/harness/gitness)|<img src="https://img.shields.io/github/stars/harness/gitness?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/harness/gitness?style=for-the-badge" />
+
 Gitea|[https://github.com/go-gitea/gitea](https://github.com/go-gitea/gitea)|<img src="https://img.shields.io/github/stars/go-gitea/gitea?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/go-gitea/gitea?style=for-the-badge" />
