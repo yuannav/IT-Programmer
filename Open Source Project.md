@@ -7,6 +7,9 @@ JumpServer|[https://github.com/jumpserver/jumpserver](https://github.com/jumpser
 Ajenti|[https://github.com/ajenti/ajenti](https://github.com/ajenti/ajenti)|<img src="https://img.shields.io/github/stars/ajenti/ajenti?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ajenti/ajenti?style=for-the-badge" />
 listmonk|[https://github.com/knadh/listmonk](https://github.com/knadh/listmonk)|<img src="https://img.shields.io/github/stars/knadh/listmonk?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/knadh/listmonk?style=for-the-badge" />
 restic|[https://github.com/restic/restic](https://github.com/restic/restic)|<img src="https://img.shields.io/github/stars/restic/restic?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/restic/restic?style=for-the-badge" />
+Mailpit|[https://github.com/axllent/mailpit](https://github.com/axllent/mailpit)|<img src="https://img.shields.io/github/stars/axllent/mailpit?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/axllent/mailpit?style=for-the-badge" />
+muffet|[https://github.com/raviqqe/muffet](https://github.com/raviqqe/muffet)|<img src="https://img.shields.io/github/stars/raviqqe/muffet?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/raviqqe/muffet?style=for-the-badge" />
+
 
 # Financial Software
 Name| Respository Address | Star| Last Update
@@ -33,6 +36,8 @@ Name| Respository Address | Star| Last Update
 -|-|-|-|
 AI Cover|[https://github.com/all-in-aigc/aicover](https://github.com/all-in-aigc/aicover)|<img src="https://img.shields.io/github/stars/all-in-aigc/aicover?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/all-in-aigc/aicover?style=for-the-badge" />
 WeChat QQ TIM 防撤回|[https://github.com/huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)|<img src="https://img.shields.io/github/stars/huiyadanli/RevokeMsgPatcher?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/huiyadanli/RevokeMsgPatcher?style=for-the-badge" />
+WechatExporter|[https://github.com/BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter)|<img src="https://img.shields.io/github/stars/BlueMatthew/WechatExporter?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/BlueMatthew/WechatExporter?style=for-the-badge" />
+
 
 # Build Site
 Name| Respository Address | Star| Last Update
@@ -40,6 +45,10 @@ Name| Respository Address | Star| Last Update
 Halo|[https://github.com/halo-dev/halo](https://github.com/halo-dev/halo)|<img src="https://img.shields.io/github/stars/halo-dev/halo?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/halo-dev/halo?style=for-the-badge" />
 Hexo|[https://github.com/hexojs/hexo](https://github.com/hexojs/hexo)|<img src="https://img.shields.io/github/stars/hexojs/hexo?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/hexojs/hexo?style=for-the-badge" />
 
+# wiki
+Name| Respository Address | Star| Last Update
+-|-|-|-|
+BookStack|[https://github.com/BookStackApp/BookStack](https://github.com/BookStackApp/BookStack)|<img src="https://img.shields.io/github/stars/BookStackApp/BookStack?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/BookStackApp/BookStack?style=for-the-badge" />
 
 # Personal Knowledge Management
 Name| Respository Address | Star| Last Update
