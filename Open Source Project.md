@@ -45,6 +45,7 @@ XXL-JOB|[https://github.com/xuxueli/xxl-job](https://github.com/xuxueli/xxl-job)
 Quartz UI|[https://github.com/zhaopeiym/quartzui](https://github.com/zhaopeiym/quartzui)|<img src="https://img.shields.io/github/stars/zhaopeiym/quartzui?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/zhaopeiym/quartzui?style=for-the-badge" />
 Apache Dolphinscheduler|[https://github.com/apache/dolphinscheduler](https://github.com/apache/dolphinscheduler)|<img src="https://img.shields.io/github/stars/apache/dolphinscheduler?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/apache/dolphinscheduler?style=for-the-badge" />
 Crontab UI|[https://github.com/alseambusher/crontab-ui](https://github.com/alseambusher/crontab-ui)|<img src="https://img.shields.io/github/stars/alseambusher/crontab-ui?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/alseambusher/crontab-ui?style=for-the-badge" />
+ComfyUI|[https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)|<img src="https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/comfyanonymous/ComfyUI?style=for-the-badge" />
 
 # Object Storage
 名称| 仓库 | Star
