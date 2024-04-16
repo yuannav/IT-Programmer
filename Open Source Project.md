@@ -31,6 +31,8 @@ WeChat QQ TIM 防撤回|[https://github.com/huiyadanli/RevokeMsgPatcher](https:/
 Name| Respository Address | Star| Last Update
 -|-|-|-|
 Halo|[https://github.com/halo-dev/halo](https://github.com/halo-dev/halo)|<img src="https://img.shields.io/github/stars/halo-dev/halo?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/halo-dev/halo?style=for-the-badge" />
+Hexo|[https://github.com/hexojs/hexo](https://github.com/hexojs/hexo)|<img src="https://img.shields.io/github/stars/hexojs/hexo?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/hexojs/hexo?style=for-the-badge" />
+
 
 # Personal Knowledge Management
 Name| Respository Address | Star| Last Update
