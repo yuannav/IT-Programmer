@@ -8,6 +8,7 @@ BetterDisplay|[https://github.com/waydabber/BetterDisplay](https://github.com/wa
 
 # Monitor
 Name| Address | Star| Last Update
+-|-|-|-|
 Synergy Binaries|[https://github.com/DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries)|<img src="https://img.shields.io/github/stars/DEAKSoftware/Synergy-Binaries?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/DEAKSoftware/Synergy-Binaries?style=for-the-badge" />
 Synergy Core|[https://github.com/symless/synergy-core](https://github.com/symless/synergy-core)|<img src="https://img.shields.io/github/stars/symless/synergy-core?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/symless/synergy-core?style=for-the-badge" />
 
