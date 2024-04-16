@@ -62,12 +62,14 @@ Name| Address | Star| Last Update
 -|-|-|-|
 SkyAPM C#/.NET|[github.com/SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet)|<img src="https://img.shields.io/github/stars/SkyAPM/SkyAPM-dotnet?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/SkyAPM/SkyAPM-dotnet?style=for-the-badge" />
 OpenTelemetry .NET|[github.com/open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet)|<img src="https://img.shields.io/github/stars/open-telemetry/opentelemetry-dotnet?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/open-telemetry/opentelemetry-dotnet?style=for-the-badge" />
+Sentry SDK for .NET|[https://github.com/getsentry/sentry-dotnet](https://github.com/getsentry/sentry-dotnet)|<img src="https://img.shields.io/github/stars/getsentry/sentry-dotnet?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/getsentry/sentry-dotnet?style=for-the-badge" />
+
 
 # Configuration Center
 Name| Address | Star| Last Update
 -|-|-|-|
 AgileConfig|[github.com/dotnetcore/AgileConfig](https://github.com/dotnetcore/AgileConfig)|<img src="https://img.shields.io/github/stars/dotnetcore/AgileConfig?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dotnetcore/AgileConfig?style=for-the-badge" />
-﻿Apollo|[github.com/apolloconfig/apollo.net](https://github.com/apolloconfig/apollo.net)|<img src="https://img.shields.io/github/stars/apolloconfig/apollo.net?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/apolloconfig/apollo.net?style=for-the-badge" />
+Apollo|[github.com/apolloconfig/apollo.net](https://github.com/apolloconfig/apollo.net)|<img src="https://img.shields.io/github/stars/apolloconfig/apollo.net?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/apolloconfig/apollo.net?style=for-the-badge" />
 
 # Event Bus
 Name| Address | Star| Last Update
