@@ -5,8 +5,7 @@ Spider|[https://github.com/NaiboWang/EasySpider](https://github.com/NaiboWang/Ea
 Firefly III|[https://github.com/firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)|<img src="https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/firefly-iii/firefly-iii?style=for-the-badge" />
 JumpServer|[https://github.com/jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)|<img src="https://img.shields.io/github/stars/jumpserver/jumpserver?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/jumpserver/jumpserver?style=for-the-badge" />
 1Panel|[https://github.com/1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)|<img src="https://img.shields.io/github/stars/1Panel-dev/1Panel?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/1Panel-dev/1Panel?style=for-the-badge" />
-XXXX|[https://github.com/XXXX](https://github.com/XXXX)|<img src="https://img.shields.io/github/stars/XXXX?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/XXXX?style=for-the-badge" />
-XXXX|[https://github.com/XXXX](https://github.com/XXXX)|<img src="https://img.shields.io/github/stars/XXXX?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/XXXX?style=for-the-badge" />
+Ajenti|[https://github.com/ajenti/ajenti](https://github.com/ajenti/ajenti)|<img src="https://img.shields.io/github/stars/ajenti/ajenti?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ajenti/ajenti?style=for-the-badge" />
 
 # Monitoring Tool
 Name| Respository Address | Star| Last Update
