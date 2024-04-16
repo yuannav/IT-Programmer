@@ -8,7 +8,7 @@ JumpServer|[https://github.com/jumpserver/jumpserver](https://github.com/jumpser
 Ajenti|[https://github.com/ajenti/ajenti](https://github.com/ajenti/ajenti)|<img src="https://img.shields.io/github/stars/ajenti/ajenti?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ajenti/ajenti?style=for-the-badge" />
 listmonk|[https://github.com/knadh/listmonk](https://github.com/knadh/listmonk)|<img src="https://img.shields.io/github/stars/knadh/listmonk?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/knadh/listmonk?style=for-the-badge" />
 restic|[https://github.com/restic/restic](https://github.com/restic/restic)|<img src="https://img.shields.io/github/stars/restic/restic?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/restic/restic?style=for-the-badge" />
-
+Akaunting|[https://github.com/akaunting/akaunting](https://github.com/akaunting/akaunting)|<img src="https://img.shields.io/github/stars/akaunting/akaunting?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/akaunting/akaunting?style=for-the-badge" />
 
 # Monitoring Tool
 Name| Respository Address | Star| Last Update
