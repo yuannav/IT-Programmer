@@ -6,7 +6,7 @@ XApp|[XApp](https://apps.apple.com/cn/app/xapp-%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA
 BetterDisplay|[https://github.com/waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)|<img src="https://img.shields.io/github/stars/waydabber/BetterDisplay?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/waydabber/BetterDisplay?style=for-the-badge" />
 
 
-# Monitor
+# Keyboard & Mouse Sharing
 Name| Address | Star| Last Update
 -|-|-|-|
 Synergy Binaries|[https://github.com/DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries)|<img src="https://img.shields.io/github/stars/DEAKSoftware/Synergy-Binaries?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/DEAKSoftware/Synergy-Binaries?style=for-the-badge" />
