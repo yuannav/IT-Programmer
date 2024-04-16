@@ -2,6 +2,7 @@
 Name| Respository Address | Star| Last Update
 -|-|-|-|
 Spider|[https://github.com/NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)|<img src="https://img.shields.io/github/stars/NaiboWang/EasySpider?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/NaiboWang/EasySpider?style=for-the-badge" />
+Firefly III|[https://github.com/firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)|<img src="https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/firefly-iii/firefly-iii?style=for-the-badge" />
 
 # Monitoring Tool
 Name| Respository Address | Star| Last Update
