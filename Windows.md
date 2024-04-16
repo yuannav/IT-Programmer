@@ -7,6 +7,11 @@ uTools|[https://www.u.tools](https://www.u.tools)|-|-
 Windows Terminal|[https://github.com/microsoft/terminal](https://github.com/microsoft/terminal)|<img src="https://img.shields.io/github/stars/microsoft/terminal?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/microsoft/terminal?style=for-the-badge" />
 
 
+# Web Capturing
+Name| Address | Star| Last Update
+-|-|-|-|
+Fiddler Classic|[Fiddler Classic](https://www.telerik.com/download/fiddler)|-|-
+
 # Monitor
 Name| Address | Star| Last Update
 -|-|-|-|
