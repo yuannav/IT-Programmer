@@ -1,6 +1,7 @@
 Name| Address | Star| Last Update
 -|-|-|-|
 iconfont|[https://www.iconfont.cn](https://www.iconfont.cn/)|-|  
+Volta|[https://github.com/volta-cli/volta](https://github.com/volta-cli/volta)|<img src="https://img.shields.io/github/stars/volta-cli/volta?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/volta-cli/volta?style=for-the-badge" />
 
 # NPM Pegistry Registry
 Name| Address | Star| Last Update
