@@ -17,7 +17,6 @@ MinIO Client SDK for .NET|[https://github.com/minio/minio-dotnet](https://github
 zhontai admin|[https://github.com/zhontai/Admin.Core](https://github.com/zhontai/Admin.Core)|<img src="https://img.shields.io/github/stars/zhontai/Admin.Core?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/zhontai/Admin.Core?style=for-the-badge" />
 WTM|[https://github.com/dotnetcore/WTM](https://github.com/dotnetcore/WTM)|<img src="https://img.shields.io/github/stars/dotnetcore/WTM?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dotnetcore/WTM?style=for-the-badge" />
 Util|[https://github.com/dotnetcore/Util](https://github.com/dotnetcore/Util)|<img src="https://img.shields.io/github/stars/dotnetcore/Util?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dotnetcore/Util?style=for-the-badge" />
-IdentityServer4|[https://github.com/IdentityServer/IdentityServer4](https://github.com/IdentityServer/IdentityServer4)|<img src="https://img.shields.io/github/stars/IdentityServer/IdentityServer4?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/IdentityServer/IdentityServer4?style=for-the-badge" />
 ImageSharp|[https://github.com/SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp)|<img src="https://img.shields.io/github/stars/SixLabors/ImageSharp?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/SixLabors/ImageSharp?style=for-the-badge" />
 
 # OAuth 
