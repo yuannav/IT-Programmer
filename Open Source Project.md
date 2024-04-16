@@ -62,6 +62,12 @@ QingLong|[https://github.com/whyour/qinglong](https://github.com/whyour/qinglong
 # Object Storage
 Name| Respository Address | Star| Last Update
 -|-|-|-|
+ X File Storage|[https://github.com/dromara/x-file-storage](https://github.com/dromara/x-file-storage)|<img src="https://img.shields.io/github/stars/dromara/x-file-storage?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dromara/x-file-storage?style=for-the-badge" />
+Shields IO|[https://github.com/badges/shields](https://github.com/badges/shields)|<img src="https://img.shields.io/github/stars/badges/shields?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/badges/shields?style=for-the-badge" />
+
+# Object Storage
+Name| Respository Address | Star| Last Update
+-|-|-|-|
 MinIO|[https://github.com/minio/minio](https://github.com/minio/minio)|<img src="https://img.shields.io/github/stars/minio/minio?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/minio/minio?style=for-the-badge" />
 
 # Version Manage
@@ -72,7 +78,7 @@ asdf|[https://github.com/asdf-vm/asdf](https://github.com/asdf-vm/asdf)|<img src
 nvm|[https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm)|<img src="https://img.shields.io/github/stars/nvm-sh/nvm?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/nvm-sh/nvm?style=for-the-badge" />
 NVM for Windows|[https://github.com/coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)|<img src="https://img.shields.io/github/stars/coreybutler/nvm-windows?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/coreybutler/nvm-windows?style=for-the-badge" />
 
-# Devops
+# Devops (Git)
 Name| Respository Address | Star| Last Update
 -|-|-|-|
 OneDev|[https://github.com/theonedev/onedev](https://github.com/theonedev/onedev)||<img src="https://img.shields.io/github/stars/theonedev/onedev?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/theonedev/onedev?style=for-the-badge" />
