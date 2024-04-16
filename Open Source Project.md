@@ -76,4 +76,4 @@ NVM for Windows|[https://github.com/coreybutler/nvm-windows](https://github.com/
 名称| 仓库 | Star
 -|-|-|
 OneDev|[https://github.com/theonedev/onedev](https://github.com/theonedev/onedev)|[![GitHub Repo stars](https://img.shields.io/github/stars/theonedev/onedev?style=for-the-badge)](https://github.com/theonedev/onedev/stargazers)
-gitness|[https://github.com/harness/gitness](https://github.com/harness/gitness)|[![GitHub Repo stars](https://img.shields.io/github/stars/harness/gitness?style=for-the-badge)](https://github.com/harness/gitness/stargazers)
+Gitness|[https://github.com/harness/gitness](https://github.com/harness/gitness)|[![GitHub Repo stars](https://img.shields.io/github/stars/harness/gitness?style=for-the-badge)](https://github.com/harness/gitness/stargazers)
