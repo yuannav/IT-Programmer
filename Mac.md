@@ -8,6 +8,11 @@ BetterDisplay|[https://github.com/waydabber/BetterDisplay](https://github.com/wa
 
 # Monitor
 Name| Address | Star| Last Update
+Synergy Binaries|[https://github.com/DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries)|<img src="https://img.shields.io/github/stars/DEAKSoftware/Synergy-Binaries?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/DEAKSoftware/Synergy-Binaries?style=for-the-badge" />
+Synergy Core|[https://github.com/symless/synergy-core](https://github.com/symless/synergy-core)|<img src="https://img.shields.io/github/stars/symless/synergy-core?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/symless/synergy-core?style=for-the-badge" />
+
+# Monitor
+Name| Address | Star| Last Update
 -|-|-|-|
 State|[State](https://apps.apple.com/cn/app/state-cpu-fan-memory-tem/id1472818562?l=en-GB&mt=12)|-|- 
 Stats|[https://github.com//exelban/stats](https://github.com//exelban/stats)|<img src="https://img.shields.io/github/stars/exelban/stats?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/exelban/stats?style=for-the-badge" />
