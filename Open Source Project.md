@@ -59,7 +59,7 @@ Crontab UI|[https://github.com/alseambusher/crontab-ui](https://github.com/alsea
 ComfyUI|[https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)|<img src="https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/comfyanonymous/ComfyUI?style=for-the-badge" />
 QingLong|[https://github.com/whyour/qinglong](https://github.com/whyour/qinglong)|<img src="https://img.shields.io/github/stars/whyour/qinglong?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/whyour/qinglong?style=for-the-badge" />
 
-# Object Storage
+# File
 Name| Respository Address | Star| Last Update
 -|-|-|-|
  X File Storage|[https://github.com/dromara/x-file-storage](https://github.com/dromara/x-file-storage)|<img src="https://img.shields.io/github/stars/dromara/x-file-storage?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dromara/x-file-storage?style=for-the-badge" />
