@@ -1,7 +1,6 @@
 # Windows
 Name| Address | Star| Last Update
 -|-|-|-|
-WeChat QQ TIM 防撤回|[https://github.com/huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)|<img src="https://img.shields.io/github/stars/huiyadanli/RevokeMsgPatcher?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/huiyadanli/RevokeMsgPatcher?style=for-the-badge" />
 uTools|[https://www.u.tools](https://www.u.tools)|-|- 
 文件下载器|[https://github.com/GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)|[![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=for-the-badge)](https://github.com/GopeedLab/gopeed/stargazers)|<img src="https://img.shields.io/github/last-commit/GopeedLab/gopeed?style=for-the-badge" />
 Windows Terminal|[https://github.com/microsoft/terminal](https://github.com/microsoft/terminal)|<img src="https://img.shields.io/github/stars/microsoft/terminal?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/microsoft/terminal?style=for-the-badge" />
