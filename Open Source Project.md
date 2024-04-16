@@ -6,6 +6,9 @@ Firefly III|[https://github.com/firefly-iii/firefly-iii](https://github.com/fire
 JumpServer|[https://github.com/jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)|<img src="https://img.shields.io/github/stars/jumpserver/jumpserver?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/jumpserver/jumpserver?style=for-the-badge" />
 1Panel|[https://github.com/1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)|<img src="https://img.shields.io/github/stars/1Panel-dev/1Panel?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/1Panel-dev/1Panel?style=for-the-badge" />
 Ajenti|[https://github.com/ajenti/ajenti](https://github.com/ajenti/ajenti)|<img src="https://img.shields.io/github/stars/ajenti/ajenti?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ajenti/ajenti?style=for-the-badge" />
+listmonk|[https://github.com/knadh/listmonk](https://github.com/knadh/listmonk)|<img src="https://img.shields.io/github/stars/knadh/listmonk?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/knadh/listmonk?style=for-the-badge" />
+restic|[https://github.com/restic/restic](https://github.com/restic/restic)|<img src="https://img.shields.io/github/stars/restic/restic?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/restic/restic?style=for-the-badge" />
+
 
 # Monitoring Tool
 Name| Respository Address | Star| Last Update
