@@ -8,7 +8,7 @@ Ajenti|[https://github.com/ajenti/ajenti](https://github.com/ajenti/ajenti)|<img
 listmonk|[https://github.com/knadh/listmonk](https://github.com/knadh/listmonk)|<img src="https://img.shields.io/github/stars/knadh/listmonk?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/knadh/listmonk?style=for-the-badge" />
 restic|[https://github.com/restic/restic](https://github.com/restic/restic)|<img src="https://img.shields.io/github/stars/restic/restic?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/restic/restic?style=for-the-badge" />
 
-# 财务软件
+# Financial Software
 Name| Respository Address | Star| Last Update
 -|-|-|-|
 Firefly III|[https://github.com/firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)|<img src="https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/firefly-iii/firefly-iii?style=for-the-badge" />
