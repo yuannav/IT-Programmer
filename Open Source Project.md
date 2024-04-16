@@ -49,7 +49,7 @@ Name| Respository Address | Star| Last Update
 -|-|-|-|
 CasaOS|[https://github.com/IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)|<img src="https://img.shields.io/github/stars/IceWhaleTech/CasaOS?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/IceWhaleTech/CasaOS?style=for-the-badge" />
 
-# Task Scheduling & Timed Task
+# Task Scheduling
 Name| Respository Address | Star| Last Update
 -|-|-|-|
 XXL-JOB|[https://github.com/xuxueli/xxl-job](https://github.com/xuxueli/xxl-job)|<img src="https://img.shields.io/github/stars/xuxueli/xxl-job?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/xuxueli/xxl-job?style=for-the-badge" />
