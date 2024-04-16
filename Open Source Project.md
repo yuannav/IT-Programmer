@@ -62,7 +62,7 @@ QingLong|[https://github.com/whyour/qinglong](https://github.com/whyour/qinglong
 # Object Storage
 Name| Respository Address | Star| Last Update
 -|-|-|-|
-MinIO|[https://github.com/minio/minio](https://github.com/minio/minio)|[![GitHub Repo stars](https://img.shields.io/github/stars/minio/minio?style=for-the-badge)](https://github.com/minio/minio/stargazers)
+MinIO|[https://github.com/minio/minio](https://github.com/minio/minio)|<img src="https://img.shields.io/github/stars/minio/minio?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/minio/minio?style=for-the-badge" />
 
 # Version Manage
 Name| Respository Address | Star| Last Update
