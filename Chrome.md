@@ -9,3 +9,4 @@ User-Agent Switcher|[User-Agent Switcher for Chrome](https://chromewebstore.goog
 Tampermonkey|[Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)|-|-  
 JSONVue|[JSONVue](https://chromewebstore.google.com/detail/chklaanhfefbnpoihckbnefhakgolnmc)|-|-  
 Open Same Tab|[Open Same Tab](https://chromewebstore.google.com/detail/fpkmdincjjgncpbbmeclgbpjmgdehmph?hl=en)|-|-  
+Clean Master|[Clean Master](https://chromewebstore.google.com/detail/clean-master-the-best-chr/eagiakjmjnblliacokhcalebgnhellfi?hl=en)|-|-  
