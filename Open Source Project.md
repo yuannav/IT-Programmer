@@ -30,7 +30,7 @@ Uptime Kuma|[https://github.com/louislam/uptime-kuma](https://github.com/louisla
 HealthChecks|[https://github.com/healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)|<img src="https://img.shields.io/github/stars/healthchecks/healthchecks?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/healthchecks/healthchecks?style=for-the-badge" />
 HertzBeat|[https://github.com/dromara/hertzbeat](https://github.com/dromara/hertzbeat)|<img src="https://img.shields.io/github/stars/dromara/hertzbeat?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dromara/hertzbeat?style=for-the-badge" />
 WGCLOUD|[https://github.com/tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud)|<img src="https://img.shields.io/github/stars/tianshiyeben/wgcloud?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/tianshiyeben/wgcloud?style=for-the-badge" />
-
+Jpom|[https://github.com/dromara/Jpom](https://github.com/dromara/Jpom)|<img src="https://img.shields.io/github/stars/dromara/Jpom?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dromara/Jpom?style=for-the-badge" />
 
 
 # Video Downloader
