@@ -5,7 +5,14 @@ uTools|[https://www.u.tools](https://www.u.tools)|-|-
 Windows Terminal|[https://github.com/microsoft/terminal](https://github.com/microsoft/terminal)|<img src="https://img.shields.io/github/stars/microsoft/terminal?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/microsoft/terminal?style=for-the-badge" />
 图拉丁吧工具箱|[图拉丁吧工具箱](https://www.tbtool.cn)|-|-
 LiveRecorder|[https://github.com/ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder)|<img src="https://img.shields.io/github/stars/ihmily/DouyinLiveRecorder?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ihmily/DouyinLiveRecorder?style=for-the-badge" />
+
+
+# Dock Bar
+Name| Address | Star| Last Update
+-|-|-|-|
 TranslucentTB|[https://github.com/TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)|<img src="https://img.shields.io/github/stars/TranslucentTB/TranslucentTB?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/TranslucentTB/TranslucentTB?style=for-the-badge" />
+nexus|[https://www.winstep.net/nexus.asp](https://www.winstep.net/nexus.asp)|-|-
+s
 
 
 # Web Capturing
