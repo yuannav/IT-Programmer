@@ -32,6 +32,7 @@ HertzBeat|[https://github.com/dromara/hertzbeat](https://github.com/dromara/hert
 WGCLOUD|[https://github.com/tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud)|<img src="https://img.shields.io/github/stars/tianshiyeben/wgcloud?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/tianshiyeben/wgcloud?style=for-the-badge" />
 Jpom|[https://github.com/dromara/Jpom](https://github.com/dromara/Jpom)|<img src="https://img.shields.io/github/stars/dromara/Jpom?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dromara/Jpom?style=for-the-badge" />
 Glances|[https://github.com/nicolargo/glances](https://github.com/nicolargo/glances)|<img src="https://img.shields.io/github/stars/nicolargo/glances?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/nicolargo/glances?style=for-the-badge" />
+GoAccess|[https://github.com/allinurl/goaccess](https://github.com/allinurl/goaccess)|<img src="https://img.shields.io/github/stars/allinurl/goaccess?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/allinurl/goaccess?style=for-the-badge" />
 
 
 # Video Downloader
