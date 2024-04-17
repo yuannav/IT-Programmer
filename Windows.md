@@ -11,9 +11,7 @@ LiveRecorder|[https://github.com/ihmily/DouyinLiveRecorder](https://github.com/i
 Name| Address | Star| Last Update
 -|-|-|-|
 TranslucentTB|[https://github.com/TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)|<img src="https://img.shields.io/github/stars/TranslucentTB/TranslucentTB?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/TranslucentTB/TranslucentTB?style=for-the-badge" />
-nexus|[https://www.winstep.net/nexus.asp](https://www.winstep.net/nexus.asp)|-|-
-s
-
+Nexus|[https://www.winstep.net/nexus.asp](https://www.winstep.net/nexus.asp)|-|-
 
 # Web Capturing
 Name| Address | Star| Last Update
