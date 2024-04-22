@@ -12,5 +12,4 @@ k8s_PaaS|[https://github.com/ben1234560/k8s_PaaS](https://github.com/ben1234560/
 Name| Address | Star| Last Update
 -|-|-|-|
 dockge|[https://github.com/louislam/dockge](https://github.com/louislam/dockge)|<img src="https://img.shields.io/github/stars/louislam/dockge?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/louislam/dockge?style=for-the-badge" />
-
-
+LazyDocker|[https://github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)|<img src="https://img.shields.io/github/stars/jesseduffield/lazydocker?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/jesseduffield/lazydocker?style=for-the-badge" />
