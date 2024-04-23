@@ -11,6 +11,8 @@ Name| Address | Star| Last Update
 dotenv|[https://github.com/motdotla/dotenv](https://github.com/motdotla/dotenv)|<img src="https://img.shields.io/github/stars/motdotla/dotenv?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/motdotla/dotenv?style=for-the-badge" />
 cross-env|[https://github.com/kentcdodds/cross-env](https://github.com/kentcdodds/cross-env)|<img src="https://img.shields.io/github/stars/kentcdodds/cross-env?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/kentcdodds/cross-env?style=for-the-badge" />
 Express|[https://github.com/expressjs/express](https://github.com/expressjs/express)|<img src="https://img.shields.io/github/stars/expressjs/express?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/expressjs/express?style=for-the-badge" />
+Yarn|[https://github.com/yarnpkg/berry](https://github.com/yarnpkg/berry)|<img src="https://img.shields.io/github/stars/yarnpkg/berry?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/yarnpkg/berry?style=for-the-badge" />
+
 
 # NPM Private Registry
 Name| Address | Star| Last Update
