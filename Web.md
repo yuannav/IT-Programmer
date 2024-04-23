@@ -8,7 +8,7 @@ Name| Address | Star| Last Update
 -|-|-|-|
 dotenv|[https://github.com/motdotla/dotenv](https://github.com/motdotla/dotenv)|<img src="https://img.shields.io/github/stars/motdotla/dotenv?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/motdotla/dotenv?style=for-the-badge" />
 
-# NPM Pegistry Registry
+# NPM Private Registry
 Name| Address | Star| Last Update
 -|-|-|-|
 Verdaccio|[https://github.com/verdaccio/verdaccio](https://github.com/verdaccio/verdaccio)|<img src="https://img.shields.io/github/stars/verdaccio/verdaccio?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/verdaccio/verdaccio?style=for-the-badge" />
