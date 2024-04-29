@@ -6,6 +6,7 @@ BetterDisplay|[https://github.com/waydabber/BetterDisplay](https://github.com/wa
 KeepingYouAwake|[https://github.com/newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)|<img src="https://img.shields.io/github/stars/newmarcel/KeepingYouAwake?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/newmarcel/KeepingYouAwake?style=for-the-badge" />
 BLEUnlock|[https://github.com/ts1/BLEUnlock](https://github.com/ts1/BLEUnlock)|<img src="https://img.shields.io/github/stars/ts1/BLEUnlock?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ts1/BLEUnlock?style=for-the-badge" />
 DevToysMac|[https://github.com/DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac)|<img src="https://img.shields.io/github/stars/DevToys-app/DevToysMac?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/DevToys-app/DevToysMac?style=for-the-badge" />
+Spacedrive|[https://github.com/spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)|<img src="https://img.shields.io/github/stars/spacedriveapp/spacedrive?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/spacedriveapp/spacedrive?style=for-the-badge" />
 
 # App Manage
 Name| Address | Star| Last Update

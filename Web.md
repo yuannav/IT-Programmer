@@ -2,7 +2,7 @@ Name| Address | Star| Last Update
 -|-|-|-|
 iconfont|[https://www.iconfont.cn](https://www.iconfont.cn/)|-|  
 Volta|[https://github.com/volta-cli/volta](https://github.com/volta-cli/volta)|<img src="https://img.shields.io/github/stars/volta-cli/volta?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/volta-cli/volta?style=for-the-badge" />
-
+pino|[https://github.com/pinojs/pino](https://github.com/pinojs/pino)|<img src="https://img.shields.io/github/stars/pinojs/pino?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/pinojs/pino?style=for-the-badge" />
 
 
 # NPM Package
