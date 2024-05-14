@@ -11,13 +11,11 @@ muffet|[https://github.com/raviqqe/muffet](https://github.com/raviqqe/muffet)|<i
 Focalboard|[https://github.com/mattermost/focalboard](https://github.com/mattermost/focalboard)|<img src="https://img.shields.io/github/stars/mattermost/focalboard?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mattermost/focalboard?style=for-the-badge" />
 MyIP|[https://github.com/jason5ng32/MyIP](https://github.com/jason5ng32/MyIP)|<img src="https://img.shields.io/github/stars/jason5ng32/MyIP?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/jason5ng32/MyIP?style=for-the-badge" />
 
-
 # Local Mail Server
 Name| Respository Address | Star| Last Update
 -|-|-|-|
 Mailpit|[https://github.com/axllent/mailpit](https://github.com/axllent/mailpit)|<img src="https://img.shields.io/github/stars/axllent/mailpit?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/axllent/mailpit?style=for-the-badge" />
 MailHog|[https://github.com/mailhog/MailHog](https://github.com/mailhog/MailHog)|<img src="https://img.shields.io/github/stars/mailhog/MailHog?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mailhog/MailHog?style=for-the-badge" />
-
 
 # Financial Software
 Name| Respository Address | Star| Last Update
@@ -36,7 +34,6 @@ Jpom|[https://github.com/dromara/Jpom](https://github.com/dromara/Jpom)|<img src
 Glances|[https://github.com/nicolargo/glances](https://github.com/nicolargo/glances)|<img src="https://img.shields.io/github/stars/nicolargo/glances?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/nicolargo/glances?style=for-the-badge" />
 GoAccess|[https://github.com/allinurl/goaccess](https://github.com/allinurl/goaccess)|<img src="https://img.shields.io/github/stars/allinurl/goaccess?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/allinurl/goaccess?style=for-the-badge" />
 
-
 # Video Downloader
 Name| Respository Address | Star| Last Update
 -|-|-|-|
@@ -48,7 +45,6 @@ Name| Respository Address | Star| Last Update
 AI Cover|[https://github.com/all-in-aigc/aicover](https://github.com/all-in-aigc/aicover)|<img src="https://img.shields.io/github/stars/all-in-aigc/aicover?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/all-in-aigc/aicover?style=for-the-badge" />
 WeChat QQ TIM 防撤回|[https://github.com/huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)|<img src="https://img.shields.io/github/stars/huiyadanli/RevokeMsgPatcher?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/huiyadanli/RevokeMsgPatcher?style=for-the-badge" />
 WechatExporter|[https://github.com/BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter)|<img src="https://img.shields.io/github/stars/BlueMatthew/WechatExporter?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/BlueMatthew/WechatExporter?style=for-the-badge" />
-
 
 # Build Site
 Name| Respository Address | Star| Last Update
