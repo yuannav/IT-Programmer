@@ -95,6 +95,8 @@ Name| Address | Star| Last Update
 -|-|-|-|
 SqlSugar|[github.com/DotNetNext/SqlSugar](https://github.com/DotNetNext/SqlSugar)|<img src="https://img.shields.io/github/stars/DotNetNext/SqlSugar?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/DotNetNext/SqlSugar?style=for-the-badge" />
 SmartSql|[github.com/dotnetcore/SmartSql](https://github.com/dotnetcore/SmartSql)|<img src="https://img.shields.io/github/stars/dotnetcore/SmartSql?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dotnetcore/SmartSql?style=for-the-badge" />
+Dapper|[https://github.com/DapperLib/Dapper](https://github.com/DapperLib/Dapper)|<img src="https://img.shields.io/github/stars/DapperLib/Dapper?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/DapperLib/Dapper?style=for-the-badge" />
+
 
 # Payment
 Name| Address | Star| Last Update
