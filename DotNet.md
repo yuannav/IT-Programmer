@@ -64,6 +64,11 @@ Name| Address | Star| Last Update
 Flurl|[https://github.com/tmenier/Flurl](https://github.com/tmenier/Flurl)|<img src="https://img.shields.io/github/stars/tmenier/Flurl?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/tmenier/Flurl?style=for-the-badge" />
 RestSharp|[https://github.com/restsharp/RestSharp](https://github.com/restsharp/RestSharp)|<img src="https://img.shields.io/github/stars/restsharp/RestSharp?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/restsharp/RestSharp?style=for-the-badge" />
 
+# JSON
+Name| Address | Star| Last Update
+-|-|-|-|
+Newtonsoft.Json|[https://github.com/JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)|<img src="https://img.shields.io/github/stars/JamesNK/Newtonsoft.Json?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/JamesNK/Newtonsoft.Json?style=for-the-badge" />
+
 # IM
 Name| Address | Star| Last Update
 -|-|-|-|
