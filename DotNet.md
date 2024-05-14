@@ -46,11 +46,11 @@ Name| Address | Star| Last Update
 SqlSugar|[github.com/DotNetNext/SqlSugar](https://github.com/DotNetNext/SqlSugar)|<img src="https://img.shields.io/github/stars/DotNetNext/SqlSugar?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/DotNetNext/SqlSugar?style=for-the-badge" />
 SmartSql|[github.com/dotnetcore/SmartSql](https://github.com/dotnetcore/SmartSql)|<img src="https://img.shields.io/github/stars/dotnetcore/SmartSql?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dotnetcore/SmartSql?style=for-the-badge" />
 
-# Scheduled Task
+# Task Scheduling
 Name| Address | Star| Last Update
 -|-|-|-|
 Hangfire|[github.com/HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire)|<img src="https://img.shields.io/github/stars/HangfireIO/Hangfire?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/HangfireIO/Hangfire?style=for-the-badge" />
-Quartz.NET|[github.com/quartznet/quartznet](https://github.com/quartznet/quartznet)|<img src="https://img.shields.io/github/stars/HangfireIO/Hangfire?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/quartznet/quartznet?style=for-the-badge" />
+Quartz.NET|[github.com/quartznet/quartznet](https://github.com/quartznet/quartznet)|<img src="https://img.shields.io/github/stars/quartznet/quartznet?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/quartznet/quartznet?style=for-the-badge" />
 
 # Office
 Name| Address | Star| Last Update
