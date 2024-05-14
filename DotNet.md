@@ -58,11 +58,22 @@ Name| Address | Star| Last Update
 -|-|-|-|
 ImageSharp|[https://github.com/SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp)|<img src="https://img.shields.io/github/stars/SixLabors/ImageSharp?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/SixLabors/ImageSharp?style=for-the-badge" />
 
+# HTTP Client
+Flurl|[https://github.com/tmenier/Flurl](https://github.com/tmenier/Flurl)|<img src="https://img.shields.io/github/stars/tmenier/Flurl?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/tmenier/Flurl?style=for-the-badge" />
+RestSharp|[https://github.com/restsharp/RestSharp](https://github.com/restsharp/RestSharp)|<img src="https://img.shields.io/github/stars/restsharp/RestSharp?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/restsharp/RestSharp?style=for-the-badge" />
+
 # IM
 Name| Address | Star| Last Update
 -|-|-|-|
 SignalR|[https://github.com/SignalR/SignalR](https://github.com/SignalR/SignalR)|<img src="https://img.shields.io/github/stars/SignalR/SignalR?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/SignalR/SignalR?style=for-the-badge" />
 FreeIM|[github.com/2881099/FreeIM](https://github.com/2881099/FreeIM)|<img src="https://img.shields.io/github/stars/2881099/FreeIM?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/2881099/FreeIM?style=for-the-badge" />
+
+# Log
+Name| Address | Star| Last Update
+-|-|-|-|
+NLog|[https://github.com/NLog/NLog](https://github.com/NLog/NLog)|<img src="https://img.shields.io/github/stars/NLog/NLog?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/NLog/NLog?style=for-the-badge" />
+Log4|[https://github.com/apache/logging-log4net](https://github.com/apache/logging-log4net)|<img src="https://img.shields.io/github/stars/apache/logging-log4net?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/apache/logging-log4net?style=for-the-badge" />
+
 
 # OAuth 
 Name| Address | Star| Last Update
