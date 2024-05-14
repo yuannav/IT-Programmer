@@ -57,6 +57,7 @@ Name| Address | Star| Last Update
 -|-|-|-|
 QuestPDF|[github.com/QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF)|<img src="https://img.shields.io/github/stars/QuestPDF/QuestPDF?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/QuestPDF/QuestPDF?style=for-the-badge" />
 NPOI|[github.com/dotnetcore/NPOI](https://github.com/dotnetcore/NPOI)|<img src="https://img.shields.io/github/stars/dotnetcore/NPOI?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dotnetcore/NPOI?style=for-the-badge" />
+MiniExcel|[https://github.com/mini-software/MiniExcel](https://github.com/mini-software/MiniExcel)|<img src="https://img.shields.io/github/stars/mini-software/MiniExcel?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mini-software/MiniExcel?style=for-the-badge" />
 
 # APM
 Name| Address | Star| Last Update
