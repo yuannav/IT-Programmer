@@ -10,3 +10,4 @@ Tampermonkey|[Tampermonkey](https://chromewebstore.google.com/detail/tampermonke
 JSONVue|[JSONVue](https://chromewebstore.google.com/detail/chklaanhfefbnpoihckbnefhakgolnmc)|-|-  
 Open Same Tab|[Open Same Tab](https://chromewebstore.google.com/detail/fpkmdincjjgncpbbmeclgbpjmgdehmph?hl=en)|-|-  
 Clean Master|[Clean Master](https://chromewebstore.google.com/detail/clean-master-the-best-chr/eagiakjmjnblliacokhcalebgnhellfi?hl=en)|-|-  
+Fake Filler|[Fake Filler](https://chromewebstore.google.com/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo)|-|-  
