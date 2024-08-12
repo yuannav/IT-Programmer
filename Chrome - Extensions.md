@@ -1,4 +1,3 @@
-# Chrome Extension
 Name| Address | Star| Last Update
 -|-|-|-|
 ChromeAppHeroes|[https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)|<img src="https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/zhaoolee/ChromeAppHeroes?style=for-the-badge" />
@@ -11,3 +10,4 @@ JSONVue|[JSONVue](https://chromewebstore.google.com/detail/chklaanhfefbnpoihckbn
 Open Same Tab|[Open Same Tab](https://chromewebstore.google.com/detail/fpkmdincjjgncpbbmeclgbpjmgdehmph?hl=en)|-|-  
 Clean Master|[Clean Master](https://chromewebstore.google.com/detail/clean-master-the-best-chr/eagiakjmjnblliacokhcalebgnhellfi?hl=en)|-|-  
 Fake Filler|[Fake Filler](https://chromewebstore.google.com/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo)|-|-  
+Better History|[Better History](https://chromewebstore.google.com/detail/better-history/egehpkpgpgooebopjihjmnpejnjafefi?hl=en)|-|-  
