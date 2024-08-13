@@ -1,4 +1,3 @@
-# Extension
 Name| Address | Star| Last Update
 -|-|-|-|
 Import Cost|[https://github.com/wix/import-cost](https://github.com/wix/import-cost)|<img src="https://img.shields.io/github/stars/wix/import-cost?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/wix/import-cost?style=for-the-badge" />
