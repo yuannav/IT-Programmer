@@ -18,6 +18,7 @@ Nexus|[https://www.winstep.net/nexus.asp](https://www.winstep.net/nexus.asp)|-|-
 Name| Address | Star| Last Update
 -|-|-|-|
 Fiddler Classic|[Fiddler Classic](https://www.telerik.com/download/fiddler)|-|-
+Wireshark|[Wireshark](https://www.wireshark.org/download.html)|-|-
 network_proxy_flutter|[https://github.com/wanghongenpin/network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)|<img src="https://img.shields.io/github/stars/wanghongenpin/network_proxy_flutter?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/wanghongenpin/network_proxy_flutter?style=for-the-badge" />
 
 # Monitor
