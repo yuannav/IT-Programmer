@@ -45,7 +45,7 @@ VMware Workstation Player|[VMware Workstation Player 17](https://customerconnect
 Name| Address | Star| Last Update
 -|-|-|-|
 Fiddler Classic|[Fiddler Classic](https://www.telerik.com/download/fiddler)|-|-
-Wireshark|[Wireshark](https://www.wireshark.org/download.html)|-|-
+Wireshark|[https://github.com/wireshark/wireshark](https://github.com/wireshark/wireshark)|<img src="https://img.shields.io/github/stars/wireshark/wireshark?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/wireshark/wireshark?style=for-the-badge" />
 network_proxy_flutter|[https://github.com/wanghongenpin/network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)|<img src="https://img.shields.io/github/stars/wanghongenpin/network_proxy_flutter?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/wanghongenpin/network_proxy_flutter?style=for-the-badge" />
 
 
