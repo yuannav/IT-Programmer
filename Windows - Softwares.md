@@ -4,7 +4,6 @@ uTools|[https://www.u.tools](https://www.u.tools)|-|-
 文件下载器|[https://github.com/GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)|[![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=for-the-badge)](https://github.com/GopeedLab/gopeed/stargazers)|<img src="https://img.shields.io/github/last-commit/GopeedLab/gopeed?style=for-the-badge" />
 Windows Terminal|[https://github.com/microsoft/terminal](https://github.com/microsoft/terminal)|<img src="https://img.shields.io/github/stars/microsoft/terminal?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/microsoft/terminal?style=for-the-badge" />
 图拉丁吧工具箱|[图拉丁吧工具箱](https://www.tbtool.cn)|-|-
-LiveRecorder|[https://github.com/ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder)|<img src="https://img.shields.io/github/stars/ihmily/DouyinLiveRecorder?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ihmily/DouyinLiveRecorder?style=for-the-badge" />
 Spacedrive|[https://github.com/spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)|<img src="https://img.shields.io/github/stars/spacedriveapp/spacedrive?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/spacedriveapp/spacedrive?style=for-the-badge" />
 LightBulb|[https://github.com/Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb)|<img src="https://img.shields.io/github/stars/Tyrrrz/LightBulb?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Tyrrrz/LightBulb?style=for-the-badge" />
 
@@ -33,6 +32,7 @@ Name| Address | Star| Last Update
 -|-|-|-|
 ScreenToGif|[https://github.com/NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif)|<img src="https://img.shields.io/github/stars/NickeManarin/ScreenToGif?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/NickeManarin/ScreenToGif?style=for-the-badge" />
 PicPick|[PicPick](https://picpick.app/en/)|-|-
+LiveRecorder|[https://github.com/ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder)|<img src="https://img.shields.io/github/stars/ihmily/DouyinLiveRecorder?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ihmily/DouyinLiveRecorder?style=for-the-badge" />
 
 # Virtual Machine
 Name| Address | Star| Last Update
