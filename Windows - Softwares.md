@@ -14,12 +14,12 @@ Name| Address | Star| Last Update
 TranslucentTB|[https://github.com/TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)|<img src="https://img.shields.io/github/stars/TranslucentTB/TranslucentTB?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/TranslucentTB/TranslucentTB?style=for-the-badge" />
 Nexus|[https://www.winstep.net/nexus.asp](https://www.winstep.net/nexus.asp)|-|-
 
-# Web Capturing
+# Keyboard & Mouse Sharing
 Name| Address | Star| Last Update
 -|-|-|-|
-Fiddler Classic|[Fiddler Classic](https://www.telerik.com/download/fiddler)|-|-
-Wireshark|[Wireshark](https://www.wireshark.org/download.html)|-|-
-network_proxy_flutter|[https://github.com/wanghongenpin/network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)|<img src="https://img.shields.io/github/stars/wanghongenpin/network_proxy_flutter?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/wanghongenpin/network_proxy_flutter?style=for-the-badge" />
+Synergy Binaries|[https://github.com/DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries)|<img src="https://img.shields.io/github/stars/DEAKSoftware/Synergy-Binaries?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/DEAKSoftware/Synergy-Binaries?style=for-the-badge" />
+Synergy Core|[https://github.com/symless/synergy-core](https://github.com/symless/synergy-core)|<img src="https://img.shields.io/github/stars/symless/synergy-core?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/symless/synergy-core?style=for-the-badge" />
+barrier|[https://github.com/debauchee/barrier](https://github.com/debauchee/barrier)|<img src="https://img.shields.io/github/stars/debauchee/barrier?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/debauchee/barrier?style=for-the-badge" />
 
 # Monitor
 Name| Address | Star| Last Update
@@ -35,14 +35,20 @@ Hyper-V|[enable-hyper-v](https://learn.microsoft.com/en-us/virtualization/hyper-
 VMware Workstation Pro|[VMware Workstation Pro 17](https://customerconnect.vmware.com/cn/downloads/info/slug/desktop_end_user_computing/vmware_workstation_pro/17_0)|-|-
 VMware Workstation Player|[VMware Workstation Player 17](https://customerconnect.vmware.com/cn/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/17_0)|-|-
 
-# Keyboard & Mouse Sharing
-Name| Address | Star| Last Update
--|-|-|-|
-Synergy Binaries|[https://github.com/DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries)|<img src="https://img.shields.io/github/stars/DEAKSoftware/Synergy-Binaries?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/DEAKSoftware/Synergy-Binaries?style=for-the-badge" />
-Synergy Core|[https://github.com/symless/synergy-core](https://github.com/symless/synergy-core)|<img src="https://img.shields.io/github/stars/symless/synergy-core?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/symless/synergy-core?style=for-the-badge" />
-barrier|[https://github.com/debauchee/barrier](https://github.com/debauchee/barrier)|<img src="https://img.shields.io/github/stars/debauchee/barrier?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/debauchee/barrier?style=for-the-badge" />
-
 # Screenshot
 Name| Address | Star| Last Update
 -|-|-|-|
 ScreenToGif|[https://github.com/NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif)|<img src="https://img.shields.io/github/stars/NickeManarin/ScreenToGif?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/NickeManarin/ScreenToGif?style=for-the-badge" />
+PicPick|[PicPick](https://picpick.app/en/)|-|-
+
+# Web Capturing
+Name| Address | Star| Last Update
+-|-|-|-|
+Fiddler Classic|[Fiddler Classic](https://www.telerik.com/download/fiddler)|-|-
+Wireshark|[Wireshark](https://www.wireshark.org/download.html)|-|-
+network_proxy_flutter|[https://github.com/wanghongenpin/network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)|<img src="https://img.shields.io/github/stars/wanghongenpin/network_proxy_flutter?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/wanghongenpin/network_proxy_flutter?style=for-the-badge" />
+
+
+
+
+
