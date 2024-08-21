@@ -87,10 +87,11 @@ ComfyUI|[https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanon
 QingLong|[https://github.com/whyour/qinglong](https://github.com/whyour/qinglong)|<img src="https://img.shields.io/github/stars/whyour/qinglong?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/whyour/qinglong?style=for-the-badge" />
 
 # File
-Name| Respository Address | Star| Last Update
--|-|-|-|
-X File Storage|[https://github.com/dromara/x-file-storage](https://github.com/dromara/x-file-storage)|<img src="https://img.shields.io/github/stars/dromara/x-file-storage?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dromara/x-file-storage?style=for-the-badge" />
-Shields IO|[https://github.com/badges/shields](https://github.com/badges/shields)|<img src="https://img.shields.io/github/stars/badges/shields?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/badges/shields?style=for-the-badge" />
+Name| Respository Address | Star| Last Update| Desc
+-|-|-|-|-|
+X File Storage|[https://github.com/dromara/x-file-storage](https://github.com/dromara/x-file-storage)|<img src="https://img.shields.io/github/stars/dromara/x-file-storage?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dromara/x-file-storage?style=for-the-badge" />|
+Shields IO|[https://github.com/badges/shields](https://github.com/badges/shields)|<img src="https://img.shields.io/github/stars/badges/shields?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/badges/shields?style=for-the-badge" />| 
+Dufs|[https://github.com/sigoden/dufs](https://github.com/sigoden/dufs)|<img src="https://img.shields.io/github/stars/sigoden/dufs?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/sigoden/dufs?style=for-the-badge" />| File Server
 
 # Object Storage
 Name| Respository Address | Star| Last Update
