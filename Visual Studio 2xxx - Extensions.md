@@ -1,6 +1,6 @@
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-CodeMaidVS2022|[SteveCadwallader.CodeMaidVS2022](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaidVS2022)| | | Auto Code Format
+CodeMaid|[CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)| | | Auto Code Format
 Magical C# Debugging - Ozcode|[Magical C# Debugging - Ozcode](https://marketplace.visualstudio.com/items?itemName=CodeValueLtd.OzCode)| | |
 Dotfuscator |[Dotfuscator ](https://marketplace.visualstudio.com/items?itemName=PreEmptiveSolutions.NETObfuscator-Dotfuscator)| | |
 Image Optimizer |[Image Optimizer ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImageOptimizer64bit)| | |
