@@ -3,7 +3,7 @@ Name| Address | Star| Last Update| Desc
 Authenticator|[Authenticator](https://chromewebstore.google.com/detail/bhghoamapcdpbohphigoooaddinpkbai)|-|-|-  
 Auto Refresh Plus|[Auto Refresh Plus](https://chromewebstore.google.com/detail/hgeljhfekpckiiplhkigfehkdpldcggm)|-|-|-
 Better History|[Better History](https://chromewebstore.google.com/detail/better-history/egehpkpgpgooebopjihjmnpejnjafefi?hl=en)|-|-|-
-ChromeAppHeroes|[https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)|<img src="https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/zhaoolee/ChromeAppHeroes?style=for-the-badge" />
+ChromeAppHeroes|[https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)|<img src="https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/zhaoolee/ChromeAppHeroes?style=for-the-badge" />|-
 Clean Master|[Clean Master](https://chromewebstore.google.com/detail/clean-master-the-best-chr/eagiakjmjnblliacokhcalebgnhellfi?hl=en)|-|-|-
 Datalayer Checker|[Datalayer Checker](https://chromewebstore.google.com/detail/ffljdddodmkedhkcjhpmdajhjdbkogke)|-|-  |-
 EditThisCookie|[EditThisCookie](https://chromewebstore.google.com/detail/fngmhnnpilhplaeedifhccceomclgfbg?hl=en)|-|-  |-
