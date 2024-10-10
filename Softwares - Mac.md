@@ -9,10 +9,10 @@ DevToysMac|[https://github.com/DevToys-app/DevToysMac](https://github.com/DevToy
 Spacedrive|[https://github.com/spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)|<img src="https://img.shields.io/github/stars/spacedriveapp/spacedrive?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/spacedriveapp/spacedrive?style=for-the-badge" />
 
 # App Manage
-Name| Address | Star| Last Update｜Desc
--|-|-|-|-|-|
-Applite|[https://github.com/milanvarady/Applite](https://github.com/milanvarady/Applite)|<img src="https://img.shields.io/github/stars/milanvarady/Applite?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/milanvarady/Applite?style=for-the-badge" />|-
-XApp|[XApp](https://apps.apple.com/cn/app/xapp-%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%AE%8C%E5%85%A8%E5%8D%B8%E8%BD%BD%E6%B8%85%E7%90%86%E4%B8%93%E5%AE%B6/id6473684385?mt=12)|-|-| Uninstall App
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Applite|[https://github.com/milanvarady/Applite](https://github.com/milanvarady/Applite)|<img src="https://img.shields.io/github/stars/milanvarady/Applite?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/milanvarady/Applite?style=for-the-badge" /> |-
+XApp|[XApp](https://apps.apple.com/cn/app/xapp-%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%AE%8C%E5%85%A8%E5%8D%B8%E8%BD%BD%E6%B8%85%E7%90%86%E4%B8%93%E5%AE%B6/id6473684385?mt=12)|-|-|Uninstall App
 
 # Keyboard&Mouse Sharing
 Name| Address | Star| Last Update
