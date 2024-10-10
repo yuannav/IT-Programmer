@@ -56,7 +56,7 @@ Hyper-V|[enable-hyper-v](https://learn.microsoft.com/en-us/virtualization/hyper-
 VMware Workstation Pro|[VMware Workstation Pro 17](https://customerconnect.vmware.com/cn/downloads/info/slug/desktop_end_user_computing/vmware_workstation_pro/17_0)|-|-
 VMware Workstation Player|[VMware Workstation Player 17](https://customerconnect.vmware.com/cn/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/17_0)|-|-
 
-# Web Capturing
+# Capture Packet
 Name| Address | Star| Last Update
 -|-|-|-|
 Fiddler Classic|[Fiddler Classic](https://www.telerik.com/download/fiddler)|-|-
