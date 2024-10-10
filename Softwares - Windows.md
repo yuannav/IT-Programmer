@@ -11,6 +11,14 @@ Name| Address | Star| Last Update
 TranslucentTB|[https://github.com/TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)|<img src="https://img.shields.io/github/stars/TranslucentTB/TranslucentTB?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/TranslucentTB/TranslucentTB?style=for-the-badge" />
 Nexus|[https://www.winstep.net/nexus.asp](https://www.winstep.net/nexus.asp)|-|-
 
+# Disk Tool
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+TreeSize Free|[https://apps.microsoft.com/detail/xp9m26rsclnt88](https://apps.microsoft.com/detail/xp9m26rsclnt88)|-|-|-
+DiskGenius|[https://www.diskgenius.com](https://www.diskgenius.com)|-|-|-
+CrystalDiskInfo|[https://crystalmark.info](https://crystalmark.info)|-|-|-
+
+
 # File Transfer
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
