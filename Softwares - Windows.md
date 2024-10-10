@@ -16,7 +16,7 @@ Name| Address | Star| Last Update
 -|-|-|-|
 TortoiseGit|[https://tortoisegit.org](https://tortoisegit.org/)|-|-
 
-# Keyboard & Mouse Sharing
+# Keyboard&Mouse Sharing
 Name| Address | Star| Last Update
 -|-|-|-|
 Synergy Binaries|[https://github.com/DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries)|<img src="https://img.shields.io/github/stars/DEAKSoftware/Synergy-Binaries?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/DEAKSoftware/Synergy-Binaries?style=for-the-badge" />
