@@ -12,6 +12,26 @@ Focalboard|[https://github.com/mattermost/focalboard](https://github.com/matterm
 MyIP|[https://github.com/jason5ng32/MyIP](https://github.com/jason5ng32/MyIP)|<img src="https://img.shields.io/github/stars/jason5ng32/MyIP?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/jason5ng32/MyIP?style=for-the-badge" />
 JSON Crack|[https://github.com/AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)|<img src="https://img.shields.io/github/stars/AykutSarac/jsoncrack.com?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AykutSarac/jsoncrack.com?style=for-the-badge" />
 
+# Build Site
+Name| Respository Address | Star| Last Update
+-|-|-|-|
+Halo|[https://github.com/halo-dev/halo](https://github.com/halo-dev/halo)|<img src="https://img.shields.io/github/stars/halo-dev/halo?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/halo-dev/halo?style=for-the-badge" />
+Hexo|[https://github.com/hexojs/hexo](https://github.com/hexojs/hexo)|<img src="https://img.shields.io/github/stars/hexojs/hexo?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/hexojs/hexo?style=for-the-badge" />
+
+# Devops (Git)
+Name| Respository Address | Star| Last Update
+-|-|-|-|
+OneDev|[https://github.com/theonedev/onedev](https://github.com/theonedev/onedev)|<img src="https://img.shields.io/github/stars/theonedev/onedev?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/theonedev/onedev?style=for-the-badge" />
+Gitness|[https://github.com/harness/gitness](https://github.com/harness/gitness)|<img src="https://img.shields.io/github/stars/harness/gitness?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/harness/gitness?style=for-the-badge" />
+Gitea|[https://github.com/go-gitea/gitea](https://github.com/go-gitea/gitea)|<img src="https://img.shields.io/github/stars/go-gitea/gitea?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/go-gitea/gitea?style=for-the-badge" />
+Walle Web|[https://github.com/meolu/walle-web](https://github.com/meolu/walle-web)|<img src="https://img.shields.io/github/stars/meolu/walle-web?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/meolu/walle-web?style=for-the-badge" />
+
+# EMail Server
+Name| Respository Address | Star| Last Update
+-|-|-|-|
+Mailpit|[https://github.com/axllent/mailpit](https://github.com/axllent/mailpit)|<img src="https://img.shields.io/github/stars/axllent/mailpit?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/axllent/mailpit?style=for-the-badge" />
+MailHog|[https://github.com/mailhog/MailHog](https://github.com/mailhog/MailHog)|<img src="https://img.shields.io/github/stars/mailhog/MailHog?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mailhog/MailHog?style=for-the-badge" />
+
 
 # File
 Name| Respository Address | Star| Last Update| Desc
@@ -21,17 +41,20 @@ Shields IO|[https://github.com/badges/shields](https://github.com/badges/shields
 Dufs|[https://github.com/sigoden/dufs](https://github.com/sigoden/dufs)|<img src="https://img.shields.io/github/stars/sigoden/dufs?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/sigoden/dufs?style=for-the-badge" />| File Server
 Stirling PDF|[https://github.com/Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)|<img src="https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Stirling-Tools/Stirling-PDF?style=for-the-badge" />| PDF Tool
 
-# Local Mail Server
+## File Storage
 Name| Respository Address | Star| Last Update
 -|-|-|-|
-Mailpit|[https://github.com/axllent/mailpit](https://github.com/axllent/mailpit)|<img src="https://img.shields.io/github/stars/axllent/mailpit?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/axllent/mailpit?style=for-the-badge" />
-MailHog|[https://github.com/mailhog/MailHog](https://github.com/mailhog/MailHog)|<img src="https://img.shields.io/github/stars/mailhog/MailHog?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mailhog/MailHog?style=for-the-badge" />
+MinIO|[https://github.com/minio/minio](https://github.com/minio/minio)|<img src="https://img.shields.io/github/stars/minio/minio?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/minio/minio?style=for-the-badge" />
+
 
 # Financial Software
 Name| Respository Address | Star| Last Update
 -|-|-|-|
 Firefly III|[https://github.com/firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)|<img src="https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/firefly-iii/firefly-iii?style=for-the-badge" />
 Akaunting|[https://github.com/akaunting/akaunting](https://github.com/akaunting/akaunting)|<img src="https://img.shields.io/github/stars/akaunting/akaunting?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/akaunting/akaunting?style=for-the-badge" />
+
+
+
 
 # Monitoring Tool
 Name| Respository Address | Star| Last Update
@@ -49,18 +72,13 @@ Name| Respository Address | Star| Last Update
 -|-|-|-|
 Lux|[https://github.com/iawia002/lux](https://github.com/iawia002/lux)|<img src="https://img.shields.io/github/stars/iawia002/lux?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/iawia002/lux?style=for-the-badge" />
 
+
 # WeiXin Related
 Name| Respository Address | Star| Last Update
 -|-|-|-|
 AI Cover|[https://github.com/all-in-aigc/aicover](https://github.com/all-in-aigc/aicover)|<img src="https://img.shields.io/github/stars/all-in-aigc/aicover?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/all-in-aigc/aicover?style=for-the-badge" />
 WeChat QQ TIM 防撤回|[https://github.com/huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)|<img src="https://img.shields.io/github/stars/huiyadanli/RevokeMsgPatcher?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/huiyadanli/RevokeMsgPatcher?style=for-the-badge" />
 WechatExporter|[https://github.com/BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter)|<img src="https://img.shields.io/github/stars/BlueMatthew/WechatExporter?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/BlueMatthew/WechatExporter?style=for-the-badge" />
-
-# Build Site
-Name| Respository Address | Star| Last Update
--|-|-|-|
-Halo|[https://github.com/halo-dev/halo](https://github.com/halo-dev/halo)|<img src="https://img.shields.io/github/stars/halo-dev/halo?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/halo-dev/halo?style=for-the-badge" />
-Hexo|[https://github.com/hexojs/hexo](https://github.com/hexojs/hexo)|<img src="https://img.shields.io/github/stars/hexojs/hexo?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/hexojs/hexo?style=for-the-badge" />
 
 # wiki
 Name| Respository Address | Star| Last Update
@@ -71,7 +89,6 @@ BookStack|[https://github.com/BookStackApp/BookStack](https://github.com/BookSta
 Name| Respository Address | Star| Last Update
 -|-|-|-|
 SiYuan|[https://github.com/siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)|<img src="https://img.shields.io/github/stars/siyuan-note/siyuan?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/siyuan-note/siyuan?style=for-the-badge" />
-
 
 # Homepage
 Name| Respository Address | Star| Last Update
@@ -95,13 +112,6 @@ Crontab UI|[https://github.com/alseambusher/crontab-ui](https://github.com/alsea
 ComfyUI|[https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)|<img src="https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/comfyanonymous/ComfyUI?style=for-the-badge" />
 QingLong|[https://github.com/whyour/qinglong](https://github.com/whyour/qinglong)|<img src="https://img.shields.io/github/stars/whyour/qinglong?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/whyour/qinglong?style=for-the-badge" />
 
-
-
-# Object Storage
-Name| Respository Address | Star| Last Update
--|-|-|-|
-MinIO|[https://github.com/minio/minio](https://github.com/minio/minio)|<img src="https://img.shields.io/github/stars/minio/minio?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/minio/minio?style=for-the-badge" />
-
 # Version Manage
 Name| Respository Address | Star| Last Update
 -|-|-|-|
@@ -110,10 +120,4 @@ asdf|[https://github.com/asdf-vm/asdf](https://github.com/asdf-vm/asdf)|<img src
 nvm|[https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm)|<img src="https://img.shields.io/github/stars/nvm-sh/nvm?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/nvm-sh/nvm?style=for-the-badge" />
 NVM for Windows|[https://github.com/coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)|<img src="https://img.shields.io/github/stars/coreybutler/nvm-windows?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/coreybutler/nvm-windows?style=for-the-badge" />
 
-# Devops (Git)
-Name| Respository Address | Star| Last Update
--|-|-|-|
-OneDev|[https://github.com/theonedev/onedev](https://github.com/theonedev/onedev)|<img src="https://img.shields.io/github/stars/theonedev/onedev?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/theonedev/onedev?style=for-the-badge" />
-Gitness|[https://github.com/harness/gitness](https://github.com/harness/gitness)|<img src="https://img.shields.io/github/stars/harness/gitness?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/harness/gitness?style=for-the-badge" />
-Gitea|[https://github.com/go-gitea/gitea](https://github.com/go-gitea/gitea)|<img src="https://img.shields.io/github/stars/go-gitea/gitea?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/go-gitea/gitea?style=for-the-badge" />
-Walle Web|[https://github.com/meolu/walle-web](https://github.com/meolu/walle-web)|<img src="https://img.shields.io/github/stars/meolu/walle-web?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/meolu/walle-web?style=for-the-badge" />
+
