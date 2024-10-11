@@ -13,16 +13,13 @@ MyIP|[https://github.com/jason5ng32/MyIP](https://github.com/jason5ng32/MyIP)|<i
 JSON Crack|[https://github.com/AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)|<img src="https://img.shields.io/github/stars/AykutSarac/jsoncrack.com?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AykutSarac/jsoncrack.com?style=for-the-badge" />
 
 # Build Site
-Name| Respository Address | Star| Last Update
--|-|-|-|
-Halo|[https://github.com/halo-dev/halo](https://github.com/halo-dev/halo)|<img src="https://img.shields.io/github/stars/halo-dev/halo?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/halo-dev/halo?style=for-the-badge" />
-Hexo|[https://github.com/hexojs/hexo](https://github.com/hexojs/hexo)|<img src="https://img.shields.io/github/stars/hexojs/hexo?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/hexojs/hexo?style=for-the-badge" />
-## Homepage
-Name| Respository Address | Star| Last Update
--|-|-|-|
-Sun-Panel|[https://github.com/hslr-s/sun-panel](https://github.com/hslr-s/sun-panel)|<img src="https://img.shields.io/github/stars/hslr-s/sun-panel?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/hslr-s/sun-panel?style=for-the-badge" />
-homepage|[https://github.com/gethomepage/homepage](https://github.com/gethomepage/homepage)|<img src="https://img.shields.io/github/stars/gethomepage/homepage?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/gethomepage/homepage?style=for-the-badge" />
-Dashy|[https://github.com/Lissy93/dashy](https://github.com/Lissy93/dashy)|<img src="https://img.shields.io/github/stars/Lissy93/dashy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Lissy93/dashy?style=for-the-badge" />
+Name| Respository Address | Star| Last Update| Desc
+-|-|-|-|-|
+Halo|[https://github.com/halo-dev/halo](https://github.com/halo-dev/halo)|<img src="https://img.shields.io/github/stars/halo-dev/halo?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/halo-dev/halo?style=for-the-badge" />|-
+Hexo|[https://github.com/hexojs/hexo](https://github.com/hexojs/hexo)|<img src="https://img.shields.io/github/stars/hexojs/hexo?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/hexojs/hexo?style=for-the-badge" />|-
+Sun-Panel|[https://github.com/hslr-s/sun-panel](https://github.com/hslr-s/sun-panel)|<img src="https://img.shields.io/github/stars/hslr-s/sun-panel?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/hslr-s/sun-panel?style=for-the-badge" />|Only HomePage
+homepage|[https://github.com/gethomepage/homepage](https://github.com/gethomepage/homepage)|<img src="https://img.shields.io/github/stars/gethomepage/homepage?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/gethomepage/homepage?style=for-the-badge" />|Only HomePage
+Dashy|[https://github.com/Lissy93/dashy](https://github.com/Lissy93/dashy)|<img src="https://img.shields.io/github/stars/Lissy93/dashy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Lissy93/dashy?style=for-the-badge" />|Only HomePage
 
 
 # Devops (Git)
@@ -43,14 +40,11 @@ MailHog|[https://github.com/mailhog/MailHog](https://github.com/mailhog/MailHog)
 # File
 Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
-X File Storage|[https://github.com/dromara/x-file-storage](https://github.com/dromara/x-file-storage)|<img src="https://img.shields.io/github/stars/dromara/x-file-storage?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dromara/x-file-storage?style=for-the-badge" />| Java Package
+X File Storage|[https://github.com/dromara/x-file-storage](https://github.com/dromara/x-file-storage)|<img src="https://img.shields.io/github/stars/dromara/x-file-storage?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dromara/x-file-storage?style=for-the-badge" />|File Online View
 Shields IO|[https://github.com/badges/shields](https://github.com/badges/shields)|<img src="https://img.shields.io/github/stars/badges/shields?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/badges/shields?style=for-the-badge" />| Img Icon
 Dufs|[https://github.com/sigoden/dufs](https://github.com/sigoden/dufs)|<img src="https://img.shields.io/github/stars/sigoden/dufs?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/sigoden/dufs?style=for-the-badge" />| File Server
 Stirling PDF|[https://github.com/Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)|<img src="https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Stirling-Tools/Stirling-PDF?style=for-the-badge" />| PDF Tool
-## File Storage
-Name| Respository Address | Star| Last Update
--|-|-|-|
-MinIO|[https://github.com/minio/minio](https://github.com/minio/minio)|<img src="https://img.shields.io/github/stars/minio/minio?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/minio/minio?style=for-the-badge" />
+MinIO|[https://github.com/minio/minio](https://github.com/minio/minio)|<img src="https://img.shields.io/github/stars/minio/minio?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/minio/minio?style=for-the-badge" />|Object Ftorage
 
 
 # Financial Software
