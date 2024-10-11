@@ -22,7 +22,7 @@ homepage|[https://github.com/gethomepage/homepage](https://github.com/gethomepag
 Dashy|[https://github.com/Lissy93/dashy](https://github.com/Lissy93/dashy)|<img src="https://img.shields.io/github/stars/Lissy93/dashy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Lissy93/dashy?style=for-the-badge" />|Only HomePage
 
 
-# Devops (Git)
+# Devops
 Name| Respository Address | Star| Last Update
 -|-|-|-|
 OneDev|[https://github.com/theonedev/onedev](https://github.com/theonedev/onedev)|<img src="https://img.shields.io/github/stars/theonedev/onedev?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/theonedev/onedev?style=for-the-badge" />
