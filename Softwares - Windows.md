@@ -18,6 +18,14 @@ Name| Address | Star| Last Update| Desc
 Chrome|[https://www.google.com/chrome](https://www.google.com/chrome)|-|- |- 
 Firefox|[https://www.mozilla.org](https://www.mozilla.org)|-|- |- 
 
+# Code editor
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+Visual Studio Code|[https://code.visualstudio.com](https://code.visualstudio.com)|-|- |- 
+Visual Studio Latest Version|[https://visualstudio.microsoft.com/vs](https://visualstudio.microsoft.com/vs)|-|- |- 
+Visual Studio Previous Version|[https://visualstudio.microsoft.com/vs/older-downloads](https://visualstudio.microsoft.com/vs/older-downloads)|-|- |- 
+
+
 # Compare Tool
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
