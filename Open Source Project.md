@@ -80,7 +80,7 @@ AI Cover|[https://github.com/all-in-aigc/aicover](https://github.com/all-in-aigc
 WeChat QQ TIM 防撤回|[https://github.com/huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)|<img src="https://img.shields.io/github/stars/huiyadanli/RevokeMsgPatcher?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/huiyadanli/RevokeMsgPatcher?style=for-the-badge" />
 WechatExporter|[https://github.com/BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter)|<img src="https://img.shields.io/github/stars/BlueMatthew/WechatExporter?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/BlueMatthew/WechatExporter?style=for-the-badge" />
 
-# wiki
+# Wiki
 Name| Respository Address | Star| Last Update
 -|-|-|-|
 BookStack|[https://github.com/BookStackApp/BookStack](https://github.com/BookStackApp/BookStack)|<img src="https://img.shields.io/github/stars/BookStackApp/BookStack?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/BookStackApp/BookStack?style=for-the-badge" />
