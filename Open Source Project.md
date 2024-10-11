@@ -16,7 +16,7 @@ JSON Crack|[https://github.com/AykutSarac/jsoncrack.com](https://github.com/Ayku
 Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
 Halo|[https://github.com/halo-dev/halo](https://github.com/halo-dev/halo)|<img src="https://img.shields.io/github/stars/halo-dev/halo?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/halo-dev/halo?style=for-the-badge" />|
-Hexo|[https://github.com/hexojs/hexo](https://github.com/hexojs/hexo)|<img src="https://img.shields.io/github/stars/hexojs/hexo?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/hexojs/hexo?style=for-the-badge" />|
+Hexo|[https://github.com/hexojs/hexo](https://github.com/hexojs/hexo)|<img src="https://img.shields.io/github/stars/hexojs/hexo?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/hexojs/hexo?style=for-the-badge" />|Blog Framework
 Sun-Panel|[https://github.com/hslr-s/sun-panel](https://github.com/hslr-s/sun-panel)|<img src="https://img.shields.io/github/stars/hslr-s/sun-panel?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/hslr-s/sun-panel?style=for-the-badge" />|Only HomePage
 homepage|[https://github.com/gethomepage/homepage](https://github.com/gethomepage/homepage)|<img src="https://img.shields.io/github/stars/gethomepage/homepage?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/gethomepage/homepage?style=for-the-badge" />|Only HomePage
 Dashy|[https://github.com/Lissy93/dashy](https://github.com/Lissy93/dashy)|<img src="https://img.shields.io/github/stars/Lissy93/dashy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Lissy93/dashy?style=for-the-badge" />|Only HomePage
