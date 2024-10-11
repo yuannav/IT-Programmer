@@ -57,15 +57,15 @@ Akaunting|[https://github.com/akaunting/akaunting](https://github.com/akaunting/
 
 
 # Monitoring Tool
-Name| Respository Address | Star| Last Update
--|-|-|-|
-Uptime Kuma|[https://github.com/louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)|<img src="https://img.shields.io/github/stars/louislam/uptime-kuma?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/louislam/uptime-kuma?style=for-the-badge" />
-HealthChecks|[https://github.com/healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)|<img src="https://img.shields.io/github/stars/healthchecks/healthchecks?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/healthchecks/healthchecks?style=for-the-badge" />
-HertzBeat|[https://github.com/dromara/hertzbeat](https://github.com/dromara/hertzbeat)|<img src="https://img.shields.io/github/stars/dromara/hertzbeat?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dromara/hertzbeat?style=for-the-badge" />
-WGCLOUD|[https://github.com/tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud)|<img src="https://img.shields.io/github/stars/tianshiyeben/wgcloud?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/tianshiyeben/wgcloud?style=for-the-badge" />
-Jpom|[https://github.com/dromara/Jpom](https://github.com/dromara/Jpom)|<img src="https://img.shields.io/github/stars/dromara/Jpom?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dromara/Jpom?style=for-the-badge" />
-Glances|[https://github.com/nicolargo/glances](https://github.com/nicolargo/glances)|<img src="https://img.shields.io/github/stars/nicolargo/glances?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/nicolargo/glances?style=for-the-badge" />
-GoAccess|[https://github.com/allinurl/goaccess](https://github.com/allinurl/goaccess)|<img src="https://img.shields.io/github/stars/allinurl/goaccess?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/allinurl/goaccess?style=for-the-badge" />
+Name| Respository Address | Star| Last Update|Desc
+-|-|-|-|-|
+Uptime Kuma|[https://github.com/louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)|<img src="https://img.shields.io/github/stars/louislam/uptime-kuma?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/louislam/uptime-kuma?style=for-the-badge" />|Free
+HealthChecks|[https://github.com/healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)|<img src="https://img.shields.io/github/stars/healthchecks/healthchecks?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/healthchecks/healthchecks?style=for-the-badge" />|
+HertzBeat|[https://github.com/dromara/hertzbeat](https://github.com/dromara/hertzbeat)|<img src="https://img.shields.io/github/stars/dromara/hertzbeat?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dromara/hertzbeat?style=for-the-badge" />|
+WGCLOUD|[https://github.com/tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud)|<img src="https://img.shields.io/github/stars/tianshiyeben/wgcloud?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/tianshiyeben/wgcloud?style=for-the-badge" />|
+Jpom|[https://github.com/dromara/Jpom](https://github.com/dromara/Jpom)|<img src="https://img.shields.io/github/stars/dromara/Jpom?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dromara/Jpom?style=for-the-badge" />|
+Glances|[https://github.com/nicolargo/glances](https://github.com/nicolargo/glances)|<img src="https://img.shields.io/github/stars/nicolargo/glances?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/nicolargo/glances?style=for-the-badge" />|
+GoAccess|[https://github.com/allinurl/goaccess](https://github.com/allinurl/goaccess)|<img src="https://img.shields.io/github/stars/allinurl/goaccess?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/allinurl/goaccess?style=for-the-badge" />|
 
 # Video Downloader
 Name| Respository Address | Star| Last Update
