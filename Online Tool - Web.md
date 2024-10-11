@@ -6,6 +6,8 @@ IT-TOOLS|[https://github.com/CorentinTh/it-tools](https://github.com/CorentinTh/
 # Data Formatter
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
+SQL Formatter|[https://www.json.cn/sql-format](https://www.json.cn/sql-format)|-|-|-
+SQL Compression|[https://www.json.cn/sql-format](https://www.json.cn/sql-format)|-|-|-
 JSON Formatter|[https://jsonformatter.org](https://jsonformatter.org/)|-|-|-
 JSON Compression|[https://www.json.cn/jsonzip](https://www.json.cn/jsonzip)|-|-|-
 JSON 转义|[https://www.json.cn/jsonzip](https://www.json.cn/jsonzip)|-|-|-
