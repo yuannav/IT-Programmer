@@ -34,7 +34,10 @@ WinMerge|[https://winmerge.org](https://winmerge.org)|-|-|-
 # Database
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-SQL Server|[https://www.microsoft.com/sql-server](https://www.microsoft.com/sql-server)|-|-|-
+SQL Server Latest Version|[https://www.microsoft.com/en-us/sql-server](https://www.microsoft.com/en-us/sql-server)|-|-|-
+SQL Server 2019|[https://www.microsoft.com/en-us/sql-server/sql-server-2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019)|-|-|-
+SQL Server 2017|[https://www.microsoft.com/en-us/sql-server/sql-server-2017](https://www.microsoft.com/en-us/sql-server/sql-server-2017)|-|-|-
+SQL Server 2016|[https://www.microsoft.com/en-us/sql-server/sql-server-2016](https://www.microsoft.com/en-us/sql-server/sql-server-2016)|-|-|-
 
 # Dock Bar
 Name| Address | Star| Last Update
