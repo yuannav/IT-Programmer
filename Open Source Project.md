@@ -22,13 +22,6 @@ homepage|[https://github.com/gethomepage/homepage](https://github.com/gethomepag
 Dashy|[https://github.com/Lissy93/dashy](https://github.com/Lissy93/dashy)|<img src="https://img.shields.io/github/stars/Lissy93/dashy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Lissy93/dashy?style=for-the-badge" />|Only HomePage
 
 
-# Devops
-Name| Respository Address | Star| Last Update
--|-|-|-|
-OneDev|[https://github.com/theonedev/onedev](https://github.com/theonedev/onedev)|<img src="https://img.shields.io/github/stars/theonedev/onedev?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/theonedev/onedev?style=for-the-badge" />
-Gitness|[https://github.com/harness/gitness](https://github.com/harness/gitness)|<img src="https://img.shields.io/github/stars/harness/gitness?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/harness/gitness?style=for-the-badge" />
-Gitea|[https://github.com/go-gitea/gitea](https://github.com/go-gitea/gitea)|<img src="https://img.shields.io/github/stars/go-gitea/gitea?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/go-gitea/gitea?style=for-the-badge" />
-Walle Web|[https://github.com/meolu/walle-web](https://github.com/meolu/walle-web)|<img src="https://img.shields.io/github/stars/meolu/walle-web?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/meolu/walle-web?style=for-the-badge" />
 
 # Downloader
 Name| Respository Address | Star| Last Update|Desc
@@ -59,6 +52,13 @@ Firefly III|[https://github.com/firefly-iii/firefly-iii](https://github.com/fire
 Akaunting|[https://github.com/akaunting/akaunting](https://github.com/akaunting/akaunting)|<img src="https://img.shields.io/github/stars/akaunting/akaunting?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/akaunting/akaunting?style=for-the-badge" />|Financial Software
 
 
+# Git Devops
+Name| Respository Address | Star| Last Update
+-|-|-|-|
+OneDev|[https://github.com/theonedev/onedev](https://github.com/theonedev/onedev)|<img src="https://img.shields.io/github/stars/theonedev/onedev?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/theonedev/onedev?style=for-the-badge" />
+Gitness|[https://github.com/harness/gitness](https://github.com/harness/gitness)|<img src="https://img.shields.io/github/stars/harness/gitness?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/harness/gitness?style=for-the-badge" />
+Gitea|[https://github.com/go-gitea/gitea](https://github.com/go-gitea/gitea)|<img src="https://img.shields.io/github/stars/go-gitea/gitea?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/go-gitea/gitea?style=for-the-badge" />
+Walle Web|[https://github.com/meolu/walle-web](https://github.com/meolu/walle-web)|<img src="https://img.shields.io/github/stars/meolu/walle-web?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/meolu/walle-web?style=for-the-badge" />
 
 
 # Monitoring Tool
