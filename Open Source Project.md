@@ -47,11 +47,11 @@ Stirling PDF|[https://github.com/Stirling-Tools/Stirling-PDF](https://github.com
 Shields IO|[https://github.com/badges/shields](https://github.com/badges/shields)|<img src="https://img.shields.io/github/stars/badges/shields?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/badges/shields?style=for-the-badge" />| Img Icon
 
 
-# Financial Software
-Name| Respository Address | Star| Last Update
--|-|-|-|
-Firefly III|[https://github.com/firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)|<img src="https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/firefly-iii/firefly-iii?style=for-the-badge" />
-Akaunting|[https://github.com/akaunting/akaunting](https://github.com/akaunting/akaunting)|<img src="https://img.shields.io/github/stars/akaunting/akaunting?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/akaunting/akaunting?style=for-the-badge" />
+# Financial
+Name| Respository Address | Star| Last Update|Desc
+-|-|-|-|-|
+Firefly III|[https://github.com/firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)|<img src="https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/firefly-iii/firefly-iii?style=for-the-badge" />|Financial Software
+Akaunting|[https://github.com/akaunting/akaunting](https://github.com/akaunting/akaunting)|<img src="https://img.shields.io/github/stars/akaunting/akaunting?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/akaunting/akaunting?style=for-the-badge" />|Financial Software
 
 
 
