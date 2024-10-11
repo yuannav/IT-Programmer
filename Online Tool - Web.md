@@ -8,6 +8,9 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 SQL Formatter|[https://www.json.cn/sql-format](https://www.json.cn/sql-format)|-|-|-
 SQL Compression|[https://www.json.cn/sql-format](https://www.json.cn/sql-format)|-|-|-
+XML Formatter|[https://www.json.cn/xml-format](https://www.json.cn/xml-format)|-|-|-
+XML Compression|[https://www.json.cn/xml-format](https://www.json.cn/xml-format)|-|-|-
+XML Sort|[https://www.json.cn/xml-format](https://www.json.cn/xml-format)|-|-|-
 JSON Formatter|[https://jsonformatter.org](https://jsonformatter.org/)|-|-|-
 JSON Compression|[https://www.json.cn/jsonzip](https://www.json.cn/jsonzip)|-|-|-
 JSON 转义|[https://www.json.cn/jsonzip](https://www.json.cn/jsonzip)|-|-|-
