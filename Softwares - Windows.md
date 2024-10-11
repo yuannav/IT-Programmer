@@ -38,6 +38,7 @@ SQL Server Latest Version|[https://www.microsoft.com/en-us/sql-server](https://w
 SQL Server 2019|[https://www.microsoft.com/en-us/sql-server/sql-server-2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019)|-|-|-
 SQL Server 2017|[https://www.microsoft.com/en-us/sql-server/sql-server-2017](https://www.microsoft.com/en-us/sql-server/sql-server-2017)|-|-|-
 SQL Server 2016|[https://www.microsoft.com/en-us/sql-server/sql-server-2016](https://www.microsoft.com/en-us/sql-server/sql-server-2016)|-|-|-
+SQL Server 2005-2014|[https://learn.microsoft.com/en-us/previous-versions/sql](https://learn.microsoft.com/en-us/previous-versions/sql)|-|-|-
 
 # Dock Bar
 Name| Address | Star| Last Update
