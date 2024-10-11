@@ -31,6 +31,11 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 WinMerge|[https://winmerge.org](https://winmerge.org)|-|-|-
 
+# Database
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+SQL Server|[https://www.microsoft.com/sql-server](https://www.microsoft.com/sql-server)|-|-|-
+
 # Dock Bar
 Name| Address | Star| Last Update
 -|-|-|-|
