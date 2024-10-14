@@ -16,7 +16,7 @@ Name| Address | Star| Last Update| Desc
 Chrome|[https://www.google.com/chrome](https://www.google.com/chrome)|-|- |- 
 Firefox|[https://www.mozilla.org](https://www.mozilla.org)|-|- |- 
 
-# Code editor
+# Code Editor
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 Visual Studio Code|[https://code.visualstudio.com](https://code.visualstudio.com)|-|- |- 
