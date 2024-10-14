@@ -18,7 +18,7 @@ Authenticator|[Authenticator](https://chromewebstore.google.com/detail/bhghoamap
 # Cookie
 Name| Address|Desc
 -|-|-|
-Fake Filler|[Fake Filler](https://chromewebstore.google.com/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo)|
+EditThisCookie|[EditThisCookie](https://www.editthiscookie.com)|
 
 # Data Format
 Name| Address| Desc
