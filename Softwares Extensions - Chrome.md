@@ -11,41 +11,41 @@ Name| Address | Star| Last Update| Desc
 Authenticator|[Authenticator](https://chromewebstore.google.com/detail/bhghoamapcdpbohphigoooaddinpkbai)|-|-|-  
 
 # Cookie
-Name| Address | Star| Last Update| Desc
+Name| Address|Desc
 -|-|-|-|-|
-Fake Filler|[Fake Filler](https://chromewebstore.google.com/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo)| | |
+Fake Filler|[Fake Filler](https://chromewebstore.google.com/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo)|
 
 # Data Format
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-JSONVue|[JSONVue](https://chromewebstore.google.com/detail/chklaanhfefbnpoihckbnefhakgolnmc)| | | 
+JSONVue|[JSONVue](https://chromewebstore.google.com/detail/chklaanhfefbnpoihckbnefhakgolnmc)| 
 
 # Form
-Name| Address | Star| Last Update| Desc
+Name| Address|Desc
 -|-|-|-|-|
 
 # GitHub
-Name| Address | Star| Last Update| Desc
+Name| Address | Desc
 -|-|-|-|-|
-Octotree - GitHub code tree|[Octotree - GitHub code tree](https://chromewebstore.google.com/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)| | |
+Octotree - GitHub code tree|[Octotree - GitHub code tree](https://chromewebstore.google.com/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)| 
 
 # History
-Name| Address | Star| Last Update| Desc
+Name| Address | Desc
 -|-|-|-|-|
-Better History|[Better History](https://chromewebstore.google.com/detail/better-history/egehpkpgpgooebopjihjmnpejnjafefi?hl=en)| | | 
+Better History|[Better History](https://chromewebstore.google.com/detail/better-history/egehpkpgpgooebopjihjmnpejnjafefi?hl=en)| 
 
 # Privacy Clean
-Name| Address | Star| Last Update| Desc
+Name| Address| Desc
 -|-|-|-|-|
-Clean Master|[Clean Master](https://chromewebstore.google.com/detail/clean-master-the-best-chr/eagiakjmjnblliacokhcalebgnhellfi?hl=en)| | | 
+Clean Master|[Clean Master](https://chromewebstore.google.com/detail/clean-master-the-best-chr/eagiakjmjnblliacokhcalebgnhellfi?hl=en)| 
 
 # Refresh
-Name| Address | Star| Last Update| Desc
+Name| Address| Desc
 -|-|-|-|-|
-Auto Refresh Plus|[Auto Refresh Plus](https://chromewebstore.google.com/detail/hgeljhfekpckiiplhkigfehkdpldcggm)| | | 
+Auto Refresh Plus|[Auto Refresh Plus](https://chromewebstore.google.com/detail/hgeljhfekpckiiplhkigfehkdpldcggm)| 
 
 # SEO 
-Name| Address | Star| Last Update| Desc
+Name| Address | Desc
 -|-|-|-|-|
-Datalayer Checker|[Datalayer Checker](https://chromewebstore.google.com/detail/ffljdddodmkedhkcjhpmdajhjdbkogke)|-|-  |-
+Datalayer Checker|[Datalayer Checker](https://chromewebstore.google.com/detail/ffljdddodmkedhkcjhpmdajhjdbkogke)|
 
