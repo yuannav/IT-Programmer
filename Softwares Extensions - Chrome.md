@@ -7,7 +7,7 @@ Tampermonkey|[Tampermonkey](https://chromewebstore.google.com/detail/tampermonke
 User-Agent Switcher|[User-Agent Switcher for Chrome](https://chromewebstore.google.com/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)|-|-|-
 
 # Authenticator
-Name| Address | Star| Last Update| Desc
+Name| Address | Desc
 -|-|-|
 Authenticator|[Authenticator](https://chromewebstore.google.com/detail/bhghoamapcdpbohphigoooaddinpkbai)|-|-|-  
 
@@ -17,7 +17,7 @@ Name| Address|Desc
 Fake Filler|[Fake Filler](https://chromewebstore.google.com/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo)|
 
 # Data Format
-Name| Address | Star| Last Update| Desc
+Name| Address| Desc
 -|-|-|
 JSONVue|[JSONVue](https://chromewebstore.google.com/detail/chklaanhfefbnpoihckbnefhakgolnmc)| 
 
