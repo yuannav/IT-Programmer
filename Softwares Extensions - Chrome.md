@@ -4,7 +4,6 @@ Name| Address | Star| Last Update| Desc
 ChromeAppHeroes|[https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)|<img src="https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/zhaoolee/ChromeAppHeroes?style=for-the-badge" />|-
 Open Same Tab|[Open Same Tab](https://chromewebstore.google.com/detail/fpkmdincjjgncpbbmeclgbpjmgdehmph?hl=en)|-|-  |-
 Tampermonkey|[Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)|-|-  |-
-User-Agent Switcher|[User-Agent Switcher for Chrome](https://chromewebstore.google.com/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)|-|-|-
 
 # Audio
 Name| Address | Desc
@@ -55,4 +54,8 @@ Name| Address | Desc
 -|-|-|
 Datalayer Checker|[Datalayer Checker](https://chromewebstore.google.com/detail/ffljdddodmkedhkcjhpmdajhjdbkogke)|
 
+# User Agent 
+Name| Address | Desc
+-|-|-|
+User-Agent Switcher|[User-Agent Switcher for Chrome](https://chromewebstore.google.com/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)|
 
