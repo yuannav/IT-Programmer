@@ -25,9 +25,15 @@ Name| Address| Desc
 -|-|-|
 JSONVue|[JSONVue](https://chromewebstore.google.com/detail/chklaanhfefbnpoihckbnefhakgolnmc)| 
 
+# Downloader 
+Name| Address|Desc
+-|-|-|
+Video Downloader Plus|[Video Downloader Plus](https://chromewebstore.google.com/detail/video-downloader-plus/hkdmdpdhfaamhgaojpelccmeehpfljgf)| 
+
 # Form
 Name| Address|Desc
 -|-|-|
+Fake Filler|[Fake Filler](https://chromewebstore.google.com/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo)| 
 
 # GitHub
 Name| Address | Desc
