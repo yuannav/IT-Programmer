@@ -1,7 +1,6 @@
 Name| Address | Star| Last Update
 -|-|-|-|
 图拉丁吧工具箱|[图拉丁吧工具箱](https://www.tbtool.cn)|-|-
-Spacedrive|[https://github.com/spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)|<img src="https://img.shields.io/github/stars/spacedriveapp/spacedrive?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/spacedriveapp/spacedrive?style=for-the-badge" />
 LightBulb|[https://github.com/Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb)|<img src="https://img.shields.io/github/stars/Tyrrrz/LightBulb?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Tyrrrz/LightBulb?style=for-the-badge" />
 
 # API Manager
