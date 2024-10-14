@@ -6,6 +6,11 @@ Open Same Tab|[Open Same Tab](https://chromewebstore.google.com/detail/fpkmdincj
 Tampermonkey|[Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)|-|-  |-
 User-Agent Switcher|[User-Agent Switcher for Chrome](https://chromewebstore.google.com/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)|-|-|-
 
+# Audio
+Name| Address | Desc
+-|-|-|
+Tab Muter|[Tab Muter](https://chromewebstore.google.com/detail/tab-muter/bnclejfcblondkjliiblkojdeloomadd)|
+
 # Authenticator
 Name| Address | Desc
 -|-|-|
@@ -49,4 +54,5 @@ Auto Refresh Plus|[Auto Refresh Plus](https://chromewebstore.google.com/detail/h
 Name| Address | Desc
 -|-|-|
 Datalayer Checker|[Datalayer Checker](https://chromewebstore.google.com/detail/ffljdddodmkedhkcjhpmdajhjdbkogke)|
+
 
