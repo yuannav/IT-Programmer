@@ -57,6 +57,10 @@ TreeSize Free|[https://apps.microsoft.com/detail/xp9m26rsclnt88](https://apps.mi
 DiskGenius|[https://www.diskgenius.com](https://www.diskgenius.com)|-|-|-
 CrystalDiskInfo|[https://crystalmark.info](https://crystalmark.info)|-|-|-
 
+# File Explorer
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+Spacedrive|[https://github.com/spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)|<img src="https://img.shields.io/github/stars/spacedriveapp/spacedrive?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/spacedriveapp/spacedrive?style=for-the-badge" />
 
 # File Transfer
 Name| Address | Star| Last Update| Desc
