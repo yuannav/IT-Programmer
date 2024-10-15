@@ -24,7 +24,7 @@ Name| Address | Star| Last Update| Desc
 Visual Studio Code|[https://code.visualstudio.com](https://code.visualstudio.com)|-|- |- 
 Visual Studio Latest Version|[https://visualstudio.microsoft.com/vs](https://visualstudio.microsoft.com/vs)|-|- |- 
 Visual Studio Previous Version|[https://visualstudio.microsoft.com/vs/older-downloads](https://visualstudio.microsoft.com/vs/older-downloads)|-|- |- 
-Rider|[https://www.jetbrains.com/rider](https://www.jetbrains.com/rider)|-|- |- 
+Rider|[https://www.jetbrains.com/rider](https://www.jetbrains.com/rider)|-|- | DotNet
 
 # Compare Tool
 Name| Address | Star| Last Update| Desc
