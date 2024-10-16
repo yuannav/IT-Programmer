@@ -121,9 +121,9 @@ Name| Address | Star| Last Update
 uTools|[https://www.u.tools](https://www.u.tools)|-|- 
 
 # Service
-Name| Address | Star| Last Update
--|-|-|-|
-NSSM |[https://nssm.cc/download](https://nssm.cc/download)|-|- 
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+NSSM |[https://nssm.cc/download](https://nssm.cc/download)|||Win Service Manager
 
 # Storage
 Name| Address | Star| Last Update|Desc
