@@ -44,6 +44,7 @@ SQL Server 2005-2014|[https://learn.microsoft.com/en-us/previous-versions/sql](h
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 Azure Data Studio|[https://learn.microsoft.com/en-us/azure-data-studio](https://learn.microsoft.com/en-us/azure-data-studio)|||
+HeidiSQL|[https://www.heidisql.com](https://www.heidisql.com)|||
 
 # Developer Toolbox
 Name| Address | Star| Last Update| Desc
