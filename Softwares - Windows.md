@@ -43,12 +43,12 @@ SQL Server 2005-2014|[https://learn.microsoft.com/en-us/previous-versions/sql](h
 # Database Client
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-SQL Server Latest Version|[https://learn.microsoft.com/en-us/azure-data-studio](https://learn.microsoft.com/en-us/azure-data-studio)|||
+Azure Data Studio|[https://learn.microsoft.com/en-us/azure-data-studio](https://learn.microsoft.com/en-us/azure-data-studio)|||
 
 # Developer Toolbox
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-Azure Data Studio|[https://github.com/rememberber/MooTool](https://github.com/rememberber/MooTool)|<img src="https://img.shields.io/github/stars/rememberber/MooTool?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/rememberber/MooTool?style=for-the-badge" />
+MooTool|[https://github.com/rememberber/MooTool](https://github.com/rememberber/MooTool)|<img src="https://img.shields.io/github/stars/rememberber/MooTool?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/rememberber/MooTool?style=for-the-badge" />
 
 
 # Dock Bar
