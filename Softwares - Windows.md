@@ -123,10 +123,10 @@ uTools|[https://www.u.tools](https://www.u.tools)|-|-
 # Terminal
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-Windows Terminal|[https://github.com/microsoft/terminal](https://github.com/microsoft/terminal)|<img src="https://img.shields.io/github/stars/microsoft/terminal?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/microsoft/terminal?style=for-the-badge" />|-
+Windows Terminal|[https://github.com/microsoft/terminal](https://github.com/microsoft/terminal)|<img src="https://img.shields.io/github/stars/microsoft/terminal?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/microsoft/terminal?style=for-the-badge" />|
 FinalShell|[https://www.hostbuf.com](https://www.hostbuf.com/)|-|-|- 
-WinSCP|[https://winscp.net](https://winscp.net/)|-|-|
-FileZilla|[https://filezilla-project.org](https://filezilla-project.org/)|-|-|
+WinSCP|[https://winscp.net](https://winscp.net/)|||FTP Client
+FileZilla|[https://filezilla-project.org](https://filezilla-project.org/)|||FTP Client
 
 # Virtual Machine
 Name| Address | Star| Last Update
