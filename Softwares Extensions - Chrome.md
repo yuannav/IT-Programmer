@@ -60,6 +60,13 @@ Name| Address | Desc
 -|-|-|
 Datalayer Checker|[Datalayer Checker](https://chromewebstore.google.com/detail/ffljdddodmkedhkcjhpmdajhjdbkogke)|
 
+# Tab
+Name| Address | Desc
+-|-|-|
+Open Same Tab|[Open Same Tab](https://chromewebstore.google.com/detail/open-same-tab/fpkmdincjjgncpbbmeclgbpjmgdehmph)|
+
+
+
 # User Agent 
 Name| Address | Desc
 -|-|-|
