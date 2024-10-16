@@ -40,10 +40,15 @@ SQL Server 2017|[https://www.microsoft.com/en-us/sql-server/sql-server-2017](htt
 SQL Server 2016|[https://www.microsoft.com/en-us/sql-server/sql-server-2016](https://www.microsoft.com/en-us/sql-server/sql-server-2016)|-|-|-
 SQL Server 2005-2014|[https://learn.microsoft.com/en-us/previous-versions/sql](https://learn.microsoft.com/en-us/previous-versions/sql)|-|-|-
 
+# Database Client
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+SQL Server Latest Version|[https://learn.microsoft.com/en-us/azure-data-studio](https://learn.microsoft.com/en-us/azure-data-studio)|||
+
 # Developer Toolbox
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-MooTool|[https://github.com/rememberber/MooTool](https://github.com/rememberber/MooTool)|<img src="https://img.shields.io/github/stars/rememberber/MooTool?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/rememberber/MooTool?style=for-the-badge" />
+Azure Data Studio|[https://github.com/rememberber/MooTool](https://github.com/rememberber/MooTool)|<img src="https://img.shields.io/github/stars/rememberber/MooTool?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/rememberber/MooTool?style=for-the-badge" />
 
 
 # Dock Bar
