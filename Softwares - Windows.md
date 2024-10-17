@@ -128,7 +128,8 @@ NSSM |[https://nssm.cc/download](https://nssm.cc/download)|||Win Service Manager
 # Storage
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-AList|[https://github.com/AlistGo/alist](https://github.com/AlistGo/alist)|<img src="https://img.shields.io/github/stars/AlistGo/alist?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AlistGo/alist?style=for-the-badge" />|File Listing
+AList|[https://github.com/AlistGo/alist](https://github.com/AlistGo/alist)|<img src="https://img.shields.io/github/stars/AlistGo/alist?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AlistGo/alist?style=for-the-badge" />|Storage Aggregation
+CloudDrive|[https://www.clouddrive2.com](https://www.clouddrive2.com)|-|-| Storage Aggregation
 RaiDrive|[https://www.raidrive.com](https://www.raidrive.com)|-|-| Mount Storage
 
 
