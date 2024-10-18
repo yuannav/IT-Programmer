@@ -13,7 +13,6 @@ Name| Address | Desc
 -|-|-|
 APKCombo Downloader|[APKCombo Downloader](https://chromewebstore.google.com/detail/apkcombo-downloader/idkigghdjmipnppaeahkpcoaiphjdccm)|Download Android Apps from Google Play Store
 
-
 # Audio
 Name| Address | Desc
 -|-|-|
@@ -23,6 +22,11 @@ Tab Muter|[Tab Muter](https://chromewebstore.google.com/detail/tab-muter/bnclejf
 Name| Address | Desc
 -|-|-|
 Authenticator|[Authenticator](https://chromewebstore.google.com/detail/bhghoamapcdpbohphigoooaddinpkbai)|-|-|-  
+
+# Bilibili
+Name| Address|Desc
+-|-|-|
+Bilibili Helper|[github.com/bilibili-helper/bilibili-helper-o](https://github.com/bilibili-helper/bilibili-helper-o)<br/>[Chrome Web Store](https://chromewebstore.google.com/detail/acg-helper-designed-for-b/kpbnombpnpcffllnianjibmpadjolanh)|
 
 # Cookie
 Name| Address|Desc
