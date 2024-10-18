@@ -42,6 +42,7 @@ Apollo|[github.com/apolloconfig/apollo.net](https://github.com/apolloconfig/apol
 Name| Address | Star| Last Update
 -|-|-|-|
 DotnetSpider|[https://github.com/dotnetcore/DotnetSpider](https://github.com/dotnetcore/DotnetSpider)|<img src="https://img.shields.io/github/stars/dotnetcore/DotnetSpider?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dotnetcore/DotnetSpider?style=for-the-badge" />
+AngleSharp|[https://github.com/AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp)|<img src="https://img.shields.io/github/stars/AngleSharp/AngleSharp?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AngleSharp/AngleSharp?style=for-the-badge" />
 
 # Development Framework
 Name| Address | Star| Last Update
