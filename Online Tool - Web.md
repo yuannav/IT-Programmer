@@ -18,7 +18,7 @@ GraphQL Formatter|[https://jsonformatter.org/graphql-formatter](https://jsonform
 # Downloader
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-Download Panda|[https://dlpanda.com](https://dlpanda.com)|-|-|-
+Download Panda|[https://dlpanda.com](https://dlpanda.com)|-|-| Video
 
 # Encryption Decryption
 Name| Address | Desc
