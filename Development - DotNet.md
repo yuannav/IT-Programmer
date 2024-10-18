@@ -67,6 +67,8 @@ Name| Address | Star| Last Update
 Flurl|[https://github.com/tmenier/Flurl](https://github.com/tmenier/Flurl)|<img src="https://img.shields.io/github/stars/tmenier/Flurl?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/tmenier/Flurl?style=for-the-badge" />
 RestSharp|[https://github.com/restsharp/RestSharp](https://github.com/restsharp/RestSharp)|<img src="https://img.shields.io/github/stars/restsharp/RestSharp?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/restsharp/RestSharp?style=for-the-badge" />
 WebApiClient|[https://github.com/dotnetcore/WebApiClient](https://github.com/dotnetcore/WebApiClient)|<img src="https://img.shields.io/github/stars/dotnetcore/WebApiClient?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dotnetcore/WebApiClient?style=for-the-badge" />
+Refit|[https://github.com/reactiveui/refit](https://github.com/reactiveui/refit)|<img src="https://img.shields.io/github/stars/reactiveui/refit?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/reactiveui/refit?style=for-the-badge" />
+
 # JSON
 Name| Address | Star| Last Update
 -|-|-|-|
