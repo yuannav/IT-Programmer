@@ -11,7 +11,7 @@ Tampermonkey|[Tampermonkey](https://chromewebstore.google.com/detail/tampermonke
 # Android
 Name| Address | Desc
 -|-|-|
-APKCombo Downloader|[APKCombo Downloader](https://chromewebstore.google.com/detail/apkcombo-downloader/idkigghdjmipnppaeahkpcoaiphjdccm)|
+APKCombo Downloader|[APKCombo Downloader](https://chromewebstore.google.com/detail/apkcombo-downloader/idkigghdjmipnppaeahkpcoaiphjdccm)|Download Android Apps from Google Play Store
 
 
 # Audio
