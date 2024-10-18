@@ -119,6 +119,12 @@ Name| Address | Star| Last Update
 Paylink|[github.com/essensoft/paylink](https://github.com/essensoft/paylink)|<img src="https://img.shields.io/github/stars/essensoft/paylink?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/essensoft/paylink?style=for-the-badge" />
 Alipay SDK for .NET|[https://github.com/alipay/alipay-sdk-net-all](https://github.com/alipay/alipay-sdk-net-all)|<img src="https://img.shields.io/github/stars/alipay/alipay-sdk-net-all?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/alipay/alipay-sdk-net-all?style=for-the-badge" />
 
+# Search
+Name| Address | Star| Last Update
+-|-|-|-|
+SolrNet|[https://github.com/solrnet/solrnet](https://github.com/solrnet/solrnet)|<img src="https://img.shields.io/github/stars/solrnet/solrnet?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/solrnet/solrnet?style=for-the-badge" />
+
+
 # Serialization
 Name| Address | Star| Last Update
 -|-|-|-|
