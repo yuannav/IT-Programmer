@@ -58,6 +58,8 @@ Fake Filler|[Fake Filler](https://chromewebstore.google.com/detail/fake-filler/b
 Name| Address | Desc
 -|-|-|
 Octotree - GitHub code tree|[Octotree - GitHub code tree](https://chromewebstore.google.com/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)| 
+Enhanced Github|[github.com/softvar/enhanced-github](https://github.com/softvar/enhanced-github)| Single File Download
+
 
 # History
 Name| Address | Desc
