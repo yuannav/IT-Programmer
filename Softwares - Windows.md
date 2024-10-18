@@ -1,148 +1,148 @@
 Name| Address | Star| Last Update
 -|-|-|-|
-LightBulb|[https://github.com/Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb)|<img src="https://img.shields.io/github/stars/Tyrrrz/LightBulb?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Tyrrrz/LightBulb?style=for-the-badge" />
+LightBulb|[github.com/Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb)|<img src="https://img.shields.io/github/stars/Tyrrrz/LightBulb?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Tyrrrz/LightBulb?style=for-the-badge" />
 图拉丁吧工具箱|[图拉丁吧工具箱](https://www.tbtool.cn)|-|-
 
 
 # API Manager
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-Postman|[https://www.postman.com](https://www.postman.com)|-|- |- 
-Apipost|[https://www.apipost.cn](https://www.apipost.cn)|-|- |- 
-Apifox|[https://apifox.com](https://apifox.com)|-|- |- 
-SoapUI|[https://www.soapui.org](https://www.soapui.org)|-|- |- 
+Postman|[www.postman.com](https://www.postman.com)|-|- |- 
+Apipost|[www.apipost.cn](https://www.apipost.cn)|-|- |- 
+Apifox|[apifox.com](https://apifox.com)|-|- |- 
+SoapUI|[www.soapui.org](https://www.soapui.org)|-|- |- 
 
 # Browser
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-Chrome|[https://www.google.com/chrome](https://www.google.com/chrome)|-|- |- 
-Firefox|[https://www.mozilla.org](https://www.mozilla.org)|-|- |- 
+Chrome|[www.google.com/chrome](https://www.google.com/chrome)|-|- |- 
+Firefox|[www.mozilla.org](https://www.mozilla.org)|-|- |- 
 
 # Capture Packet
 Name| Address | Star| Last Update
 -|-|-|-|
 Fiddler Classic|[Fiddler Classic](https://www.telerik.com/download/fiddler)|-|-
-mitmproxy|[https://github.com/mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)|<img src="https://img.shields.io/github/stars/mitmproxy/mitmproxy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mitmproxy/mitmproxy?style=for-the-badge" />
-Wireshark|[https://github.com/wireshark/wireshark](https://github.com/wireshark/wireshark)|<img src="https://img.shields.io/github/stars/wireshark/wireshark?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/wireshark/wireshark?style=for-the-badge" />
-network_proxy_flutter|[https://github.com/wanghongenpin/network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)|<img src="https://img.shields.io/github/stars/wanghongenpin/network_proxy_flutter?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/wanghongenpin/network_proxy_flutter?style=for-the-badge" />
+mitmproxy|[github.com/mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)|<img src="https://img.shields.io/github/stars/mitmproxy/mitmproxy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mitmproxy/mitmproxy?style=for-the-badge" />
+Wireshark|[github.com/wireshark/wireshark](https://github.com/wireshark/wireshark)|<img src="https://img.shields.io/github/stars/wireshark/wireshark?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/wireshark/wireshark?style=for-the-badge" />
+network_proxy_flutter|[github.com/wanghongenpin/network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)|<img src="https://img.shields.io/github/stars/wanghongenpin/network_proxy_flutter?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/wanghongenpin/network_proxy_flutter?style=for-the-badge" />
 
 
 # Code Editor
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-Visual Studio Code|[https://code.visualstudio.com](https://code.visualstudio.com)|-|- |- 
-Visual Studio Latest Version|[https://visualstudio.microsoft.com/vs](https://visualstudio.microsoft.com/vs)|-|- |- 
-Visual Studio Previous Version|[https://visualstudio.microsoft.com/vs/older-downloads](https://visualstudio.microsoft.com/vs/older-downloads)|-|- |- 
-Rider|[https://www.jetbrains.com/rider](https://www.jetbrains.com/rider)|-|- | DotNet
-ILSpy|[https://github.com/icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)|<img src="https://img.shields.io/github/stars/icsharpcode/ILSpy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/icsharpcode/ILSpy?style=for-the-badge" />
+Visual Studio Code|[code.visualstudio.com](https://code.visualstudio.com)|-|- |- 
+Visual Studio Latest Version|[visualstudio.microsoft.com/vs](https://visualstudio.microsoft.com/vs)|-|- |- 
+Visual Studio Previous Version|[visualstudio.microsoft.com/vs/older-downloads](https://visualstudio.microsoft.com/vs/older-downloads)|-|- |- 
+Rider|[www.jetbrains.com/rider](https://www.jetbrains.com/rider)|-|- | DotNet
+ILSpy|[github.com/icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)|<img src="https://img.shields.io/github/stars/icsharpcode/ILSpy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/icsharpcode/ILSpy?style=for-the-badge" />
 
 # Compare Tool
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-WinMerge|[https://winmerge.org](https://winmerge.org)|-|-|-
+WinMerge|[winmerge.org](https://winmerge.org)|-|-|-
 
 # Database
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-SQL Server Latest Version|[https://www.microsoft.com/en-us/sql-server](https://www.microsoft.com/en-us/sql-server)|-|-|-
-SQL Server 2019|[https://www.microsoft.com/en-us/sql-server/sql-server-2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019)|-|-|-
-SQL Server 2017|[https://www.microsoft.com/en-us/sql-server/sql-server-2017](https://www.microsoft.com/en-us/sql-server/sql-server-2017)|-|-|-
-SQL Server 2016|[https://www.microsoft.com/en-us/sql-server/sql-server-2016](https://www.microsoft.com/en-us/sql-server/sql-server-2016)|-|-|-
-SQL Server 2005-2014|[https://learn.microsoft.com/en-us/previous-versions/sql](https://learn.microsoft.com/en-us/previous-versions/sql)|-|-|-
+SQL Server Latest Version|[www.microsoft.com/en-us/sql-server](https://www.microsoft.com/en-us/sql-server)|-|-|-
+SQL Server 2019|[www.microsoft.com/en-us/sql-server/sql-server-2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019)|-|-|-
+SQL Server 2017|[www.microsoft.com/en-us/sql-server/sql-server-2017](https://www.microsoft.com/en-us/sql-server/sql-server-2017)|-|-|-
+SQL Server 2016|[www.microsoft.com/en-us/sql-server/sql-server-2016](https://www.microsoft.com/en-us/sql-server/sql-server-2016)|-|-|-
+SQL Server 2005-2014|[learn.microsoft.com/en-us/previous-versions/sql](https://learn.microsoft.com/en-us/previous-versions/sql)|-|-|-
 
 # Database Client
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-Azure Data Studio|[https://learn.microsoft.com/en-us/azure-data-studio](https://learn.microsoft.com/en-us/azure-data-studio)|||
-HeidiSQL|[https://www.heidisql.com](https://www.heidisql.com)|||
+Azure Data Studio|[learn.microsoft.com/en-us/azure-data-studio](https://learn.microsoft.com/en-us/azure-data-studio)|||
+HeidiSQL|[www.heidisql.com](https://www.heidisql.com)|||
 
 # Developer Toolbox
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-MooTool|[https://github.com/rememberber/MooTool](https://github.com/rememberber/MooTool)|<img src="https://img.shields.io/github/stars/rememberber/MooTool?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/rememberber/MooTool?style=for-the-badge" />|
-PowerToys|[https://github.com/microsoft/PowerToysl](https://github.com/microsoft/PowerToys)|<img src="https://img.shields.io/github/stars/microsoft/PowerToys?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/microsoft/PowerToys?style=for-the-badge" />|
+MooTool|[github.com/rememberber/MooTool](https://github.com/rememberber/MooTool)|<img src="https://img.shields.io/github/stars/rememberber/MooTool?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/rememberber/MooTool?style=for-the-badge" />|
+PowerToys|[github.com/microsoft/PowerToysl](https://github.com/microsoft/PowerToys)|<img src="https://img.shields.io/github/stars/microsoft/PowerToys?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/microsoft/PowerToys?style=for-the-badge" />|
 
 # Dock Bar
 Name| Address | Star| Last Update
 -|-|-|-|
-TranslucentTB|[https://github.com/TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)|<img src="https://img.shields.io/github/stars/TranslucentTB/TranslucentTB?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/TranslucentTB/TranslucentTB?style=for-the-badge" />
-Nexus|[https://www.winstep.net/nexus.asp](https://www.winstep.net/nexus.asp)|-|-
+TranslucentTB|[github.com/TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)|<img src="https://img.shields.io/github/stars/TranslucentTB/TranslucentTB?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/TranslucentTB/TranslucentTB?style=for-the-badge" />
+Nexus|[www.winstep.net/nexus.asp](https://www.winstep.net/nexus.asp)|-|-
 
 # Downloader
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-文件下载器|[https://github.com/GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)|[![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=for-the-badge)](https://github.com/GopeedLab/gopeed/stargazers)|<img src="https://img.shields.io/github/last-commit/GopeedLab/gopeed?style=for-the-badge" />|
+文件下载器|[github.com/GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)|[![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=for-the-badge)](https://github.com/GopeedLab/gopeed/stargazers)|<img src="https://img.shields.io/github/last-commit/GopeedLab/gopeed?style=for-the-badge" />|
 
 # Disk Tool
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-TreeSize Free|[https://apps.microsoft.com/detail/xp9m26rsclnt88](https://apps.microsoft.com/detail/xp9m26rsclnt88)|-|-|-
-DiskGenius|[https://www.diskgenius.com](https://www.diskgenius.com)|-|-|-
-CrystalDiskInfo|[https://crystalmark.info](https://crystalmark.info)|-|-|-
+TreeSize Free|[apps.microsoft.com/detail/xp9m26rsclnt88](https://apps.microsoft.com/detail/xp9m26rsclnt88)|-|-|-
+DiskGenius|[www.diskgenius.com](https://www.diskgenius.com)|-|-|-
+CrystalDiskInfo|[crystalmark.info](https://crystalmark.info)|-|-|-
 
 # File Explorer
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-Spacedrive|[https://github.com/spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)|<img src="https://img.shields.io/github/stars/spacedriveapp/spacedrive?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/spacedriveapp/spacedrive?style=for-the-badge" />
+Spacedrive|[github.com/spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)|<img src="https://img.shields.io/github/stars/spacedriveapp/spacedrive?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/spacedriveapp/spacedrive?style=for-the-badge" />
 
 # File Transfer
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-LocalSend|[https://localsend.org](https://localsend.org)|-|-|LAN file transfer
+LocalSend|[localsend.org](https://localsend.org)|-|-|LAN file transfer
 
 # Git Client
 Name| Address | Star| Last Update
 -|-|-|-|
-TortoiseGit|[https://tortoisegit.org](https://tortoisegit.org/)|-|-
+TortoiseGit|[tortoisegit.org](https://tortoisegit.org/)|-|-
 
 # Keyboard&Mouse Sharing
 Name| Address | Star| Last Update
 -|-|-|-|
-Synergy Binaries|[https://github.com/DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries)|<img src="https://img.shields.io/github/stars/DEAKSoftware/Synergy-Binaries?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/DEAKSoftware/Synergy-Binaries?style=for-the-badge" />
-Synergy Core|[https://github.com/symless/synergy-core](https://github.com/symless/synergy-core)|<img src="https://img.shields.io/github/stars/symless/synergy-core?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/symless/synergy-core?style=for-the-badge" />
-barrier|[https://github.com/debauchee/barrier](https://github.com/debauchee/barrier)|<img src="https://img.shields.io/github/stars/debauchee/barrier?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/debauchee/barrier?style=for-the-badge" />
+Synergy Binaries|[github.com/DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries)|<img src="https://img.shields.io/github/stars/DEAKSoftware/Synergy-Binaries?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/DEAKSoftware/Synergy-Binaries?style=for-the-badge" />
+Synergy Core|[github.com/symless/synergy-core](https://github.com/symless/synergy-core)|<img src="https://img.shields.io/github/stars/symless/synergy-core?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/symless/synergy-core?style=for-the-badge" />
+barrier|[github.com/debauchee/barrier](https://github.com/debauchee/barrier)|<img src="https://img.shields.io/github/stars/debauchee/barrier?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/debauchee/barrier?style=for-the-badge" />
 
 # Monitor
 Name| Address | Star| Last Update
 -|-|-|-|
-RunCat_for_windows|[https://github.com/Kyome22/RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows)|<img src="https://img.shields.io/github/stars/Kyome22/RunCat_for_windows?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Kyome22/RunCat_for_windows?style=for-the-badge" />
-TrafficMonitor|[https://github.com/zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)|<img src="https://img.shields.io/github/stars/zhongyang219/TrafficMonitor?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/zhongyang219/TrafficMonitor?style=for-the-badge" />
-Win Memory Cleaner|[https://github.com/IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner)|<img src="https://img.shields.io/github/stars/IgorMundstein/WinMemoryCleaner?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/IgorMundstein/WinMemoryCleaner?style=for-the-badge" />
+RunCat_for_windows|[github.com/Kyome22/RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows)|<img src="https://img.shields.io/github/stars/Kyome22/RunCat_for_windows?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Kyome22/RunCat_for_windows?style=for-the-badge" />
+TrafficMonitor|[github.com/zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)|<img src="https://img.shields.io/github/stars/zhongyang219/TrafficMonitor?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/zhongyang219/TrafficMonitor?style=for-the-badge" />
+Win Memory Cleaner|[github.com/IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner)|<img src="https://img.shields.io/github/stars/IgorMundstein/WinMemoryCleaner?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/IgorMundstein/WinMemoryCleaner?style=for-the-badge" />
 
 # Screenshot
 Name| Address | Star| Last Update
 -|-|-|-|
-ScreenToGif|[https://github.com/NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif)|<img src="https://img.shields.io/github/stars/NickeManarin/ScreenToGif?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/NickeManarin/ScreenToGif?style=for-the-badge" />
+ScreenToGif|[github.com/NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif)|<img src="https://img.shields.io/github/stars/NickeManarin/ScreenToGif?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/NickeManarin/ScreenToGif?style=for-the-badge" />
 PicPick|[PicPick](https://picpick.app/en/)|-|-
-LiveRecorder|[https://github.com/ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder)|<img src="https://img.shields.io/github/stars/ihmily/DouyinLiveRecorder?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ihmily/DouyinLiveRecorder?style=for-the-badge" />
+LiveRecorder|[github.com/ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder)|<img src="https://img.shields.io/github/stars/ihmily/DouyinLiveRecorder?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ihmily/DouyinLiveRecorder?style=for-the-badge" />
 
 # Search
 Name| Address | Star| Last Update
 -|-|-|-|
-uTools|[https://www.u.tools](https://www.u.tools)|-|- 
+uTools|[www.u.tools](https://www.u.tools)|-|- 
 
 # Service
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-NSSM |[https://nssm.cc/download](https://nssm.cc/download)|||Win Service Manager
+NSSM |[nssm.cc/download](https://nssm.cc/download)|||Win Service Manager
 
 # Storage
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-AList|[https://github.com/AlistGo/alist](https://github.com/AlistGo/alist)|<img src="https://img.shields.io/github/stars/AlistGo/alist?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AlistGo/alist?style=for-the-badge" />|Storage Aggregation、WebDVA
-CloudDrive|[https://www.clouddrive2.com](https://www.clouddrive2.com)|-|-| Storage Aggregation
-RaiDrive|[https://www.raidrive.com](https://www.raidrive.com)|-|-| Mount Storage
+AList|[github.com/AlistGo/alist](https://github.com/AlistGo/alist)|<img src="https://img.shields.io/github/stars/AlistGo/alist?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AlistGo/alist?style=for-the-badge" />|Storage Aggregation、WebDVA
+CloudDrive|[www.clouddrive2.com](https://www.clouddrive2.com)|-|-| Storage Aggregation
+RaiDrive|[www.raidrive.com](https://www.raidrive.com)|-|-| Mount Storage
 
 
 # Terminal
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-Windows Terminal|[https://github.com/microsoft/terminal](https://github.com/microsoft/terminal)|<img src="https://img.shields.io/github/stars/microsoft/terminal?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/microsoft/terminal?style=for-the-badge" />|
-FinalShell|[https://www.hostbuf.com](https://www.hostbuf.com/)|-|-|- 
-WinSCP|[https://winscp.net](https://winscp.net/)|||FTP Client
-FileZilla|[https://filezilla-project.org](https://filezilla-project.org/)|||FTP Client
-S3 Browser|[https://s3browser.com/](https://s3browser.com)|||Amazon S3、Amazon CloudFront
-Filestash|[https://github.com/mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)|<img src="https://img.shields.io/github/stars/mickael-kerjean/filestash?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mickael-kerjean/filestash?style=for-the-badge" />|S3、FTP
+Windows Terminal|[github.com/microsoft/terminal](https://github.com/microsoft/terminal)|<img src="https://img.shields.io/github/stars/microsoft/terminal?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/microsoft/terminal?style=for-the-badge" />|
+FinalShell|[www.hostbuf.com](https://www.hostbuf.com/)|-|-|- 
+WinSCP|[winscp.net](https://winscp.net/)|||FTP Client
+FileZilla|[filezilla-project.org](https://filezilla-project.org/)|||FTP Client
+S3 Browser|[s3browser.com/](https://s3browser.com)|||Amazon S3、Amazon CloudFront
+Filestash|[github.com/mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)|<img src="https://img.shields.io/github/stars/mickael-kerjean/filestash?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mickael-kerjean/filestash?style=for-the-badge" />|S3、FTP
 
 # Virtual Machine
 Name| Address | Star| Last Update
