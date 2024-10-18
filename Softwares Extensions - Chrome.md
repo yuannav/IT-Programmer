@@ -2,12 +2,6 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 ChromeAppHeroes|[github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)|<img src="https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/zhaoolee/ChromeAppHeroes?style=for-the-badge" />|-
 
-Not Classified
-Name| Address | Desc
--|-|-|
-Open Same Tab|[Open Same Tab](https://chromewebstore.google.com/detail/fpkmdincjjgncpbbmeclgbpjmgdehmph?hl=en)|
-Tampermonkey|[Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)|
-
 # Android
 Name| Address | Desc
 -|-|-|
@@ -60,7 +54,6 @@ Name| Address | Desc
 Octotree - GitHub code tree|[Octotree - GitHub code tree](https://chromewebstore.google.com/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)| 
 Enhanced Github|[github.com/softvar/enhanced-github](https://github.com/softvar/enhanced-github)<br/>[Chrome Web Store](https://chromewebstore.google.com/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd)| Single File Download
 
-
 # History
 Name| Address | Desc
 -|-|-|
@@ -82,6 +75,11 @@ Name| Address| Desc
 -|-|-|
 Auto Refresh Plus|[Auto Refresh Plus](https://chromewebstore.google.com/detail/hgeljhfekpckiiplhkigfehkdpldcggm)| 
 
+# Script 
+Name| Address | Desc
+-|-|-|
+Tampermonkey|[Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)|
+
 # SEO 
 Name| Address | Desc
 -|-|-|
@@ -91,8 +89,6 @@ Datalayer Checker|[Datalayer Checker](https://chromewebstore.google.com/detail/f
 Name| Address | Desc
 -|-|-|
 Open Same Tab|[Open Same Tab](https://chromewebstore.google.com/detail/open-same-tab/fpkmdincjjgncpbbmeclgbpjmgdehmph)|
-
-
 
 # User Agent 
 Name| Address | Desc
