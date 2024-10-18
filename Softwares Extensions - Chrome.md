@@ -54,7 +54,7 @@ Clean Master|[Clean Master](https://chromewebstore.google.com/detail/clean-maste
 Name| Address| Desc
 -|-|-|
 Redirect Path|[Redirect Path](https://chromewebstore.google.com/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll)| 
-Link Redirect Trace|[https://chromewebstore.google.com/detail/link-redirect-trace/nnpljppamoaalgkieeciijbcccohlpoh)| 
+Link Redirect Trace|[Link Redirect Trace]https://chromewebstore.google.com/detail/link-redirect-trace/nnpljppamoaalgkieeciijbcccohlpoh)| 
 
 # Refresh
 Name| Address| Desc
