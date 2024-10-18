@@ -29,6 +29,7 @@ FASTER|[https://github.com/microsoft/FASTER](https://github.com/microsoft/FASTER
 EasyCaching|[https://github.com/dotnetcore/EasyCaching](https://github.com/dotnetcore/EasyCaching)|<img src="https://img.shields.io/github/stars/dotnetcore/EasyCaching?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dotnetcore/EasyCaching?style=for-the-badge" />|Redis
 StackExchange.Redis|[https://github.com/StackExchange/StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis)|<img src="https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/StackExchange/StackExchange.Redis?style=for-the-badge" />|Redis
 CSRedis|[https://github.com/2881099/csredis](https://github.com/2881099/csredis)|<img src="https://img.shields.io/github/stars/2881099/csredis?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/2881099/csredis?style=for-the-badge" />|Redis
+CacheManager|[https://github.com/MichaCo/CacheManager](https://github.com/MichaCo/CacheManager)|<img src="https://img.shields.io/github/stars/MichaCo/CacheManager?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/MichaCo/CacheManager?style=for-the-badge" />|Redis
 
 
 # Config Center
