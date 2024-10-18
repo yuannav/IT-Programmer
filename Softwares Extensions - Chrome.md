@@ -3,11 +3,10 @@ Name| Address | Star| Last Update| Desc
 ChromeAppHeroes|[https://github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)|<img src="https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/zhaoolee/ChromeAppHeroes?style=for-the-badge" />|-
 
 Not Classified
-Name| Address | Star| Last Update| Desc
--|-|-|-|-|
-Open Same Tab|[Open Same Tab](https://chromewebstore.google.com/detail/fpkmdincjjgncpbbmeclgbpjmgdehmph?hl=en)|-|-  |-
-Tampermonkey|[Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)|-|-  |-
-
+Name| Address | Desc
+-|-|-|
+Open Same Tab|[Open Same Tab](https://chromewebstore.google.com/detail/fpkmdincjjgncpbbmeclgbpjmgdehmph?hl=en)|
+Tampermonkey|[Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)|
 # Audio
 Name| Address | Desc
 -|-|-|
