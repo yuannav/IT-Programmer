@@ -38,3 +38,9 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 IT-TOOLS|[https://github.com/CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)|<img src="https://img.shields.io/github/stars/CorentinTh/it-tools?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/CorentinTh/it-tools?style=for-the-badge" />|-
 
+# Temp Mail
+Name| Address | Desc
+-|-|-|
+Temp Mail|[https://temp-mail.org](https://temp-mail.org)|
+Tempmailo|[https://tempmailo.com](https://tempmailo.com)|
+Tempail|[https://tempail.com](https://tempail.com)|
