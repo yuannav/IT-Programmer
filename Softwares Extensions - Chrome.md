@@ -50,6 +50,12 @@ Name| Address| Desc
 -|-|-|
 Clean Master|[Clean Master](https://chromewebstore.google.com/detail/clean-master-the-best-chr/eagiakjmjnblliacokhcalebgnhellfi?hl=en)| 
 
+# Redirect
+Name| Address| Desc
+-|-|-|
+Redirect Path|[Redirect Path](https://chromewebstore.google.com/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll)| 
+Link Redirect Trace|[https://chromewebstore.google.com/detail/link-redirect-trace/nnpljppamoaalgkieeciijbcccohlpoh)| 
+
 # Refresh
 Name| Address| Desc
 -|-|-|
