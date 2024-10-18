@@ -1,17 +1,29 @@
 
-# Data Formatter
+# Data Formatter - SQL
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 SQL Formatter|[https://www.json.cn/sql-format](https://www.json.cn/sql-format)|-|-|-
 SQL Compression|[https://www.json.cn/sql-format](https://www.json.cn/sql-format)|-|-|-
+
+# Data Formatter - XML
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
 XML Formatter|[https://www.json.cn/xml-format](https://www.json.cn/xml-format)|-|-|-
 XML Compression|[https://www.json.cn/xml-format](https://www.json.cn/xml-format)|-|-|-
 XML Sort|[https://www.json.cn/xml-format](https://www.json.cn/xml-format)|-|-|-
+
+# Data Formatter - JSON
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
 JSON Formatter|[https://jsonformatter.org](https://jsonformatter.org/)|-|-|-
 JSON Compression|[https://www.json.cn/jsonzip](https://www.json.cn/jsonzip)|-|-|-
 JSON 转义|[https://www.json.cn/jsonzip](https://www.json.cn/jsonzip)|-|-|-
 JSON 去转义|[https://www.json.cn/jsonzip](https://www.json.cn/jsonzip)|-|-|-
 JSON Sort|[https://www.json.cn/jsonsort](https://www.json.cn/jsonsort/)|-|-|-
+
+# Data Formatter - GraphQL
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
 GraphQL Formatter|[https://jsonformatter.org/graphql-formatter](https://jsonformatter.org/graphql-formatter)|-|-|-
 
 
