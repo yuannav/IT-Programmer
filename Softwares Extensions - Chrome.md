@@ -51,7 +51,7 @@ Fake Filler|[Fake Filler](https://chromewebstore.google.com/detail/fake-filler/b
 # GitHub
 Name| Address | Desc
 -|-|-|
-Octotree - GitHub code tree|[Octotree - GitHub code tree](https://chromewebstore.google.com/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)| 
+Octotree - GitHub code tree|[Octotree - GitHub code tree](https://chromewebstore.google.com/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)| Tree View
 Enhanced Github|[github.com/softvar/enhanced-github](https://github.com/softvar/enhanced-github)<br/>[Chrome Web Store](https://chromewebstore.google.com/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd)| Single File Download
 
 # History
