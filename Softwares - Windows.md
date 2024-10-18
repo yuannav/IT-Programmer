@@ -10,6 +10,7 @@ Name| Address | Star| Last Update| Desc
 Postman|[https://www.postman.com](https://www.postman.com)|-|- |- 
 Apipost|[https://www.apipost.cn](https://www.apipost.cn)|-|- |- 
 Apifox|[https://apifox.com](https://apifox.com)|-|- |- 
+SoapUI|[https://www.soapui.org](https://www.soapui.org)|-|- |- 
 
 # Browser
 Name| Address | Star| Last Update| Desc
