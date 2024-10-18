@@ -39,6 +39,12 @@ Name| Address|Desc
 -|-|-|
 Video Downloader Plus|[Video Downloader Plus](https://chromewebstore.google.com/detail/video-downloader-plus/hkdmdpdhfaamhgaojpelccmeehpfljgf)| 
 bilibili哔哩哔哩下载助手|[csser.top](https://csser.top)<br/>[Chrome Web Store](https://chromewebstore.google.com/detail/bilibili%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B/bfcbfobhcjbkilcbehlnlchiinokiijp)|
+
+# Extension
+Name| Address|Desc
+-|-|-|
+Extension Manager|[Extension Manager](https://chromewebstore.google.com/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco)|
+
 # Form
 Name| Address|Desc
 -|-|-|
