@@ -68,6 +68,7 @@ Dapr SDK for .NET|[https://github.com/dapr/dotnet-sdk](https://github.com/dapr/d
 Name| Address | Star| Last Update
 -|-|-|-|
 ImageSharp|[https://github.com/SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp)|<img src="https://img.shields.io/github/stars/SixLabors/ImageSharp?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/SixLabors/ImageSharp?style=for-the-badge" />
+SharpZipLib|[https://github.com/icsharpcode/SharpZipLib](https://github.com/icsharpcode/SharpZipLib)|<img src="https://img.shields.io/github/stars/icsharpcode/SharpZipLib?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/icsharpcode/SharpZipLib?style=for-the-badge" />
 
 # Http Client
 Name| Address | Star| Last Update
