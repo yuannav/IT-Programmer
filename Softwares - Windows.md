@@ -13,10 +13,10 @@ Apifox|[apifox.com](https://apifox.com)|-|- |-
 SoapUI|[www.soapui.org](https://www.soapui.org)|-|- |- 
 
 # Browser
-Name| Address | Star| Last Update| Desc
--|-|-|-|-|
-Chrome|[www.google.com/chrome](https://www.google.com/chrome)|-|- |- 
-Firefox|[www.mozilla.org](https://www.mozilla.org)|-|- |- 
+Name| Address | Desc
+-|-|-|
+Chrome|[www.google.com/chrome](https://www.google.com/chrome)| 
+Firefox|[www.mozilla.org](https://www.mozilla.org)|
 
 # Capture Packet
 Name| Address | Star| Last Update
