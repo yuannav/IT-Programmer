@@ -42,7 +42,7 @@ Name| Address | Star| Last Update| Desc
 WinMerge|[winmerge.org](https://winmerge.org)|-|-|-
 
 # Database
-Name| Address | Star| Desc
+Name| Address | Desc
 -|-|-|
 SQL Server Latest Version|[www.microsoft.com/en-us/sql-server](https://www.microsoft.com/en-us/sql-server)|
 SQL Server 2019|[www.microsoft.com/en-us/sql-server/sql-server-2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019)|
