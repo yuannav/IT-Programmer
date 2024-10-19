@@ -42,13 +42,13 @@ Name| Address | Star| Last Update| Desc
 WinMerge|[winmerge.org](https://winmerge.org)|-|-|-
 
 # Database
-Name| Address | Star| Last Update| Desc
--|-|-|-|-|
-SQL Server Latest Version|[www.microsoft.com/en-us/sql-server](https://www.microsoft.com/en-us/sql-server)|-|-|-
-SQL Server 2019|[www.microsoft.com/en-us/sql-server/sql-server-2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019)|-|-|-
-SQL Server 2017|[www.microsoft.com/en-us/sql-server/sql-server-2017](https://www.microsoft.com/en-us/sql-server/sql-server-2017)|-|-|-
-SQL Server 2016|[www.microsoft.com/en-us/sql-server/sql-server-2016](https://www.microsoft.com/en-us/sql-server/sql-server-2016)|-|-|-
-SQL Server 2005-2014|[learn.microsoft.com/en-us/previous-versions/sql](https://learn.microsoft.com/en-us/previous-versions/sql)|-|-|-
+Name| Address | Star| Desc
+-|-|-|
+SQL Server Latest Version|[www.microsoft.com/en-us/sql-server](https://www.microsoft.com/en-us/sql-server)|
+SQL Server 2019|[www.microsoft.com/en-us/sql-server/sql-server-2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019)|
+SQL Server 2017|[www.microsoft.com/en-us/sql-server/sql-server-2017](https://www.microsoft.com/en-us/sql-server/sql-server-2017)|
+SQL Server 2016|[www.microsoft.com/en-us/sql-server/sql-server-2016](https://www.microsoft.com/en-us/sql-server/sql-server-2016)|
+SQL Server 2005-2014|[learn.microsoft.com/en-us/previous-versions/sql](https://learn.microsoft.com/en-us/previous-versions/sql)|
 
 # Database Client
 Name| Address | Star| Last Update| Desc
