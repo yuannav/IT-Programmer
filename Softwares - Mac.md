@@ -58,8 +58,8 @@ BLEUnlock|[github.com/ts1/BLEUnlock](https://github.com/ts1/BLEUnlock)|<img src=
 Name| Address | Star| Last Update
 -|-|-|-|
 Stats|[github.com//exelban/stats](https://github.com//exelban/stats)|<img src="https://img.shields.io/github/stars/exelban/stats?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/exelban/stats?style=for-the-badge" />
-State|[App Store](https://apps.apple.com/cn/app/state-cpu-fan-memory-tem/id1472818562?l=en-GB&mt=12)|-|- 
-RunCat|[App Store](https://apps.apple.com/us/app/runcat/id1429033973?mt=12)|-|- 
+State|[Apple App Store](https://apps.apple.com/cn/app/state-cpu-fan-memory-tem/id1472818562?l=en-GB&mt=12)|-|- 
+RunCat|[Apple App Store](https://apps.apple.com/us/app/runcat/id1429033973?mt=12)|-|- 
 
 # Player
 Name| Address | Star| Last Update| Desc
@@ -71,7 +71,7 @@ VLC|[github.com/videolan/vlc](https://github.com/videolan/vlc)|<img src="https:/
 Name| Address | Star| Last Update
 -|-|-|-|
 uTools|[www.u.tools](https://www.u.tools)|-|- 
-All-极速文件搜索工具|[All-极速文件搜索工具](https://apps.apple.com/cn/app/all-%E6%9E%81%E9%80%9F%E6%96%87%E4%BB%B6%E6%90%9C%E7%B4%A2%E5%B7%A5%E5%85%B7/id1618593760)|-|- 
+All-极速文件搜索工具|[Apple App Store](https://apps.apple.com/cn/app/all-%E6%9E%81%E9%80%9F%E6%96%87%E4%BB%B6%E6%90%9C%E7%B4%A2%E5%B7%A5%E5%85%B7/id1618593760)|-|- 
 
 # Sleep
 Name| Address | Star| Last Update| Desc
@@ -83,5 +83,5 @@ KeepingYouAwake|[github.com/newmarcel/KeepingYouAwake](https://github.com/newmar
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 UTM|[github.com/utmapp/UTM](https://github.com/utmapp/UTM)|<img src="https://img.shields.io/github/stars/utmapp/UTM?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/utmapp/UTM?style=for-the-badge" />| Free
-Parallels Desktop|[hhttps://www.parallels.cn](https://www.parallels.cn/)|-|-|-
+Parallels Desktop|[www.parallels.cn](https://www.parallels.cn/)|-|-|-
 VMware Fusion|[VMware Fusion 13](https://customerconnect.vmware.com/cn/downloads/info/slug/desktop_end_user_computing/vmware_fusion/13_0)|-|-|-
