@@ -72,6 +72,9 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 KeepingYouAwake|[github.com/newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)|<img src="https://img.shields.io/github/stars/newmarcel/KeepingYouAwake?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/newmarcel/KeepingYouAwake?style=for-the-badge" />|
 
+# Player
+VLC|[github.com/videolan/vlc](https://github.com/videolan/vlc)|<img src="https://img.shields.io/github/stars/videolan/vlc?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/videolan/vlc?style=for-the-badge" />|
+
 # Virtual Machine
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
