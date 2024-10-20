@@ -43,7 +43,7 @@ Jwt|[www.json.cn/jwt](https://www.json.cn/jwt)|
 Name| Address | Desc
 -|-|-|
 We Transfer|[wetransfer.com](https://wetransfer.com)|
-
+Swiss Transfer|[www.swisstransfer.com](https://www.swisstransfer.com)|
 
 # Integrated Toolbox
 Name| Address | Star| Last Update| Desc
