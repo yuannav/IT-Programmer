@@ -7,9 +7,9 @@ Swagger Editor|[github.com/swagger-api/swagger-editor](https://github.com/swagge
 Name| Address | Pulls| Last Update| Desc
 -|-|-|-|-|
 standalone-chrome|[hub.docker.com/r/selenium/standalone-chrome](https://hub.docker.com/r/selenium/standalone-chrome)|<img src="https://img.shields.io/docker/pulls/selenium/standalone-chrome?color=%2348BB78&logo=docker&label=pulls" alt="Downloads" />||
-browserless/chrome|[hub.docker.com/r/browserless/chrome](https://hub.docker.com/r/browserless/chrome)|||
-alpine-chrome|[hub.docker.com/r/selenium/zenika/alpine-chrome](https://hub.docker.com/r/zenika/alpine-chrome)|||
-kasmweb/chrome|[hub.docker.com/r/selenium/kasmweb/chrome](https://hub.docker.com/r/kasmweb/chrome)|||
+browserless/chrome|[hub.docker.com/r/browserless/chrome](https://hub.docker.com/r/browserless/chrome)|<img src="https://img.shields.io/docker/pulls/browserless/chrome?color=%2348BB78&logo=docker&label=pulls" alt="Downloads" />||
+alpine-chrome|[hub.docker.com/r/selenium/zenika/alpine-chrome](https://hub.docker.com/r/zenika/alpine-chrome)|<img src="https://img.shields.io/docker/pulls/zenika/alpine-chrome?color=%2348BB78&logo=docker&label=pulls" alt="Downloads" />||
+kasmweb/chrome|[hub.docker.com/r/selenium/kasmweb/chrome](https://hub.docker.com/r/kasmweb/chrome)|<img src="https://img.shields.io/docker/pulls/kasmweb/chrome?color=%2348BB78&logo=docker&label=pulls" alt="Downloads" />||
 # Database
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
