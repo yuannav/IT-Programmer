@@ -3,6 +3,10 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 Swagger Editor|[github.com/swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor)<br/>[hub.docker.com/r/swaggerapi/swagger-editor](https://hub.docker.com/r/swaggerapi/swagger-editor)|<img src="https://img.shields.io/github/stars/swagger-api/swagger-editor?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/swagger-api/swagger-editor?style=for-the-badge" />|
 
+# Chrome
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+standalone-chrome|[hub.docker.com/r/selenium/standalone-chrome/tags](https://hub.docker.com/r/selenium/standalone-chrome/tags)|||
 
 # Database
 Name| Address | Star| Last Update| Desc
