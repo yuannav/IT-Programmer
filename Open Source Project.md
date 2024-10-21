@@ -114,6 +114,11 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 AList|[github.com/AlistGo/alist](https://github.com/AlistGo/alist)|<img src="https://img.shields.io/github/stars/AlistGo/alist?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AlistGo/alist?style=for-the-badge" />|Storage Aggregation、WebDVA
 
+# Storage
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Nushell|[github.com/nushell/nushell](https://github.com/nushell/nushell)|<img src="https://img.shields.io/github/stars/nushell/nushell?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/nushell/nushell?style=for-the-badge" />| Shell
+
 
 # Version Manage
 Name| Respository Address | Star| Last Update|Desc
