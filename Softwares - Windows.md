@@ -139,7 +139,7 @@ RaiDrive|[www.raidrive.com](https://www.raidrive.com)|-|-| Mount Storage
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 Windows Terminal|[github.com/microsoft/terminal](https://github.com/microsoft/terminal)|<img src="https://img.shields.io/github/stars/microsoft/terminal?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/microsoft/terminal?style=for-the-badge" />| CLI
-1Remote|[github.com/1Remote/1Remotel](https://github.com/1Remote/1Remote)|<img src="https://img.shields.io/github/stars/1Remote/1Remote?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/1Remote/1Remote?style=for-the-badge" />|
+1Remote|[github.com/1Remote/1Remotel](https://github.com/1Remote/1Remote)|<img src="https://img.shields.io/github/stars/1Remote/1Remote?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/1Remote/1Remote?style=for-the-badge" />| RDP, SSH, VNC, Telnet, FTP, RemoteApp
 FinalShell|[www.hostbuf.com](https://www.hostbuf.com/)|-|-|Windows、Linux
 WinSCP|[winscp.net](https://winscp.net/)|||FTP
 FileZilla|[filezilla-project.org](https://filezilla-project.org/)|||FTP
