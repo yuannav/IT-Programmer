@@ -75,6 +75,11 @@ Name| Address| Desc
 -|-|-|
 Auto Refresh Plus|[Auto Refresh Plus](https://chromewebstore.google.com/detail/hgeljhfekpckiiplhkigfehkdpldcggm)| 
 
+# Monitor
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+ActivityWatch Web Watcher|[github.com/ActivityWatch/aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web)|<img src="https://img.shields.io/github/stars/ActivityWatch/aw-watcher-web?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ActivityWatch/aw-watcher-web?style=for-the-badge" />|
+
 # Script 
 Name| Address | Desc
 -|-|-|
