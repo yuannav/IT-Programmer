@@ -106,6 +106,7 @@ barrier|[github.com/debauchee/barrier](https://github.com/debauchee/barrier)|<im
 # Monitor
 Name| Address | Star| Last Update
 -|-|-|-|
+ActivityWatch|[github.com/ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)|<img src="https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ActivityWatch/activitywatch?style=for-the-badge" />| CLI
 RunCat_for_windows|[github.com/Kyome22/RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows)|<img src="https://img.shields.io/github/stars/Kyome22/RunCat_for_windows?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Kyome22/RunCat_for_windows?style=for-the-badge" />
 TrafficMonitor|[github.com/zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)|<img src="https://img.shields.io/github/stars/zhongyang219/TrafficMonitor?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/zhongyang219/TrafficMonitor?style=for-the-badge" />
 Win Memory Cleaner|[github.com/IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner)|<img src="https://img.shields.io/github/stars/IgorMundstein/WinMemoryCleaner?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/IgorMundstein/WinMemoryCleaner?style=for-the-badge" />
