@@ -145,7 +145,7 @@ Nushell|[github.com/nushell/nushell](https://github.com/nushell/nushell)|<img sr
 FinalShell|[www.hostbuf.com](https://www.hostbuf.com/)|-|-|Windows、Linux
 WinSCP|[winscp.net](https://winscp.net/)|||FTP
 FileZilla|[filezilla-project.org](https://filezilla-project.org/)|||FTP
-S3 Browser|[s3browser.com/](https://s3browser.com)||S3
+S3 Browser|[s3browser.com/](https://s3browser.com)|||S3
 
 # Virtual Machine
 Name| Address | Star| Last Update
