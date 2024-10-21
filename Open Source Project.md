@@ -104,6 +104,12 @@ Crontab UI|[github.com/alseambusher/crontab-ui](https://github.com/alseambusher/
 ComfyUI|[github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)|<img src="https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/comfyanonymous/ComfyUI?style=for-the-badge" />
 QingLong|[github.com/whyour/qinglong](https://github.com/whyour/qinglong)|<img src="https://img.shields.io/github/stars/whyour/qinglong?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/whyour/qinglong?style=for-the-badge" />
 
+# Storage
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+AList|[github.com/AlistGo/alist](https://github.com/AlistGo/alist)|<img src="https://img.shields.io/github/stars/AlistGo/alist?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AlistGo/alist?style=for-the-badge" />|Storage Aggregation、WebDVA
+
+
 # Version Manage
 Name| Respository Address | Star| Last Update|Desc
 -|-|-|-|-|
