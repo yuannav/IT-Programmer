@@ -31,6 +31,14 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 AList|[github.com/AlistGo/alist](https://github.com/AlistGo/alist)|<img src="https://img.shields.io/github/stars/AlistGo/alist?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AlistGo/alist?style=for-the-badge" />|Storage Aggregation、WebDVA
 
+
+# Storage
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Filestash|[github.com/mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)|<img src="https://img.shields.io/github/stars/mickael-kerjean/filestash?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mickael-kerjean/filestash?style=for-the-badge" />|S3、FTP、WebDav
+
+
+
 # Virtual Machine
 Name| Address | Star| Last Update
 -|-|-|-|
