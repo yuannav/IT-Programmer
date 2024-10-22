@@ -92,10 +92,12 @@ Name| Address | Star| Last Update| Desc
 LocalSend|[localsend.org](https://localsend.org)|-|-|LAN file transfer
 
 # Git Client
-Name| Address | Star| Last Update
--|-|-|-|
-TortoiseGit|[tortoisegit.org](https://tortoisegit.org/)|-|-
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+TortoiseGit|[tortoisegit.org](https://tortoisegit.org/)|||
+Sourcetree|[www.sourcetreeapp.com](https://www.sourcetreeapp.com/)|-|||
 GitVersion|[github.com/GitTools/GitVersion](https://github.com/GitTools/GitVersion)|<img src="https://img.shields.io/github/stars/GitTools/GitVersion?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/GitTools/GitVersion?style=for-the-badge" />|
+
 
 # Keyboard&Mouse Sharing
 Name| Address | Star| Last Update
