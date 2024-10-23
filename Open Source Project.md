@@ -59,6 +59,11 @@ Gitness|[github.com/harness/gitness](https://github.com/harness/gitness)|<img sr
 Gitea|[github.com/go-gitea/gitea](https://github.com/go-gitea/gitea)|<img src="https://img.shields.io/github/stars/go-gitea/gitea?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/go-gitea/gitea?style=for-the-badge" />
 Walle Web|[github.com/meolu/walle-web](https://github.com/meolu/walle-web)|<img src="https://img.shields.io/github/stars/meolu/walle-web?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/meolu/walle-web?style=for-the-badge" />
 
+# Lock
+Name| Respository Address | Star| Last Update|Desc
+-|-|-|-|-|
+StatiCrypt|[github.com/robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt)|<img src="https://img.shields.io/github/stars/robinmoisson/staticrypt?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/robinmoisson/staticrypt?style=for-the-badge" />|Page Password
+
 # IP Address
 Name| Respository Address | Star| Last Update|Desc
 -|-|-|-|-|
@@ -98,8 +103,6 @@ SiYuan|[github.com/siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)|<i
 Name| Respository Address | Star| Last Update
 -|-|-|-|
 CasaOS|[github.com/IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)|<img src="https://img.shields.io/github/stars/IceWhaleTech/CasaOS?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/IceWhaleTech/CasaOS?style=for-the-badge" />
-
-
 
 # Storage
 Name| Address | Star| Last Update|Desc
