@@ -62,7 +62,7 @@ Walle Web|[github.com/meolu/walle-web](https://github.com/meolu/walle-web)|<img 
 # Lock
 Name| Respository Address | Star| Last Update|Desc
 -|-|-|-|-|
-StatiCrypt|[github.com/robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt)|<img src="https://img.shields.io/github/stars/robinmoisson/staticrypt?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/robinmoisson/staticrypt?style=for-the-badge" />|Page Password
+StatiCrypt|[github.com/robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt)|<img src="https://img.shields.io/github/stars/robinmoisson/staticrypt?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/robinmoisson/staticrypt?style=for-the-badge" />|Web Page Password
 
 # IP Address
 Name| Respository Address | Star| Last Update|Desc
