@@ -27,6 +27,7 @@ Watchtower|[github.com/containrrr/watchtower](https://github.com/containrrr/watc
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Dockge|[github.com/louislam/dockge](https://github.com/louislam/dockge)<br/>[hub.docker.com/r/louislam/dockge](https://hub.docker.com/r/louislam/dockge)|<img src="https://img.shields.io/github/stars/louislam/dockge?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/louislam/dockge?style=for-the-badge" />|Docker Compose UI Manager
+docker-autocompose|[github.com/Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose)|<img src="https://img.shields.io/github/stars/Red5d/docker-autocompose?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Red5d/docker-autocompose?style=for-the-badge" />|Generates a docker-compose.yaml
 
 # Docker - Image
 Name| Address | Star| Last Update|Desc
