@@ -32,6 +32,7 @@ Dockge|[github.com/louislam/dockge](https://github.com/louislam/dockge)<br/>[hub
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 WUD|[github.com/getwud/wud](https://github.com/getwud/wud)<br/>[hub.docker.com/r/getwud/wud](https://hub.docker.com/r/getwud/wud)|<img src="https://img.shields.io/github/stars/getwud/wud?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/getwud/wud?style=for-the-badge" />|Image New Version Notification
+Diun|[github.com/crazy-max/diun](https://github.com/crazy-max/diun)<br/>[hub.docker.com/r/crazymax/diun](https://hub.docker.com/r/crazymax/diun)|<img src="https://img.shields.io/github/stars/crazy-max/diun?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/crazy-max/diun?style=for-the-badge" />|Image New Version Notification
 
 # Docker - UI
 Name| Address | Star| Last Update|Desc
