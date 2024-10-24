@@ -16,6 +16,11 @@ Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
 py12306|[github.com/pjialin/py12306](https://github.com/pjialin/py12306)|<img src="https://img.shields.io/github/stars/pjialin/py12306?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/pjialin/py12306?style=for-the-badge" />| 
 
+# Auth
+Name| Respository Address | Star| Last Update| Desc
+-|-|-|-|-|
+JustAuth|[github.com/justauth/JustAuth](https://github.com/justauth/JustAuth)|<img src="https://img.shields.io/github/stars/justauth/JustAuth?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/justauth/JustAuth?style=for-the-badge" />|Third Auth Library For Java
+
 # Build Site
 Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
