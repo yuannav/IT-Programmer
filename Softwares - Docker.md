@@ -17,6 +17,11 @@ Name| Address | Star| Last Update| Desc
 Redis|[hub.docker.com/_/redis](https://hub.docker.com/_/redis)|||Cache
 MySQL|[hub.docker.com/_/mysql](https://hub.docker.com/_/mysql)|||
 
+# Image
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Watchtower|[github.com/containrrr/watchtower](https://github.com/containrrr/watchtower)<br/>[hub.docker.com/r/containrrr/watchtower](https://hub.docker.com/r/containrrr/watchtower)|<img src="https://img.shields.io/github/stars/containrrr/watchtower?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/containrrr/watchtower?style=for-the-badge" />|Automating Docker Container Base Image Updates
+
 # Mac
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
