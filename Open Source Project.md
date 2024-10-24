@@ -129,7 +129,7 @@ CasaOS|[github.com/IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)|
 Name| Respository Address | Star| Last Update|Desc
 -|-|-|-|-|
 GOProxy|[github.com/snail007/goproxy](https://github.com/snail007/goproxy)|<img src="https://img.shields.io/github/stars/snail007/goproxy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/snail007/goproxy?style=for-the-badge" />|  HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP etc
-NPS|github.com/ehang-io/nps](https://github.com/ehang-io/nps)|<img src="https://img.shields.io/github/stars/ehang-io/nps?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ehang-io/nps?style=for-the-badge" />| tcp、udp、socks5、http etc
+NPS|[github.com/ehang-io/nps](https://github.com/ehang-io/nps)|<img src="https://img.shields.io/github/stars/ehang-io/nps?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ehang-io/nps?style=for-the-badge" />| tcp、udp、socks5、http etc
 
 # Storage
 Name| Address | Star| Last Update|Desc
