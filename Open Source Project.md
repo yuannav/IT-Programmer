@@ -25,6 +25,7 @@ Dashy|[github.com/Lissy93/dashy](https://github.com/Lissy93/dashy)|<img src="htt
 # Downloader
 Name| Respository Address | Star| Last Update|Desc
 -|-|-|-|-|
+MediaGo|[github.com/caorushizi/mediago](https://github.com/caorushizi/mediago)|<img src="https://img.shields.io/github/stars/caorushizi/mediago?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/caorushizi/mediago?style=for-the-badge" />| 
 Lux|[github.com/iawia002/lux](https://github.com/iawia002/lux)|<img src="https://img.shields.io/github/stars/iawia002/lux?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/iawia002/lux?style=for-the-badge" />|Video Downloader
 Motrix|[github.com/agalwood/Motrix](https://github.com/agalwood/Motrix)|<img src="https://img.shields.io/github/stars/agalwood/Motrix?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/agalwood/Motrix?style=for-the-badge" />| 
 
