@@ -22,10 +22,16 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Watchtower|[github.com/containrrr/watchtower](https://github.com/containrrr/watchtower)<br/>[hub.docker.com/r/containrrr/watchtower](https://hub.docker.com/r/containrrr/watchtower)|<img src="https://img.shields.io/github/stars/containrrr/watchtower?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/containrrr/watchtower?style=for-the-badge" />|Automating Docker Container Base Image Updates
 
+
 # Docker - Compose
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Dockge|[github.com/louislam/dockge](https://github.com/louislam/dockge)<br/>[hub.docker.com/r/louislam/dockge](https://hub.docker.com/r/louislam/dockge)|<img src="https://img.shields.io/github/stars/louislam/dockge?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/louislam/dockge?style=for-the-badge" />|Docker Compose UI Manager
+
+# Docker - Image
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+WUD|[github.com/getwud/wud](https://github.com/getwud/wud)<br/>[hub.docker.com/r/getwud/wud](https://hub.docker.com/r/getwud/wud)|<img src="https://img.shields.io/github/stars/getwud/wud?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/getwud/wud?style=for-the-badge" />|Image New Version Notification
 
 # Docker - UI
 Name| Address | Star| Last Update|Desc
