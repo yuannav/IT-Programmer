@@ -31,6 +31,7 @@ Dockge|[github.com/louislam/dockge](https://github.com/louislam/dockge)<br/>[hub
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Portainer|[github.com/portainer/portainer](https://github.com/portainer/portainer)<br/>[hub.docker.com/r/portainer/portainer](https://hub.docker.com/r/portainer/portainer)|<img src="https://img.shields.io/github/stars/portainer/portainer?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/portainer/portainer?style=for-the-badge" />|
+Yacht|[github.com/SelfhostedPro/Yacht](https://github.com/selfhostedpro/yacht)<br/>[hub.docker.com/r/selfhostedpro/yacht](https://hub.docker.com/r/SelfhostedPro/Yacht)|<img src="https://img.shields.io/github/stars/SelfhostedPro/Yacht?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/SelfhostedPro/Yacht?style=for-the-badge" />|
 
 # Mac
 Name| Address | Star| Last Update|Desc
