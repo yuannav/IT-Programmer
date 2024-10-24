@@ -126,8 +126,8 @@ Name| Respository Address | Star| Last Update
 CasaOS|[github.com/IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)|<img src="https://img.shields.io/github/stars/IceWhaleTech/CasaOS?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/IceWhaleTech/CasaOS?style=for-the-badge" />
 
 # Proxy
-Name| Respository Address | Star| Last Update
--|-|-|-|
+Name| Respository Address | Star| Last Update|Desc
+-|-|-|-|-|
 GOProxy|[github.com/snail007/goproxy](https://github.com/snail007/goproxy)|<img src="https://img.shields.io/github/stars/snail007/goproxy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/snail007/goproxy?style=for-the-badge" />|  HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP etc
 
 # Storage
