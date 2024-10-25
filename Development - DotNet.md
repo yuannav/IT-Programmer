@@ -60,6 +60,12 @@ ASP.NET Boilerplate|[github.com/aspnetboilerplate/aspnetboilerplate](https://git
 Furion|[github.com/MonkSoul/Furion](https://github.com/MonkSoul/Furion)|<img src="https://img.shields.io/github/stars/MonkSoul/Furion?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/MonkSoul/Furion?style=for-the-badge" />
 OSharp|[github.com/dotnetcore/osharp](https://github.com/dotnetcore/osharp)|<img src="https://img.shields.io/github/stars/dotnetcore/osharp?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dotnetcore/osharp?style=for-the-badge" />
 
+# DI
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Autofac|[github.com/autofac/Autofac](https://github.com/autofac/Autofac)|<img src="https://img.shields.io/github/stars/autofac/Autofac?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/autofac/Autofac?style=for-the-badge" />|
+
+
 # Event Bus
 Name| Address | Star| Last Update
 -|-|-|-|
