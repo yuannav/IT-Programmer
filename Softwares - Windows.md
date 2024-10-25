@@ -16,6 +16,12 @@ Name| Address | Desc
 Chrome|[www.google.com/chrome](https://www.google.com/chrome)| 
 Firefox|[www.mozilla.org](https://www.mozilla.org)|
 
+# C#
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+ILSpy |[github.com/icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)|<img src="https://img.shields.io/github/stars/icsharpcode/ILSpy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/icsharpcode/ILSpy?style=for-the-badge" />|Decompiler 
+
+
 # Capture Packet
 Name| Address | Star| Last Update
 -|-|-|-|
