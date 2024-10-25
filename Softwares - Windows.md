@@ -20,6 +20,7 @@ Firefox|[www.mozilla.org](https://www.mozilla.org)|
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 ILSpy |[github.com/icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)|<img src="https://img.shields.io/github/stars/icsharpcode/ILSpy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/icsharpcode/ILSpy?style=for-the-badge" />|Decompiler 
+dnSpy  |[github.com/dnSpy/dnSpy](https://github.com/dnSpy/dnSpy)|<img src="https://img.shields.io/github/stars/dnSpy/dnSpy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dnSpy/dnSpy?style=for-the-badge" />|Debugger
 
 
 # Capture Packet
