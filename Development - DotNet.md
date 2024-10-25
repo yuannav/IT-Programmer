@@ -179,6 +179,8 @@ Name| Address | Star| Last Update
 -|-|-|-|
 Hangfire|[github.com/HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire)|<img src="https://img.shields.io/github/stars/HangfireIO/Hangfire?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/HangfireIO/Hangfire?style=for-the-badge" />
 Quartz.NET|[github.com/quartznet/quartznet](https://github.com/quartznet/quartznet)|<img src="https://img.shields.io/github/stars/quartznet/quartznet?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/quartznet/quartznet?style=for-the-badge" />
+FluentScheduler|[github.com/fluentscheduler/FluentScheduler](https://github.com/fluentscheduler/FluentScheduler)|<img src="https://img.shields.io/github/stars/fluentscheduler/FluentScheduler?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/fluentscheduler/FluentScheduler?style=for-the-badge" />|
+
 
 # Utility
 Name| Address | Star| Last Update
