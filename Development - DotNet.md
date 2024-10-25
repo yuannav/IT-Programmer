@@ -60,7 +60,7 @@ ASP.NET Boilerplate|[github.com/aspnetboilerplate/aspnetboilerplate](https://git
 Furion|[github.com/MonkSoul/Furion](https://github.com/MonkSoul/Furion)|<img src="https://img.shields.io/github/stars/MonkSoul/Furion?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/MonkSoul/Furion?style=for-the-badge" />
 OSharp|[github.com/dotnetcore/osharp](https://github.com/dotnetcore/osharp)|<img src="https://img.shields.io/github/stars/dotnetcore/osharp?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dotnetcore/osharp?style=for-the-badge" />
 
-# DI
+# Dependency Injection
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Autofac|[github.com/autofac/Autofac](https://github.com/autofac/Autofac)|<img src="https://img.shields.io/github/stars/autofac/Autofac?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/autofac/Autofac?style=for-the-badge" />|
@@ -114,7 +114,7 @@ AutoMapper|[github.com/AutoMapper/AutoMapper](https://github.com/AutoMapper/Auto
 Mapster|[github.com/MapsterMapper/Mapster](https://github.com/MapsterMapper/Mapster)|<img src="https://img.shields.io/github/stars/MapsterMapper/Mapster?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/MapsterMapper/Mapster?style=for-the-badge" />|
 
 
-# Network
+# Network Programming
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 NetCoreServer|[github.com/chronoxor/NetCoreServer](https://github.com/chronoxor/NetCoreServer)|<img src="https://img.shields.io/github/stars/chronoxor/NetCoreServer?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/chronoxor/NetCoreServer?style=for-the-badge" />|
