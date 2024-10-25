@@ -3,12 +3,12 @@ Name| Address | Star| Last Update
 图拉丁吧工具箱|[图拉丁吧工具箱](https://www.tbtool.cn)|-|-
 
 # API Manager
-Name| Address | Star| Last Update| Desc
--|-|-|-|-|
-Postman|[www.postman.com](https://www.postman.com)|-|- |- 
-Apipost|[www.apipost.cn](https://www.apipost.cn)|-|- |- 
-Apifox|[apifox.com](https://apifox.com)|-|- |- 
-SoapUI|[www.soapui.org](https://www.soapui.org)|-|- |- 
+Name| Address | Desc
+-|-|-|
+Postman|[www.postman.com](https://www.postman.com)||
+Apipost|[www.apipost.cn](https://www.apipost.cn)|| 
+Apifox|[apifox.com](https://apifox.com)||
+SoapUI|[www.soapui.org](https://www.soapui.org)||
 
 # Browser
 Name| Address | Desc
