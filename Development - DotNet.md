@@ -100,6 +100,11 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 AutoMapper|[github.com/AutoMapper/AutoMapper](https://github.com/AutoMapper/AutoMapper)|<img src="https://img.shields.io/github/stars/AutoMapper/AutoMapper?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AutoMapper/AutoMapper?style=for-the-badge" />|
 
+# Network
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+NetCoreServer|[github.com/chronoxor/NetCoreServer](https://github.com/chronoxor/NetCoreServer)|<img src="https://img.shields.io/github/stars/chronoxor/NetCoreServer?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/chronoxor/NetCoreServer?style=for-the-badge" />|
+
 
 # OAuth 
 Name| Address | Star| Last Update
@@ -134,9 +139,11 @@ Name| Address | Star| Last Update
 MethodTimer.Fody|[github.com/Fody/MethodTimer](https://github.com/Fody/MethodTimer)|<img src="https://img.shields.io/github/stars/Fody/MethodTimer?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Fody/MethodTimer?style=for-the-badge" />
 
 # Search
-Name| Address | Star| Last Update
--|-|-|-|
-SolrNet|[github.com/solrnet/solrnet](https://github.com/solrnet/solrnet)|<img src="https://img.shields.io/github/stars/solrnet/solrnet?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/solrnet/solrnet?style=for-the-badge" />
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+SolrNet|[github.com/solrnet/solrnet](https://github.com/solrnet/solrnet)|<img src="https://img.shields.io/github/stars/solrnet/solrnet?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/solrnet/solrnet?style=for-the-badge" />|
+Elasticsearch .NET Client|[github.com/elastic/elasticsearch-net](https://github.com/elastic/elasticsearch-net)|<img src="https://img.shields.io/github/stars/elastic/elasticsearch-net?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/elastic/elasticsearch-net?style=for-the-badge" />|
+Lucene.NET|[github.com/apache/lucenenet](https://github.com/apache/lucenenet)|<img src="https://img.shields.io/github/stars/apache/lucenenet?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/apache/lucenenet?style=for-the-badge" />|
 
 
 # Serialization
