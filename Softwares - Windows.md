@@ -54,7 +54,8 @@ SQL Server 2005-2014|[learn.microsoft.com/en-us/previous-versions/sql](https://l
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 Azure Data Studio|[learn.microsoft.com/en-us/azure-data-studio](https://learn.microsoft.com/en-us/azure-data-studio)|||
-HeidiSQL|[www.heidisql.com](https://www.heidisql.com)|||
+HeidiSQL|[www.heidisql.com](https://www.heidisql.com)|||Support MySQL、SQLServer、PostgreSQL、SQLite etc
+Redis Insight|[github.com/RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight)|<img src="https://img.shields.io/github/stars/RedisInsight/RedisInsight?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/RedisInsight/RedisInsight?style=for-the-badge" />|Redis
 
 # Developer Toolbox
 Name| Address | Star| Last Update| Desc
