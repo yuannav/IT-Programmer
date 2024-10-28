@@ -46,6 +46,12 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Docker-OSX|[github.com/sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)<br/>[hub.docker.com/r/sickcodes/docker-osx](https://hub.docker.com/r/sickcodes/docker-osx)|<img src="https://img.shields.io/github/stars/sickcodes/Docker-OSX?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/sickcodes/Docker-OSX?style=for-the-badge" />|Run macOS VM in a Docker
 
+# Monitor
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Beszel|[github.com/henrygd/beszel](https://github.com/henrygd/beszel)|<img src="https://img.shields.io/github/stars/henrygd/beszel?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/henrygd/beszel?style=for-the-badge" />|
+
+
 # NAS
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
