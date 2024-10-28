@@ -20,8 +20,8 @@ py12306|[github.com/pjialin/py12306](https://github.com/pjialin/py12306)|<img sr
 Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
 JustAuth|[github.com/justauth/JustAuth](https://github.com/justauth/JustAuth)|<img src="https://img.shields.io/github/stars/justauth/JustAuth?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/justauth/JustAuth?style=for-the-badge" />|Third Auth Library For Java
-CollectiveOAuth|[github.com/justauth/CollectiveOAuth](https://github.com/justauth/CollectiveOAuth)<br>[gitee.com/rthinking/CollectiveOAuth](https://gitee.com/rthinking/CollectiveOAuth)|<img src="https://img.shields.io/github/stars/justauth/CollectiveOAuth?style=for-the-badge" /><br/><img src='https://gitee.com/rthinking/CollectiveOAuth/badge/star.svg?theme=white' alt='star'></img>|<img src="https://img.shields.io/github/last-commit/justauth/CollectiveOAuth?style=for-the-badge" />|Base C#
-Casbin.NET|[github.com/casbin/Casbin.NET](https://github.com/casbin/Casbin.NET)|<img src="https://img.shields.io/github/stars/casbin/Casbin.NET?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/casbin/Casbin.NET?style=for-the-badge" />|Third Auth Library For Java
+CollectiveOAuth|[github.com/justauth/CollectiveOAuth](https://github.com/justauth/CollectiveOAuth)<br>[gitee.com/rthinking/CollectiveOAuth](https://gitee.com/rthinking/CollectiveOAuth)|<img src="https://img.shields.io/github/stars/justauth/CollectiveOAuth?style=for-the-badge" /><br/><img src='https://gitee.com/rthinking/CollectiveOAuth/badge/star.svg?theme=white' alt='star'></img>|<img src="https://img.shields.io/github/last-commit/justauth/CollectiveOAuth?style=for-the-badge" />|Base .NET
+Casbin.NET|[github.com/casbin/Casbin.NET](https://github.com/casbin/Casbin.NET)|<img src="https://img.shields.io/github/stars/casbin/Casbin.NET?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/casbin/Casbin.NET?style=for-the-badge" />|Base .NET
 
 
 # Build Site
