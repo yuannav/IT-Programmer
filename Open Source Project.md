@@ -20,6 +20,8 @@ py12306|[github.com/pjialin/py12306](https://github.com/pjialin/py12306)|<img sr
 Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
 JustAuth|[github.com/justauth/JustAuth](https://github.com/justauth/JustAuth)|<img src="https://img.shields.io/github/stars/justauth/JustAuth?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/justauth/JustAuth?style=for-the-badge" />|Third Auth Library For Java
+CollectiveOAuth|[github.com/justauth/CollectiveOAuth](https://github.com/justauth/CollectiveOAuth)|<img src="https://img.shields.io/github/stars/justauth/CollectiveOAuth?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/justauth/CollectiveOAuth?style=for-the-badge" />|Base C#
+
 
 # Build Site
 Name| Respository Address | Star| Last Update| Desc
