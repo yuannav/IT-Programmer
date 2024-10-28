@@ -10,6 +10,12 @@ Apipost|[www.apipost.cn](https://www.apipost.cn)||
 Apifox|[apifox.com](https://apifox.com)||
 SoapUI|[www.soapui.org](https://www.soapui.org)||
 
+# App Manager
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+Bulk Crap Uninstaller|[github.com/Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)|<img src="https://img.shields.io/github/stars/Klocman/Bulk-Crap-Uninstaller?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Klocman/Bulk-Crap-Uninstaller?style=for-the-badge" />|
+
+
 # Browser
 Name| Address | Desc
 -|-|-|
