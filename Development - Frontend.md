@@ -9,3 +9,8 @@ pino|[github.com/pinojs/pino](https://github.com/pinojs/pino)|<img src="https://
 Name| Address | Star| Last Update
 -|-|-|-|
 HyperUI|[github.com/markmead/hyperui](https://github.com/markmead/hyperui)|<img src="https://img.shields.io/github/stars/markmead/hyperui?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/markmead/hyperui?style=for-the-badge" />
+
+# Icon
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Icones|[github.com/antfu-collective/icones](https://github.com/antfu-collective/icones)|<img src="https://img.shields.io/github/stars/antfu-collective/icones?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/antfu-collective/icones?style=for-the-badge" />|
