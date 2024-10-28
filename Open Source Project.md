@@ -134,6 +134,14 @@ Name| Respository Address | Star| Last Update|Desc
 GOProxy|[github.com/snail007/goproxy](https://github.com/snail007/goproxy)|<img src="https://img.shields.io/github/stars/snail007/goproxy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/snail007/goproxy?style=for-the-badge" />|  HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP etc
 NPS|[github.com/ehang-io/nps](https://github.com/ehang-io/nps)|<img src="https://img.shields.io/github/stars/ehang-io/nps?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ehang-io/nps?style=for-the-badge" />| tcp、udp、socks5、http etc
 
+
+
+# Reporting Tools
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+CellReport|[github.com/justauth/CollectiveOAuth](https://github.com/justauth/CollectiveOAuth)<br>[gitee.com/noneday/CellReport](https://gitee.com/noneday/CellReport)|<img src="https://img.shields.io/github/stars/justauth/CollectiveOAuth?style=for-the-badge" /><br/><img src='https://gitee.com/noneday/CellReport/badge/star.svg?theme=white' alt='star'></img>|<img src="https://img.shields.io/github/last-commit/justauth/CollectiveOAuth?style=for-the-badge" />|
+
+
 # Storage
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
