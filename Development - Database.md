@@ -15,6 +15,8 @@ Elastic stack (ELK) on Docker|[github.com/deviantony/docker-elk](https://github.
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 Tiny RDM|[github.com/tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm)|<img src="https://img.shields.io/github/stars/tiny-craft/tiny-rdm?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/tiny-craft/tiny-rdm?style=for-the-badge" />|Redis Client
+Another Redis Desktop Manager|[github.com/qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)|<img src="https://img.shields.io/github/stars/qishibo/AnotherRedisDesktopManager?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/qishibo/AnotherRedisDesktopManager?style=for-the-badge" />|Redis Client
+
 
 # SQL 
 Name| Address | Star| Last Update| Desc
