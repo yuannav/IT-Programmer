@@ -171,10 +171,11 @@ Lucene.NET|[github.com/apache/lucenenet](https://github.com/apache/lucenenet)|<i
 
 
 # Serialization
-Name| Address | Star| Last Update
--|-|-|-|
-Newtonsoft.Json|[github.com/JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)|<img src="https://img.shields.io/github/stars/JamesNK/Newtonsoft.Json?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/JamesNK/Newtonsoft.Json?style=for-the-badge" />
-protobuf-net|[github.com/protobuf-net/protobuf-net](https://github.com/protobuf-net/protobuf-net)|<img src="https://img.shields.io/github/stars/protobuf-net/protobuf-net?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/protobuf-net/protobuf-net?style=for-the-badge" />
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Newtonsoft.Json|[github.com/JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)|<img src="https://img.shields.io/github/stars/JamesNK/Newtonsoft.Json?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/JamesNK/Newtonsoft.Json?style=for-the-badge" />|
+protobuf-net|[github.com/protobuf-net/protobuf-net](https://github.com/protobuf-net/protobuf-net)|<img src="https://img.shields.io/github/stars/protobuf-net/protobuf-net?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/protobuf-net/protobuf-net?style=for-the-badge" />|
+Swifter.Json|[github.com/Dogwei/Swifter.Json](https://github.com/Dogwei/Swifter.Json)|<img src="https://img.shields.io/github/stars/Dogwei/Swifter.Json?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Dogwei/Swifter.Json?style=for-the-badge" />|
 
 # Task Scheduling
 Name| Address | Star| Last Update
