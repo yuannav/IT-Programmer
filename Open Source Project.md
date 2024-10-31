@@ -123,6 +123,7 @@ Name| Respository Address | Star| Last Update|Desc
 -|-|-|-|-|
 BookStack|[github.com/BookStackApp/BookStack](https://github.com/BookStackApp/BookStack)|<img src="https://img.shields.io/github/stars/BookStackApp/BookStack?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/BookStackApp/BookStack?style=for-the-badge" />|
 SiYuan|[github.com/siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)|<img src="https://img.shields.io/github/stars/siyuan-note/siyuan?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/siyuan-note/siyuan?style=for-the-badge" />|Personal Knowledge
+Paperless-ngx|[github.com/paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)|<img src="https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/paperless-ngx/paperless-ngx?style=for-the-badge" />|
 
 # Personal Cloud
 Name| Respository Address | Star| Last Update
