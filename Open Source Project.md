@@ -16,6 +16,11 @@ Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
 py12306|[github.com/pjialin/py12306](https://github.com/pjialin/py12306)|<img src="https://img.shields.io/github/stars/pjialin/py12306?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/pjialin/py12306?style=for-the-badge" />| 
 
+# AI
+Name| Respository Address | Star| Last Update| Desc
+-|-|-|-|-|
+CompreFace|[github.com/exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)|<img src="https://img.shields.io/github/stars/exadel-inc/CompreFace?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/exadel-inc/CompreFace?style=for-the-badge" />|
+
 # Auth
 Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
