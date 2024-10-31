@@ -79,6 +79,7 @@ PowerToys|[github.com/microsoft/PowerToysl](https://github.com/microsoft/PowerTo
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 MD3 Windows|[github.com/Runixe786/MD3-Windows](https://github.com/Runixe786/MD3-Windows)|<img src="https://img.shields.io/github/stars/Runixe786/MD3-Windows?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Runixe786/MD3-Windows?style=for-the-badge" />|
+Seelen UI|[github.com/eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)|<img src="https://img.shields.io/github/stars/eythaann/Seelen-UI?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/eythaann/Seelen-UI?style=for-the-badge" />|
 
 # Dock Bar
 Name| Address | Star| Last Update
