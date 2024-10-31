@@ -129,6 +129,11 @@ Name| Respository Address | Star| Last Update
 -|-|-|-|
 CasaOS|[github.com/IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)|<img src="https://img.shields.io/github/stars/IceWhaleTech/CasaOS?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/IceWhaleTech/CasaOS?style=for-the-badge" />
 
+# Photo
+Name| Respository Address | Star| Last Update
+-|-|-|-|
+Immich|[github.com/immich-app/immich](https://github.com/immich-app/immich)|<img src="https://img.shields.io/github/stars/immich-app/immich?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/immich-app/immich?style=for-the-badge" />|
+
 # Proxy
 Name| Respository Address | Star| Last Update|Desc
 -|-|-|-|-|
