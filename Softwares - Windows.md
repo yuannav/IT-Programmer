@@ -67,6 +67,7 @@ Name| Address | Star| Last Update| Desc
 Azure Data Studio|[learn.microsoft.com/en-us/azure-data-studio](https://learn.microsoft.com/en-us/azure-data-studio)|||
 HeidiSQL|[www.heidisql.com](https://www.heidisql.com)|||Support MySQL、SQLServer、PostgreSQL、SQLite etc
 Redis Insight|[github.com/RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight)|<img src="https://img.shields.io/github/stars/RedisInsight/RedisInsight?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/RedisInsight/RedisInsight?style=for-the-badge" />|Redis
+Chat2DB|[github.com/CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB)|<img src="https://img.shields.io/github/stars/CodePhiliaX/Chat2DB?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/CodePhiliaX/Chat2DB?style=for-the-badge" />|MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more
 
 # Developer Toolbox
 Name| Address | Star| Last Update| Desc
