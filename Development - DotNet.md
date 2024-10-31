@@ -160,6 +160,11 @@ Name| Address | Star| Last Update
 -|-|-|-|
 MethodTimer.Fody|[github.com/Fody/MethodTimer](https://github.com/Fody/MethodTimer)|<img src="https://img.shields.io/github/stars/Fody/MethodTimer?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Fody/MethodTimer?style=for-the-badge" />
 
+# Plugin
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Plugin|[github.com/yiyungent/PluginCore](https://github.com/yiyungent/PluginCore)|<img src="https://img.shields.io/github/stars/yiyungent/PluginCore?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/yiyungent/PluginCore?style=for-the-badge" />|
+
 # RateLimit
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
