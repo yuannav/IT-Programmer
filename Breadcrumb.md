@@ -6,3 +6,4 @@ GitHub中文排行榜|[github.com/pinkieli/GitHub-Chinese-Top-Charts](https://gi
 数据结构与算法译文集|[github.com/apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh)|<img src="https://img.shields.io/github/stars/apachecn/apachecn-algo-zh?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/apachecn/apachecn-algo-zh?style=for-the-badge" />| 
 C#/.NET/.NET Core学习、工作、面试指南|[github.com/YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)|<img src="https://img.shields.io/github/stars/YSGStudyHards/DotNetGuide?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/YSGStudyHards/DotNetGuide?style=for-the-badge" />|
 C# GitHub 趋势榜|[github.com/trending/c%23?since=monthly](https://github.com/trending/c%23?since=monthly)|||
+简单易用的效率工具平台|[github.com/yiyungent/KnifeHub](https://github.com/yiyungent/KnifeHub)|||
