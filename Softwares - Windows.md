@@ -157,7 +157,7 @@ LiveRecorder|[github.com/ihmily/DouyinLiveRecorder](https://github.com/ihmily/Do
 Name| Address | Star| Last Update
 -|-|-|-|
 uTools|[www.u.tools](https://www.u.tools)|-|- 
-
+Anytxt Searcher|[anytxt.net](https://anytxt.net)|-|- 
 # Service
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
