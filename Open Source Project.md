@@ -49,6 +49,11 @@ Name| Address | Star| Last Update| Desc
 Redis Insight|[github.com/RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight)|<img src="https://img.shields.io/github/stars/RedisInsight/RedisInsight?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/RedisInsight/RedisInsight?style=for-the-badge" />|Redis
 Chat2DB|[github.com/CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB)|<img src="https://img.shields.io/github/stars/CodePhiliaX/Chat2DB?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/CodePhiliaX/Chat2DB?style=for-the-badge" />|MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more
 
+# Database Design
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+drawDB|[github.com/drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)|<img src="https://img.shields.io/github/stars/drawdb-io/drawdb?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/drawdb-io/drawdb?style=for-the-badge" />|
+
 # Downloader
 Name| Respository Address | Star| Last Update|Desc
 -|-|-|-|-|
