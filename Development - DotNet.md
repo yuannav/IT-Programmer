@@ -125,6 +125,10 @@ NetCoreServer|[github.com/chronoxor/NetCoreServer](https://github.com/chronoxor/
 SuperSocket|[github.com/kerryjiang/SuperSocket](https://github.com/kerryjiang/SuperSocket)|<img src="https://img.shields.io/github/stars/kerryjiang/SuperSocket?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/kerryjiang/SuperSocket?style=for-the-badge" />|
 DotNetty|[github.com/Azure/DotNetty](https://github.com/Azure/DotNetty)|<img src="https://img.shields.io/github/stars/Azure/DotNetty?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Azure/DotNetty?style=for-the-badge" />|
 
+# NuGet
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+BaGet |[github.com/projectx-codehagen/Badget](https://github.com/projectx-codehagen/Badget)|<img src="https://img.shields.io/github/stars/projectx-codehagen/Badget?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/projectx-codehagen/Badget?style=for-the-badge" />| NuGet Server
 
 # OAuth 
 Name| Address | Star| Last Update
