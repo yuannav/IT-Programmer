@@ -10,6 +10,7 @@ MinIO Client SDK for .NET|[github.com/minio/minio-dotnet](https://github.com/min
 zhontai admin|[github.com/zhontai/Admin.Core](https://github.com/zhontai/Admin.Core)|<img src="https://img.shields.io/github/stars/zhontai/Admin.Core?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/zhontai/Admin.Core?style=for-the-badge" />
 WTM|[github.com/dotnetcore/WTM](https://github.com/dotnetcore/WTM)|<img src="https://img.shields.io/github/stars/dotnetcore/WTM?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dotnetcore/WTM?style=for-the-badge" />
 reverse-proxy|[github.com/microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy)|<img src="https://img.shields.io/github/stars/microsoft/reverse-proxy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/microsoft/reverse-proxy?style=for-the-badge" />
+Eto.Forms|[github.com/picoe/Eto](https://github.com/picoe/Eto)|<img src="https://img.shields.io/github/stars/picoe/Eto?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/picoe/Eto?style=for-the-badge" />|
 
 # AI
 Name| Address | Star| Last Update|Desc
