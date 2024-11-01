@@ -185,6 +185,7 @@ AspNetCoreRateLimit|[github.com/stefanprodan/AspNetCoreRateLimit](https://github
 
 # Report Tool
 Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
 Seal Report|[github.com/ariacom/Seal-Report](https://github.com/ariacom/Seal-Report)|<img src="https://img.shields.io/github/stars/ariacom/Seal-Report?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ariacom/Seal-Report?style=for-the-badge" />|
 
 # Search
