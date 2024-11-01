@@ -52,6 +52,11 @@ Name| Address | Star| Last Update
 DotnetSpider|[github.com/dotnetcore/DotnetSpider](https://github.com/dotnetcore/DotnetSpider)|<img src="https://img.shields.io/github/stars/dotnetcore/DotnetSpider?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dotnetcore/DotnetSpider?style=for-the-badge" />
 AngleSharp|[github.com/AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp)|<img src="https://img.shields.io/github/stars/AngleSharp/AngleSharp?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AngleSharp/AngleSharp?style=for-the-badge" />
 
+# Data
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Bogus |[github.com/bchavez/Bogus](https://github.com/bchavez/Bogus)|<img src="https://img.shields.io/github/stars/bchavez/Bogus?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/bchavez/Bogus?style=for-the-badge" />|Fake Data Generator 
+
 # Development Framework
 Name| Address | Star| Last Update
 -|-|-|-|
@@ -64,7 +69,6 @@ OSharp|[github.com/dotnetcore/osharp](https://github.com/dotnetcore/osharp)|<img
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Autofac|[github.com/autofac/Autofac](https://github.com/autofac/Autofac)|<img src="https://img.shields.io/github/stars/autofac/Autofac?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/autofac/Autofac?style=for-the-badge" />|
-
 
 # Event Bus
 Name| Address | Star| Last Update
@@ -179,6 +183,9 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 AspNetCoreRateLimit|[github.com/stefanprodan/AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit)|<img src="https://img.shields.io/github/stars/stefanprodan/AspNetCoreRateLimit?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/stefanprodan/AspNetCoreRateLimit?style=for-the-badge" />|
 
+# Report Tool
+Name| Address | Star| Last Update|Desc
+Seal Report|[github.com/ariacom/Seal-Report](https://github.com/ariacom/Seal-Report)|<img src="https://img.shields.io/github/stars/ariacom/Seal-Report?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ariacom/Seal-Report?style=for-the-badge" />|
 
 # Search
 Name| Address | Star| Last Update|Desc
