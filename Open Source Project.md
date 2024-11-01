@@ -155,6 +155,12 @@ GoAccess|[github.com/allinurl/goaccess](https://github.com/allinurl/goaccess)|<i
 ActivityWatch|[github.com/ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)|<img src="https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ActivityWatch/activitywatch?style=for-the-badge" />| 
 changedetection|[github.com/dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)|<img src="https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dgtlmoon/changedetection.io?style=for-the-badge" />| Web Page Change Detection 
 
+# OCR
+Name| Respository Address | Star| Last Update|Desc
+-|-|-|-|-|
+Surya|[github.com/VikParuchuri/surya](https://github.com/VikParuchuri/surya)|<img src="https://img.shields.io/github/stars/VikParuchuri/surya?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/VikParuchuri/surya?style=for-the-badge" />|
+
+
 # WeiXin Related
 Name| Respository Address | Star| Last Update|Desc
 -|-|-|-|-|
