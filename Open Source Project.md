@@ -44,6 +44,7 @@ Name| Respository Address | Star| Last Update| Desc
 QtScrcpy|[github.com/barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy)|<img src="https://img.shields.io/github/stars/barry-ran/QtScrcpy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/barry-ran/QtScrcpy?style=for-the-badge" />|Projection Screen
 
 
+
 # Data
 Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
@@ -72,6 +73,9 @@ AB Download Manager|[github.com/amir1376/ab-download-manager](https://github.com
 MediaGo|[github.com/caorushizi/mediago](https://github.com/caorushizi/mediago)|<img src="https://img.shields.io/github/stars/caorushizi/mediago?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/caorushizi/mediago?style=for-the-badge" />| 
 Lux|[github.com/iawia002/lux](https://github.com/iawia002/lux)|<img src="https://img.shields.io/github/stars/iawia002/lux?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/iawia002/lux?style=for-the-badge" />|Video Downloader
 Motrix|[github.com/agalwood/Motrix](https://github.com/agalwood/Motrix)|<img src="https://img.shields.io/github/stars/agalwood/Motrix?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/agalwood/Motrix?style=for-the-badge" />| 
+You-Get|[github.com/soimort/you-get](https://github.com/soimort/you-get)|<img src="https://img.shields.io/github/stars/soimort/you-get?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/soimort/you-get?style=for-the-badge" />|
+gallery-dl|[github.com/mikf/gallery-dl](https://github.com/mikf/gallery-dl)|<img src="https://img.shields.io/github/stars/mikf/gallery-dl?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mikf/gallery-dl?style=for-the-badge" />| Image
+
 
 # EMail
 Name| Respository Address | Star| Last Update|Desc
@@ -130,6 +134,12 @@ Ip2region|[github.com/lionsoul2014/ip2region](https://github.com/lionsoul2014/ip
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Docker-OSX|[github.com/sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)|<img src="https://img.shields.io/github/stars/sickcodes/Docker-OSX?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/sickcodes/Docker-OSX?style=for-the-badge" />|Run macOS VM in a Docker
+
+# Media Manage
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Jellyfin|[github.com/jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)|<img src="https://img.shields.io/github/stars/jellyfin/jellyfin?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/jellyfin/jellyfin?style=for-the-badge" />|
+
 
 # Monitoring Tool
 Name| Respository Address | Star| Last Update|Desc
