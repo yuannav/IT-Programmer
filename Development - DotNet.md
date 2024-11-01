@@ -30,8 +30,8 @@ EasyCaching|[github.com/dotnetcore/EasyCaching](https://github.com/dotnetcore/Ea
 StackExchange.Redis|[github.com/StackExchange/StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis)|<img src="https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/StackExchange/StackExchange.Redis?style=for-the-badge" />|Redis
 CSRedis|[github.com/2881099/csredis](https://github.com/2881099/csredis)|<img src="https://img.shields.io/github/stars/2881099/csredis?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/2881099/csredis?style=for-the-badge" />|Redis
 CacheManager|[github.com/MichaCo/CacheManager](https://github.com/MichaCo/CacheManager)|<img src="https://img.shields.io/github/stars/MichaCo/CacheManager?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/MichaCo/CacheManager?style=for-the-badge" />|Redis
-
-
+FreeRedis|[github.com/2881099/FreeRedis](https://github.com/2881099/FreeRedis)|<img src="https://img.shields.io/github/stars/2881099/FreeRedis?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/2881099/FreeRedis?style=for-the-badge" />|Redis
+NewLife.Redis|[github.com/NewLifeX/NewLife.Redis](https://github.com/NewLifeX/NewLife.Redis)|<img src="https://img.shields.io/github/stars/NewLifeX/NewLife.Redis?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/NewLifeX/NewLife.Redis?style=for-the-badge" />|Redis
 
 
 # Calendar
@@ -71,6 +71,11 @@ Name| Address | Star| Last Update
 -|-|-|-|
 MediatR|[github.com/jbogard/MediatR](https://github.com/jbogard/MediatR)|<img src="https://img.shields.io/github/stars/jbogard/MediatR?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/jbogard/MediatR?style=for-the-badge" />
 Dapr SDK for .NET|[github.com/dapr/dotnet-sdk](https://github.com/dapr/dotnet-sdk)|<img src="https://img.shields.io/github/stars/dapr/dotnet-sdk?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dapr/dotnet-sdk?style=for-the-badge" />
+
+# Format
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Humanizer|[github.com/Humanizr/Humanizer](https://github.com/Humanizr/Humanizer)|<img src="https://img.shields.io/github/stars/Humanizr/Humanizer?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Humanizr/Humanizer?style=for-the-badge" />|strings, enums, dates, times etc
 
 # File
 Name| Address | Star| Last Update
