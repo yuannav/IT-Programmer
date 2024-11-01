@@ -118,6 +118,7 @@ StatiCrypt|[github.com/robinmoisson/staticrypt](https://github.com/robinmoisson/
 Name| Respository Address | Star| Last Update|Desc
 -|-|-|-|-|
 MyIP|[github.com/jason5ng32/MyIP](https://github.com/jason5ng32/MyIP)|<img src="https://img.shields.io/github/stars/jason5ng32/MyIP?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/jason5ng32/MyIP?style=for-the-badge" />|IP Check
+Ip2region|[github.com/lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region)|<img src="https://img.shields.io/github/stars/lionsoul2014/ip2region?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/lionsoul2014/ip2region?style=for-the-badge" />| Query IP Location
 
 # Mac
 Name| Address | Star| Last Update|Desc
