@@ -49,6 +49,7 @@ QtScrcpy|[github.com/barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy)|
 Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
 Administrative-divisions-of-China|[github.com/modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)|<img src="https://img.shields.io/github/stars/modood/Administrative-divisions-of-China?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/modood/Administrative-divisions-of-China?style=for-the-badge" />| China 省市区镇村二级三级四级五级联动地址数据
+Countries States Cities Database|[github.com/dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)|<img src="https://img.shields.io/github/stars/dr5hn/countries-states-cities-database?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dr5hn/countries-states-cities-database?style=for-the-badge" />| Global
 
 # Database Client
 Name| Address | Star| Last Update| Desc
