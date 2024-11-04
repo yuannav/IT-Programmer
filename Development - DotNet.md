@@ -86,7 +86,7 @@ WTM|[github.com/dotnetcore/WTM](https://github.com/dotnetcore/WTM)|<img src="htt
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Autofac|[github.com/autofac/Autofac](https://github.com/autofac/Autofac)|<img src="https://img.shields.io/github/stars/autofac/Autofac?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/autofac/Autofac?style=for-the-badge" />|
-Microsoft.Extensions.DependencyInjection||[NuGet](https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection)|||
+Microsoft.Extensions.DependencyInjection|[NuGet](https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection)||||
 
 # Event Bus
 Name| Address | Star| Last Update
