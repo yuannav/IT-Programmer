@@ -44,7 +44,7 @@ Name| Address | Star| Last Update| Desc
 Visual Studio Code|[code.visualstudio.com](https://code.visualstudio.com)|-|- |- 
 Visual Studio Latest Version|[visualstudio.microsoft.com/vs](https://visualstudio.microsoft.com/vs)|-|- |- 
 Visual Studio Previous Version|[visualstudio.microsoft.com/vs/older-downloads](https://visualstudio.microsoft.com/vs/older-downloads)|-|- |- 
-Rider|[www.jetbrains.com/rider](https://www.jetbrains.com/rider)|-|- | DotNet
+Rider|[www.jetbrains.com/rider](https://www.jetbrains.com/rider)|-|- | DotNet、Free for non-commercial use
 ILSpy|[github.com/icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)|<img src="https://img.shields.io/github/stars/icsharpcode/ILSpy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/icsharpcode/ILSpy?style=for-the-badge" />
 
 # Compare Tool
