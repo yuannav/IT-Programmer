@@ -165,6 +165,8 @@ Glances|[github.com/nicolargo/glances](https://github.com/nicolargo/glances)|<im
 GoAccess|[github.com/allinurl/goaccess](https://github.com/allinurl/goaccess)|<img src="https://img.shields.io/github/stars/allinurl/goaccess?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/allinurl/goaccess?style=for-the-badge" />|
 ActivityWatch|[github.com/ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)|<img src="https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ActivityWatch/activitywatch?style=for-the-badge" />| 
 changedetection|[github.com/dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)|<img src="https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dgtlmoon/changedetection.io?style=for-the-badge" />| Web Page Change Detection 
+Zabbix|[github.com/zabbix/zabbix](https://github.com/zabbix/zabbix)|<img src="https://img.shields.io/github/stars/zabbix/zabbix?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/zabbix/zabbix?style=for-the-badge" />| 
+
 
 # OCR
 Name| Respository Address | Star| Last Update|Desc
