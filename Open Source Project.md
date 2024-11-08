@@ -152,12 +152,6 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Jellyfin|[github.com/jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)|<img src="https://img.shields.io/github/stars/jellyfin/jellyfin?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/jellyfin/jellyfin?style=for-the-badge" />|
 
-# MQ
-Name| Address | Star| Last Update|Desc
--|-|-|-|-|
-Kafdrop|[github.com/obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop)|<img src="https://img.shields.io/github/stars/obsidiandynamics/kafdrop?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/obsidiandynamics/kafdrop?style=for-the-badge" />| Kafka Web UI
-Kafka Offset Monitor|[github.com/Morningstar/kafka-offset-monitor](https://github.com/Morningstar/kafka-offset-monitor)|<img src="https://img.shields.io/github/stars/Morningstar/kafka-offset-monitor?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Morningstar/kafka-offset-monitor?style=for-the-badge" />|Kafka Web UI
-Kafka Eagle|[github.com/smartloli/EFAK](https://github.com/smartloli/EFAK)|<img src="https://img.shields.io/github/stars/smartloli/EFAK?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/smartloli/EFAK?style=for-the-badge" />|Kafka Web UI
 
 
 # Monitoring Tool
@@ -173,6 +167,14 @@ GoAccess|[github.com/allinurl/goaccess](https://github.com/allinurl/goaccess)|<i
 ActivityWatch|[github.com/ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)|<img src="https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ActivityWatch/activitywatch?style=for-the-badge" />| 
 changedetection|[github.com/dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)|<img src="https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dgtlmoon/changedetection.io?style=for-the-badge" />| Web Page Change Detection 
 Zabbix|[github.com/zabbix/zabbix](https://github.com/zabbix/zabbix)|<img src="https://img.shields.io/github/stars/zabbix/zabbix?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/zabbix/zabbix?style=for-the-badge" />| 
+
+
+# MQ
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Kafdrop|[github.com/obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop)|<img src="https://img.shields.io/github/stars/obsidiandynamics/kafdrop?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/obsidiandynamics/kafdrop?style=for-the-badge" />| Kafka Web UI
+Kafka Offset Monitor|[github.com/Morningstar/kafka-offset-monitor](https://github.com/Morningstar/kafka-offset-monitor)|<img src="https://img.shields.io/github/stars/Morningstar/kafka-offset-monitor?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Morningstar/kafka-offset-monitor?style=for-the-badge" />|Kafka Web UI
+Kafka Eagle|[github.com/smartloli/EFAK](https://github.com/smartloli/EFAK)|<img src="https://img.shields.io/github/stars/smartloli/EFAK?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/smartloli/EFAK?style=for-the-badge" />|Kafka Web UI
 
 
 # OCR
