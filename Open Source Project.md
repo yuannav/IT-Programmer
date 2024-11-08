@@ -152,6 +152,13 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Jellyfin|[github.com/jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)|<img src="https://img.shields.io/github/stars/jellyfin/jellyfin?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/jellyfin/jellyfin?style=for-the-badge" />|
 
+# MQ
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Kafdrop|[github.com/obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop)|<img src="https://img.shields.io/github/stars/obsidiandynamics/kafdrop?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/obsidiandynamics/kafdrop?style=for-the-badge" />| Kafka Web UI
+Kafka Offset Monitor|[github.com/Morningstar/kafka-offset-monitor](https://github.com/Morningstar/kafka-offset-monitor)|<img src="https://img.shields.io/github/stars/Morningstar/kafka-offset-monitor?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Morningstar/kafka-offset-monitor?style=for-the-badge" />|Kafka Web UI
+Kafka Eagle|[github.com/smartloli/EFAK](https://github.com/smartloli/EFAK)|<img src="https://img.shields.io/github/stars/smartloli/EFAK?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/smartloli/EFAK?style=for-the-badge" />|Kafka Web UI
+
 
 # Monitoring Tool
 Name| Respository Address | Star| Last Update|Desc
