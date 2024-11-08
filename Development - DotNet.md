@@ -100,10 +100,11 @@ Name| Address | Star| Last Update|Desc
 Humanizer|[github.com/Humanizr/Humanizer](https://github.com/Humanizr/Humanizer)|<img src="https://img.shields.io/github/stars/Humanizr/Humanizer?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Humanizr/Humanizer?style=for-the-badge" />|strings, enums, dates, times etc
 
 # File
-Name| Address | Star| Last Update
--|-|-|-|
-ImageSharp|[github.com/SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp)|<img src="https://img.shields.io/github/stars/SixLabors/ImageSharp?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/SixLabors/ImageSharp?style=for-the-badge" />
-SharpZipLib|[github.com/icsharpcode/SharpZipLib](https://github.com/icsharpcode/SharpZipLib)|<img src="https://img.shields.io/github/stars/icsharpcode/SharpZipLib?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/icsharpcode/SharpZipLib?style=for-the-badge" />
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+AForge.NET|[github.com/andrewkirillov/AForge.NET](https://github.com/andrewkirillov/AForge.NET)|<img src="https://img.shields.io/github/stars/andrewkirillov/AForge.NET?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/andrewkirillov/AForge.NET?style=for-the-badge" />| Image
+ImageSharp|[github.com/SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp)|<img src="https://img.shields.io/github/stars/SixLabors/ImageSharp?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/SixLabors/ImageSharp?style=for-the-badge" />|Image
+SharpZipLib|[github.com/icsharpcode/SharpZipLib](https://github.com/icsharpcode/SharpZipLib)|<img src="https://img.shields.io/github/stars/icsharpcode/SharpZipLib?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/icsharpcode/SharpZipLib?style=for-the-badge" />|
 
 # FTP
 Name| Address | Star| Last Update|Desc
