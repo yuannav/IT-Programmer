@@ -182,6 +182,13 @@ Name| Address | Star| Last Update
 IdentityServer4|[github.com/IdentityServer/IdentityServer4](https://github.com/IdentityServer/IdentityServer4)|<img src="https://img.shields.io/github/stars/IdentityServer/IdentityServer4?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/IdentityServer/IdentityServer4?style=for-the-badge" />
 IdentityServer4.Admin|[github.com/skoruba/IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin)|<img src="https://img.shields.io/github/stars/skoruba/IdentityServer4.Admin?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/skoruba/IdentityServer4.Admin?style=for-the-badge" />
 
+
+# Obfuscation Tool
+Name| Address | Star| Last Update
+-|-|-|-|
+Obfuscar|[github.com/obfuscar/obfuscar](https://github.com/obfuscar/obfuscar)|<img src="https://img.shields.io/github/stars/obfuscar/obfuscar?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/obfuscar/obfuscar?style=for-the-badge" />|
+
+
 # Office
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
