@@ -33,6 +33,7 @@ dnSpy  |[github.com/dnSpy/dnSpy](https://github.com/dnSpy/dnSpy)|<img src="https
 Name| Address | Star| Last Update
 -|-|-|-|
 Fiddler Classic|[www.telerik.com/download/fiddler](https://www.telerik.com/download/fiddler)|-|-
+Fiddler Everywhere|[www.telerik.com/download/fiddler-everywhere](https://www.telerik.com/download/fiddler-everywhere)|-|-
 mitmproxy|[github.com/mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)|<img src="https://img.shields.io/github/stars/mitmproxy/mitmproxy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mitmproxy/mitmproxy?style=for-the-badge" />
 Wireshark|[github.com/wireshark/wireshark](https://github.com/wireshark/wireshark)|<img src="https://img.shields.io/github/stars/wireshark/wireshark?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/wireshark/wireshark?style=for-the-badge" />
 ProxyPin|[github.com/wanghongenpin/network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)|<img src="https://img.shields.io/github/stars/wanghongenpin/network_proxy_flutter?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/wanghongenpin/network_proxy_flutter?style=for-the-badge" />
