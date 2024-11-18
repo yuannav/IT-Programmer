@@ -262,6 +262,12 @@ Name| Address | Star| Last Update|Desc
 Nushell|[github.com/nushell/nushell](https://github.com/nushell/nushell)|<img src="https://img.shields.io/github/stars/nushell/nushell?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/nushell/nushell?style=for-the-badge" />| Shell
 
 
+# USB Solution
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Ventoy|[github.com/ventoy/Ventoy](https://github.com/ventoy/Ventoy)|<img src="https://img.shields.io/github/stars/ventoy/Ventoy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ventoy/Ventoy?style=for-the-badge" />|
+
+
 # Version Manage
 Name| Respository Address | Star| Last Update|Desc
 -|-|-|-|-|
