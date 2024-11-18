@@ -4,7 +4,7 @@ Name| Address | Star| Last Update| Desc
 Swagger Editor|[github.com/swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor)<br/>[hub.docker.com/r/swaggerapi/swagger-editor](https://hub.docker.com/r/swaggerapi/swagger-editor)|<img src="https://img.shields.io/github/stars/swagger-api/swagger-editor?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/swagger-api/swagger-editor?style=for-the-badge" />|
 
 # Chrome
-Name| Address | Pulls| Last Update| Desc
+Name| Address | Pulls/Star | Last Update| Desc
 -|-|-|-|-|
 standalone-chrome|[hub.docker.com/r/selenium/standalone-chrome](https://hub.docker.com/r/selenium/standalone-chrome)|<img src="https://img.shields.io/docker/pulls/selenium/standalone-chrome?color=%2348BB78&logo=docker&label=pulls" alt="Downloads" />|| for selenium
 alpine-chrome|[hub.docker.com/r/selenium/zenika/alpine-chrome](https://hub.docker.com/r/zenika/alpine-chrome)|<img src="https://img.shields.io/docker/pulls/zenika/alpine-chrome?color=%2348BB78&logo=docker&label=pulls" alt="Downloads" />|| for selenium
