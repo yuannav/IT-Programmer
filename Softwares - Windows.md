@@ -104,8 +104,9 @@ CrystalDiskInfo|[crystalmark.info](https://crystalmark.info)|-|-|-
 # File Explorer
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-Spacedrive|[github.com/spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)|<img src="https://img.shields.io/github/stars/spacedriveapp/spacedrive?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/spacedriveapp/spacedrive?style=for-the-badge" />
-Xplorer|[github.com/kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer)|<img src="https://img.shields.io/github/stars/kimlimjustin/xplorer?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/kimlimjustin/xplorer?style=for-the-badge" />
+Spacedrive|[github.com/spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)|<img src="https://img.shields.io/github/stars/spacedriveapp/spacedrive?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/spacedriveapp/spacedrive?style=for-the-badge" />|
+Xplorer|[github.com/kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer)|<img src="https://img.shields.io/github/stars/kimlimjustin/xplorer?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/kimlimjustin/xplorer?style=for-the-badge" />|
+Superfile|[github.com/yorukot/superfile](https://github.com/yorukot/superfile)|<img src="https://img.shields.io/github/stars/yorukot/superfile?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/yorukot/superfile?style=for-the-badge" />|
 
 # File Transfer
 Name| Address | Star| Last Update| Desc
