@@ -113,6 +113,12 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 LocalSend|[localsend.org](https://localsend.org)|-|-|LAN file transfer
 
+# File Sync
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+Free File Sync |[freefilesync.org](https://freefilesync.org/)|-|- |- 
+
+
 # Git Client
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
