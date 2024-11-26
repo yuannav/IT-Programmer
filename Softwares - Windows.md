@@ -112,6 +112,9 @@ Superfile|[github.com/yorukot/superfile](https://github.com/yorukot/superfile)|<
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 LocalSend|[localsend.org](https://localsend.org)|-|-|LAN file transfer
+Flix|[github.com/flix-pro](https://github.com/flix-pro)|-|-|LAN file transfer
+
+
 
 # File Sync
 Name| Address | Star| Last Update| Desc
