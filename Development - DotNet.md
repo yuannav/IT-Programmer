@@ -19,6 +19,11 @@ SkyAPM C#/.NET|[github.com/SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAP
 OpenTelemetry .NET|[github.com/open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet)|<img src="https://img.shields.io/github/stars/open-telemetry/opentelemetry-dotnet?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/open-telemetry/opentelemetry-dotnet?style=for-the-badge" />|
 Sentry SDK for .NET|[github.com/getsentry/sentry-dotnet](https://github.com/getsentry/sentry-dotnet)|<img src="https://img.shields.io/github/stars/getsentry/sentry-dotnet?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/getsentry/sentry-dotnet?style=for-the-badge" />|
 
+# AOP
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+AspectCore Framework|[github.com/dotnetcore/AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework)|<img src="https://img.shields.io/github/stars/dotnetcore/AspectCore-Framework?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dotnetcore/AspectCore-Framework?style=for-the-badge" />|
+
 # AWS
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
