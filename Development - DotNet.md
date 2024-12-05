@@ -299,3 +299,9 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 WeiXinMPSDK|[github.com/JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)|<img src="https://img.shields.io/github/stars/JeffreySu/WeiXinMPSDK?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/JeffreySu/WeiXinMPSDK?style=for-the-badge" />|
 
+
+# XSS
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+HtmlSanitizer|[github.com/mganss/HtmlSanitizer](https://github.com/mganss/HtmlSanitizer)|<img src="https://img.shields.io/github/stars/mganss/HtmlSanitizer?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mganss/HtmlSanitizer?style=for-the-badge" />|
+
