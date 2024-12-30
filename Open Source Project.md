@@ -277,3 +277,7 @@ nvm|[github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm)|<img src="https://img
 NVM for Windows|[github.com/coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)|<img src="https://img.shields.io/github/stars/coreybutler/nvm-windows?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/coreybutler/nvm-windows?style=for-the-badge" />|NPM
 
 
+# Video Tool
+Name| Respository Address | Star| Last Update| Desc
+-|-|-|-|-|
+VideoLingo|[github.com/Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)|<img src="https://img.shields.io/github/stars/Huanshere/VideoLingo?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Huanshere/VideoLingo?style=for-the-badge" />| Caption、Translate
