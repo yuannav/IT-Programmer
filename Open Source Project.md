@@ -84,6 +84,7 @@ Motrix|[github.com/agalwood/Motrix](https://github.com/agalwood/Motrix)|<img src
 You-Get|[github.com/soimort/you-get](https://github.com/soimort/you-get)|<img src="https://img.shields.io/github/stars/soimort/you-get?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/soimort/you-get?style=for-the-badge" />|
 gallery-dl|[github.com/mikf/gallery-dl](https://github.com/mikf/gallery-dl)|<img src="https://img.shields.io/github/stars/mikf/gallery-dl?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mikf/gallery-dl?style=for-the-badge" />| Image
 youtube-dl|[github.com/ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)|<img src="https://img.shields.io/github/stars/ytdl-org/youtube-dl?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ytdl-org/youtube-dl?style=for-the-badge" />|Video
+yt-dlp|[github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)|<img src="https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/yt-dlp/yt-dlp?style=for-the-badge" />|audio/video
 
 
 # EMail
