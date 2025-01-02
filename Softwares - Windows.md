@@ -131,16 +131,6 @@ Sourcetree|[www.sourcetreeapp.com](https://www.sourcetreeapp.com/)||||
 GitVersion|[github.com/GitTools/GitVersion](https://github.com/GitTools/GitVersion)|<img src="https://img.shields.io/github/stars/GitTools/GitVersion?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/GitTools/GitVersion?style=for-the-badge" />|
 Git Extensions|[github.com/gitextensions/gitextensions](https://github.com/gitextensions/gitextensions)|<img src="https://img.shields.io/github/stars/gitextensions/gitextensions?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/gitextensions/gitextensions?style=for-the-badge" />|
 
-
-# Keyboard&Mouse Sharing
-Name| Address | Star| Last Update
--|-|-|-|
-Synergy Binaries|[github.com/DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries)|<img src="https://img.shields.io/github/stars/DEAKSoftware/Synergy-Binaries?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/DEAKSoftware/Synergy-Binaries?style=for-the-badge" />
-Synergy Core|[github.com/symless/synergy-core](https://github.com/symless/synergy-core)|<img src="https://img.shields.io/github/stars/symless/synergy-core?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/symless/synergy-core?style=for-the-badge" />
-barrier|[github.com/debauchee/barrier](https://github.com/debauchee/barrier)|<img src="https://img.shields.io/github/stars/debauchee/barrier?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/debauchee/barrier?style=for-the-badge" />
-Deskflow|[github.com/deskflow/deskflow](https://github.com/deskflow/deskflow)|<img src="https://img.shields.io/github/stars/deskflow/deskflow?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/deskflow/deskflow?style=for-the-badge" />
-
-
 # Monitor
 Name| Address | Star| Last Update
 -|-|-|-|
