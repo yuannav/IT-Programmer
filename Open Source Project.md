@@ -240,7 +240,7 @@ Name| Address | Star| Last Update|Desc
 AList|[github.com/AlistGo/alist](https://github.com/AlistGo/alist)|<img src="https://img.shields.io/github/stars/AlistGo/alist?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AlistGo/alist?style=for-the-badge" />|Storage Aggregation、WebDVA
 
 # Sharing - Keyboard Mouse Screen
-Name| Address | Star| Last Update|
+Name| Address | Star| Last Update|Desc|
 -|-|-|-|-|
 Synergy Binaries|[github.com/DEAKSoftware/Synergy-Binaries](https://github.com/DEAKSoftware/Synergy-Binaries)|<img src="https://img.shields.io/github/stars/DEAKSoftware/Synergy-Binaries?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/DEAKSoftware/Synergy-Binaries?style=for-the-badge" />|
 Synergy Core|[github.com/symless/synergy-core](https://github.com/symless/synergy-core)|<img src="https://img.shields.io/github/stars/symless/synergy-core?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/symless/synergy-core?style=for-the-badge" />|
