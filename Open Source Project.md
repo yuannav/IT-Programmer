@@ -83,6 +83,7 @@ Lux|[github.com/iawia002/lux](https://github.com/iawia002/lux)|<img src="https:/
 Motrix|[github.com/agalwood/Motrix](https://github.com/agalwood/Motrix)|<img src="https://img.shields.io/github/stars/agalwood/Motrix?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/agalwood/Motrix?style=for-the-badge" />| 
 You-Get|[github.com/soimort/you-get](https://github.com/soimort/you-get)|<img src="https://img.shields.io/github/stars/soimort/you-get?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/soimort/you-get?style=for-the-badge" />|
 gallery-dl|[github.com/mikf/gallery-dl](https://github.com/mikf/gallery-dl)|<img src="https://img.shields.io/github/stars/mikf/gallery-dl?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mikf/gallery-dl?style=for-the-badge" />| Image
+youtube-dl|[github.com/ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)|<img src="https://img.shields.io/github/stars/ytdl-org/youtube-dl?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ytdl-org/youtube-dl?style=for-the-badge" />|Video
 
 
 # EMail
