@@ -1,16 +1,17 @@
 
-Name| Respository Address | Star| Last Update
--|-|-|-|
-Spider|[github.com/NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)|<img src="https://img.shields.io/github/stars/NaiboWang/EasySpider?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/NaiboWang/EasySpider?style=for-the-badge" />
-JumpServer|[github.com/jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)|<img src="https://img.shields.io/github/stars/jumpserver/jumpserver?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/jumpserver/jumpserver?style=for-the-badge" />
-1Panel|[github.com/1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)|<img src="https://img.shields.io/github/stars/1Panel-dev/1Panel?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/1Panel-dev/1Panel?style=for-the-badge" />
-Ajenti|[github.com/ajenti/ajenti](https://github.com/ajenti/ajenti)|<img src="https://img.shields.io/github/stars/ajenti/ajenti?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ajenti/ajenti?style=for-the-badge" />
-listmonk|[github.com/knadh/listmonk](https://github.com/knadh/listmonk)|<img src="https://img.shields.io/github/stars/knadh/listmonk?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/knadh/listmonk?style=for-the-badge" />
-restic|[github.com/restic/restic](https://github.com/restic/restic)|<img src="https://img.shields.io/github/stars/restic/restic?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/restic/restic?style=for-the-badge" />
-muffet|[github.com/raviqqe/muffet](https://github.com/raviqqe/muffet)|<img src="https://img.shields.io/github/stars/raviqqe/muffet?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/raviqqe/muffet?style=for-the-badge" />
-Focalboard|[github.com/mattermost/focalboard](https://github.com/mattermost/focalboard)|<img src="https://img.shields.io/github/stars/mattermost/focalboard?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mattermost/focalboard?style=for-the-badge" />
-JSON Crack|[github.com/AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)|<img src="https://img.shields.io/github/stars/AykutSarac/jsoncrack.com?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AykutSarac/jsoncrack.com?style=for-the-badge" />
+Name| Respository Address | Star| Last Update|Desc
+-|-|-|-|-|
+Spider|[github.com/NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)|<img src="https://img.shields.io/github/stars/NaiboWang/EasySpider?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/NaiboWang/EasySpider?style=for-the-badge" />|
+JumpServer|[github.com/jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)|<img src="https://img.shields.io/github/stars/jumpserver/jumpserver?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/jumpserver/jumpserver?style=for-the-badge" />|
+1Panel|[github.com/1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)|<img src="https://img.shields.io/github/stars/1Panel-dev/1Panel?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/1Panel-dev/1Panel?style=for-the-badge" />|
+Ajenti|[github.com/ajenti/ajenti](https://github.com/ajenti/ajenti)|<img src="https://img.shields.io/github/stars/ajenti/ajenti?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ajenti/ajenti?style=for-the-badge" />|
+listmonk|[github.com/knadh/listmonk](https://github.com/knadh/listmonk)|<img src="https://img.shields.io/github/stars/knadh/listmonk?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/knadh/listmonk?style=for-the-badge" />|
+restic|[github.com/restic/restic](https://github.com/restic/restic)|<img src="https://img.shields.io/github/stars/restic/restic?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/restic/restic?style=for-the-badge" />|
+muffet|[github.com/raviqqe/muffet](https://github.com/raviqqe/muffet)|<img src="https://img.shields.io/github/stars/raviqqe/muffet?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/raviqqe/muffet?style=for-the-badge" />|
+Focalboard|[github.com/mattermost/focalboard](https://github.com/mattermost/focalboard)|<img src="https://img.shields.io/github/stars/mattermost/focalboard?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mattermost/focalboard?style=for-the-badge" />|
+JSON Crack|[github.com/AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)|<img src="https://img.shields.io/github/stars/AykutSarac/jsoncrack.com?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AykutSarac/jsoncrack.com?style=for-the-badge" />|
 go2rtc|[github.com/AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)|<img src="https://img.shields.io/github/stars/AlexxIT/go2rtc?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AlexxIT/go2rtc?style=for-the-badge" />|
+AdGuard Home|[github.com/AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)|<img src="https://img.shields.io/github/stars/AdguardTeam/AdGuardHome?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AdguardTeam/AdGuardHome?style=for-the-badge" />|DNS Server
 
 # 12306
 Name| Respository Address | Star| Last Update| Desc
