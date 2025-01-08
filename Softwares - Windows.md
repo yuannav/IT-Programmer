@@ -156,6 +156,7 @@ Name| Address | Star| Last Update
 ScreenToGif|[github.com/NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif)|<img src="https://img.shields.io/github/stars/NickeManarin/ScreenToGif?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/NickeManarin/ScreenToGif?style=for-the-badge" />
 PicPick|[PicPick](https://picpick.app/en/)|-|-
 LiveRecorder|[github.com/ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder)|<img src="https://img.shields.io/github/stars/ihmily/DouyinLiveRecorder?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ihmily/DouyinLiveRecorder?style=for-the-badge" />
+Captura|[github.com/MathewSachin/Captura](https://github.com/MathewSachin/Captura)|<img src="https://img.shields.io/github/stars/MathewSachin/Captura?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/MathewSachin/Captura?style=for-the-badge" />|Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 
 # Search
 Name| Address | Star| Last Update
