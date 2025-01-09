@@ -186,7 +186,7 @@ FinalShell|[www.hostbuf.com](https://www.hostbuf.com/)|-|-|Windows、Linux
 Remote Desktop Connection Manager|[Remote Desktop Connection Manager](https://learn.microsoft.com/en-us/sysinternals/downloads/rdcman)|-|-|Windows
 WinSCP|[winscp.net](https://winscp.net/)|||FTP、SCP、WebDAV、S3 - Free
 FileZilla|[filezilla-project.org](https://filezilla-project.org/)|||FTP
-S3 Browser|[s3browser.com/](https://s3browser.com)|||S3
+S3 Browser|[s3browser.com/](https://s3browser.com)|||S3 - Free Limit
 
 # Virtual Machine
 Name| Address | Star| Last Update
