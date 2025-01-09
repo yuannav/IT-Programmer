@@ -12,6 +12,13 @@ Name| Address | Star| Last Update|Desc
 OpenAI .NET API library|[github.com/openai/openai-dotnet](https://github.com/openai/openai-dotnet)|<img src="https://img.shields.io/github/stars/openai/openai-dotnet?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/openai/openai-dotnet?style=for-the-badge" />|
 
 
+# API Manage
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Scalar|[github.com/scalar/scalar](https://github.com/scalar/scalar)|<img src="https://img.shields.io/github/stars/scalar/scalar?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/scalar/scalar?style=for-the-badge" />|
+Swashbuckle.AspNetCore|[github.com/domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)|<img src="https://img.shields.io/github/stars/domaindrivendev/Swashbuckle.AspNetCore?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/domaindrivendev/Swashbuckle.AspNetCore?style=for-the-badge" />|
+
+
 # APM Client
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
