@@ -184,7 +184,7 @@ Nushell|[github.com/nushell/nushell](https://github.com/nushell/nushell)|<img sr
 1Remote|[github.com/1Remote/1Remotel](https://github.com/1Remote/1Remote)|<img src="https://img.shields.io/github/stars/1Remote/1Remote?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/1Remote/1Remote?style=for-the-badge" />|RDP, SSH, VNC, Telnet, FTP, RemoteApp
 FinalShell|[www.hostbuf.com](https://www.hostbuf.com/)|-|-|Windows、Linux
 Remote Desktop Connection Manager|[Remote Desktop Connection Manager](https://learn.microsoft.com/en-us/sysinternals/downloads/rdcman)|-|-|Windows
-WinSCP|[winscp.net](https://winscp.net/)|||FTP、SCP、WebDAV、S3
+WinSCP|[winscp.net](https://winscp.net/)|||FTP、SCP、WebDAV、S3 - Free
 FileZilla|[filezilla-project.org](https://filezilla-project.org/)|||FTP
 S3 Browser|[s3browser.com/](https://s3browser.com)|||S3
 
