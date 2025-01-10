@@ -39,6 +39,14 @@ Wireshark|[github.com/wireshark/wireshark](https://github.com/wireshark/wireshar
 ProxyPin|[github.com/wanghongenpin/network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)|<img src="https://img.shields.io/github/stars/wanghongenpin/network_proxy_flutter?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/wanghongenpin/network_proxy_flutter?style=for-the-badge" />-|
 Reqable|[github.com/reqable/reqable-app](https://github.com/reqable/reqable-app)|<img src="https://img.shields.io/github/stars/reqable/reqable-app?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/reqable/reqable-app?style=for-the-badge" />-|
 
+# Capture Screen  
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+ScreenToGif|[github.com/NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif)|<img src="https://img.shields.io/github/stars/NickeManarin/ScreenToGif?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/NickeManarin/ScreenToGif?style=for-the-badge" />|  
+PicPick|[PicPick](https://picpick.app/en/)|-|-|
+LiveRecorder|[github.com/ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder)|<img src="https://img.shields.io/github/stars/ihmily/DouyinLiveRecorder?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ihmily/DouyinLiveRecorder?style=for-the-badge" />|
+Captura|[github.com/MathewSachin/Captura](https://github.com/MathewSachin/Captura)|<img src="https://img.shields.io/github/stars/MathewSachin/Captura?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/MathewSachin/Captura?style=for-the-badge" />|Free
+ShareX |[github.com/ShareX/ShareX](https://github.com/ShareX/ShareX)|<img src="https://img.shields.io/github/stars/ShareX/ShareX?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ShareX/ShareX?style=for-the-badge" />| Free
 
 # Code Editor
 Name| Address | Star| Last Update| Desc
@@ -143,16 +151,6 @@ Win Memory Cleaner|[github.com/IgorMundstein/WinMemoryCleaner](https://github.co
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 ImageGlass |[github.com/d2phap/ImageGlass](https://github.com/d2phap/ImageGlass)|<img src="https://img.shields.io/github/stars/d2phap/ImageGlass?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/d2phap/ImageGlass?style=for-the-badge" />|Image View
-
-# Screen Capture 
-Name| Address | Star| Last Update| Desc
--|-|-|-|-|
-ScreenToGif|[github.com/NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif)|<img src="https://img.shields.io/github/stars/NickeManarin/ScreenToGif?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/NickeManarin/ScreenToGif?style=for-the-badge" />|  
-PicPick|[PicPick](https://picpick.app/en/)|-|-|
-LiveRecorder|[github.com/ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder)|<img src="https://img.shields.io/github/stars/ihmily/DouyinLiveRecorder?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ihmily/DouyinLiveRecorder?style=for-the-badge" />|
-Captura|[github.com/MathewSachin/Captura](https://github.com/MathewSachin/Captura)|<img src="https://img.shields.io/github/stars/MathewSachin/Captura?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/MathewSachin/Captura?style=for-the-badge" />|Free
-ShareX |[github.com/ShareX/ShareX](https://github.com/ShareX/ShareX)|<img src="https://img.shields.io/github/stars/ShareX/ShareX?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ShareX/ShareX?style=for-the-badge" />| Free
-
 
 # Screen Tool
 Name| Address | Star| Last Update|Desc
