@@ -107,7 +107,7 @@ Stirling PDF|[github.com/Stirling-Tools/Stirling-PDF](https://github.com/Stirlin
 Shields IO|[github.com/badges/shields](https://github.com/badges/shields)|<img src="https://img.shields.io/github/stars/badges/shields?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/badges/shields?style=for-the-badge" />| Img Icon
 File Converter|[github.com/Tichau/FileConverter](https://github.com/Tichau/FileConverter)|<img src="https://img.shields.io/github/stars/Tichau/FileConverter?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Tichau/FileConverter?style=for-the-badge" />|
 LocalSend |[github.com/localsend/localsend](https://github.com/localsend/localsend)|<img src="https://img.shields.io/github/stars/localsend/localsend?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/localsend/localsend?style=for-the-badge" />|File Transfer
-
+Pandoc|[github.com/jgm/pandoc](https://github.com/jgm/pandoc)|<img src="https://img.shields.io/github/stars/jgm/pandoc?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/jgm/pandoc?style=for-the-badge" />| File Converter
 
 # Firewall
 Name| Respository Address | Star| Last Update| Desc
