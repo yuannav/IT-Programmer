@@ -191,10 +191,11 @@ Name| Address | Star| Last Update|Desc
 BaGet |[github.com/projectx-codehagen/Badget](https://github.com/projectx-codehagen/Badget)|<img src="https://img.shields.io/github/stars/projectx-codehagen/Badget?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/projectx-codehagen/Badget?style=for-the-badge" />| NuGet Server
 
 # OAuth 
-Name| Address | Star| Last Update
--|-|-|-|
-IdentityServer4|[github.com/IdentityServer/IdentityServer4](https://github.com/IdentityServer/IdentityServer4)|<img src="https://img.shields.io/github/stars/IdentityServer/IdentityServer4?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/IdentityServer/IdentityServer4?style=for-the-badge" />
-IdentityServer4.Admin|[github.com/skoruba/IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin)|<img src="https://img.shields.io/github/stars/skoruba/IdentityServer4.Admin?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/skoruba/IdentityServer4.Admin?style=for-the-badge" />
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+IdentityServer4|[github.com/IdentityServer/IdentityServer4](https://github.com/IdentityServer/IdentityServer4)|<img src="https://img.shields.io/github/stars/IdentityServer/IdentityServer4?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/IdentityServer/IdentityServer4?style=for-the-badge" />|
+IdentityServer4.Admin|[github.com/skoruba/IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin)|<img src="https://img.shields.io/github/stars/skoruba/IdentityServer4.Admin?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/skoruba/IdentityServer4.Admin?style=for-the-badge" />|
+Jwt.Net|[github.com/jwt-dotnet/jwt](https://github.com/jwt-dotnet/jwt)|<img src="https://img.shields.io/github/stars/jwt-dotnet/jwt?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/jwt-dotnet/jwt?style=for-the-badge" />|
 
 
 # Obfuscation Tool
