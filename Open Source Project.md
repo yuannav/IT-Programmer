@@ -30,6 +30,11 @@ JustAuth|[github.com/justauth/JustAuth](https://github.com/justauth/JustAuth)|<i
 CollectiveOAuth|[github.com/justauth/CollectiveOAuth](https://github.com/justauth/CollectiveOAuth)<br>[gitee.com/rthinking/CollectiveOAuth](https://gitee.com/rthinking/CollectiveOAuth)|<img src="https://img.shields.io/github/stars/justauth/CollectiveOAuth?style=for-the-badge" /><br/><img src='https://gitee.com/rthinking/CollectiveOAuth/badge/star.svg?theme=white' alt='star'></img>|<img src="https://img.shields.io/github/last-commit/justauth/CollectiveOAuth?style=for-the-badge" />|Base .NET
 Casbin.NET|[github.com/casbin/Casbin.NET](https://github.com/casbin/Casbin.NET)|<img src="https://img.shields.io/github/stars/casbin/Casbin.NET?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/casbin/Casbin.NET?style=for-the-badge" />|Base .NET
 
+# BI Tool
+Name| Respository Address | Star| Last Update| Desc
+-|-|-|-|-|
+DataEase|[github.com/dataease/dataease](https://github.com/dataease/dataease)|<img src="https://img.shields.io/github/stars/dataease/dataease?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dataease/dataease?style=for-the-badge" />| 
+
 
 # Build Site
 Name| Respository Address | Star| Last Update| Desc
@@ -183,7 +188,7 @@ Zabbix|[github.com/zabbix/zabbix](https://github.com/zabbix/zabbix)|<img src="ht
 keep|[github.com/keephq/keep](https://github.com/keephq/keep)|<img src="https://img.shields.io/github/stars/keephq/keep?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/keephq/keep?style=for-the-badge" />|
 
 
-# MQ
+# Message Queue
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Kafdrop|[github.com/obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop)|<img src="https://img.shields.io/github/stars/obsidiandynamics/kafdrop?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/obsidiandynamics/kafdrop?style=for-the-badge" />| Kafka Web UI
