@@ -196,6 +196,12 @@ Kafka Offset Monitor|[github.com/Morningstar/kafka-offset-monitor](https://githu
 Kafka Eagle|[github.com/smartloli/EFAK](https://github.com/smartloli/EFAK)|<img src="https://img.shields.io/github/stars/smartloli/EFAK?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/smartloli/EFAK?style=for-the-badge" />|Kafka Web UI
 
 
+# Nginx UI
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Nginx UI|[github.com/0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui)|<img src="https://img.shields.io/github/stars/0xJacky/nginx-ui?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/0xJacky/nginx-ui?style=for-the-badge" />|
+
+
 # OCR
 Name| Respository Address | Star| Last Update|Desc
 -|-|-|-|-|
@@ -277,6 +283,7 @@ Crontab UI|[github.com/alseambusher/crontab-ui](https://github.com/alseambusher/
 ComfyUI|[github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)|<img src="https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/comfyanonymous/ComfyUI?style=for-the-badge" />|
 QingLong|[github.com/whyour/qinglong](https://github.com/whyour/qinglong)|<img src="https://img.shields.io/github/stars/whyour/qinglong?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/whyour/qinglong?style=for-the-badge" />|
 Kestra|[github.com/kestra-io/kestra](https://github.com/kestra-io/kestra)|<img src="https://img.shields.io/github/stars/kestra-io/kestra?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/kestra-io/kestra?style=for-the-badge" />|workflow
+gocron|[github.com/ouqiang/gocron](https://github.com/ouqiang/gocron)|<img src="https://img.shields.io/github/stars/ouqiang/gocron?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ouqiang/gocron?style=for-the-badge" />|
 
 # Terminal
 Name| Address | Star| Last Update|Desc
