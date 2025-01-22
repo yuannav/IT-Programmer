@@ -200,6 +200,7 @@ Kafka Eagle|[github.com/smartloli/EFAK](https://github.com/smartloli/EFAK)|<img 
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Nginx UI|[github.com/0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui)|<img src="https://img.shields.io/github/stars/0xJacky/nginx-ui?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/0xJacky/nginx-ui?style=for-the-badge" />|
+Nginx Proxy Manager|[github.com/NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)|<img src="https://img.shields.io/github/stars/NginxProxyManager/nginx-proxy-manager?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/NginxProxyManager/nginx-proxy-manager?style=for-the-badge" />|
 
 
 # OCR
