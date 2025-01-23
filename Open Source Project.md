@@ -290,6 +290,7 @@ gocron|[github.com/ouqiang/gocron](https://github.com/ouqiang/gocron)|<img src="
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Nushell|[github.com/nushell/nushell](https://github.com/nushell/nushell)|<img src="https://img.shields.io/github/stars/nushell/nushell?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/nushell/nushell?style=for-the-badge" />| Shell
+XPipe |[github.com/xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)|<img src="https://img.shields.io/github/stars/xpipe-io/xpipe?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/xpipe-io/xpipe?style=for-the-badge" />| Shell
 
 
 # USB Solution
