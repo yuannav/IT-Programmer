@@ -166,7 +166,7 @@ FreeIM|[github.com/2881099/FreeIM](https://github.com/2881099/FreeIM)|<img src="
 # Locker 
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-DistributedLock |[github.com/madelson/DistributedLock](https://github.com/lampo1024/DncZeus)|<img src="https://img.shields.io/github/stars/lampo1024/DncZeus?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/lampo1024/DncZeus?style=for-the-badge" />|
+DistributedLock |[github.com/madelson/DistributedLock](https://github.com/madelson/DistributedLock)|<img src="https://img.shields.io/github/stars/madelson/DistributedLock?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/madelson/DistributedLock?style=for-the-badge" />|
 
 
 # Log 
