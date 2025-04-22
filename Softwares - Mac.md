@@ -9,15 +9,15 @@ Applite|[github.com/milanvarady/Applite](https://github.com/milanvarady/Applite)
 XApp|[Apple App Store](https://apps.apple.com/cn/app/xapp-%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%AE%8C%E5%85%A8%E5%8D%B8%E8%BD%BD%E6%B8%85%E7%90%86%E4%B8%93%E5%AE%B6/id6473684385?mt=12)|-|-|Uninstall App
 
 
-# Bar
+# Bar Manage
 Name| Address | Star| Last Update
 -|-|-|-|
 iBar|[www.better365.cn/ibar.html](https://www.better365.cn/ibar.html)|-|- 
 
-# Battery
+# Battery Manage
 Name| Address | Star| Last Update
 -|-|-|-|
-AlDente|[apphousekitchen.com](https://apphousekitchen.com/)|-|- 
+AlDente|[apphousekitchen.com](https://apphousekitchen.com/)|-|Charge Limit
 Battery-电池健康充电保护管理|[Apple App Store](https://apps.apple.com/cn/app/battery-%E7%94%B5%E6%B1%A0%E5%81%A5%E5%BA%B7%E5%85%85%E7%94%B5%E4%BF%9D%E6%8A%A4%E7%AE%A1%E7%90%86/id6476085628)|-|- 
 
 # Developer Toolbox
