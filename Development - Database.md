@@ -21,6 +21,7 @@ Elastic stack (ELK) on Docker|[github.com/deviantony/docker-elk](https://github.
 # Redis
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
+Redis Insight|[github.com/RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight)|<img src="https://img.shields.io/github/stars/RedisInsight/RedisInsight?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/RedisInsight/RedisInsight?style=for-the-badge" />|Redis Client
 Tiny RDM|[github.com/tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm)|<img src="https://img.shields.io/github/stars/tiny-craft/tiny-rdm?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/tiny-craft/tiny-rdm?style=for-the-badge" />|Redis Client
 Another Redis Desktop Manager|[github.com/qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)|<img src="https://img.shields.io/github/stars/qishibo/AnotherRedisDesktopManager?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/qishibo/AnotherRedisDesktopManager?style=for-the-badge" />|Redis Client
 RDR|[github.com/xueqiu/rdr](https://github.com/xueqiu/rdr)|<img src="https://img.shields.io/github/stars/xueqiu/rdr?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/xueqiu/rdr?style=for-the-badge" />|Redis Memory Analysis Tool
