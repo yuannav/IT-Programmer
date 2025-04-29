@@ -10,4 +10,4 @@ Jellyfin|[github.com/jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)|<i
 # Unclassified
 Name| Address | Star| Last Update |Desc
 -|-|-|-|-|
-gkd|[github.com/gkd-kit/gkd](https://github.com/gkd-kit/gkd)|<img src="https://img.shields.io/github/stars/gkd-kit/gkd?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/gkd-kit/gkd?style=for-the-badge" /> |
+gkd|[github.com/gkd-kit/gkd](https://github.com/gkd-kit/gkd)|<img src="https://img.shields.io/github/stars/gkd-kit/gkd?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/gkd-kit/gkd?style=for-the-badge" /> | Screen Click
