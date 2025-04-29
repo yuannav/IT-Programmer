@@ -12,6 +12,7 @@ Focalboard|[github.com/mattermost/focalboard](https://github.com/mattermost/foca
 JSON Crack|[github.com/AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)|<img src="https://img.shields.io/github/stars/AykutSarac/jsoncrack.com?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AykutSarac/jsoncrack.com?style=for-the-badge" />|
 go2rtc|[github.com/AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)|<img src="https://img.shields.io/github/stars/AlexxIT/go2rtc?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AlexxIT/go2rtc?style=for-the-badge" />|
 AdGuard Home|[github.com/AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)|<img src="https://img.shields.io/github/stars/AdguardTeam/AdGuardHome?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AdguardTeam/AdGuardHome?style=for-the-badge" />|DNS Server
+public-apis|[github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)|<img src="https://img.shields.io/github/stars/public-apis/public-apis?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/public-apis/public-apis?style=for-the-badge" /> |
 
 # 12306
 Name| Respository Address | Star| Last Update| Desc
