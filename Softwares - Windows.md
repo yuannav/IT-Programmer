@@ -2,6 +2,12 @@ Name| Address | Star| Last Update
 -|-|-|-|
 图拉丁吧工具箱|[图拉丁吧工具箱](https://www.tbtool.cn)|-|-
 
+# SDK manager
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Dots |[github.com/nor0x/Dots](https://github.com/nor0x/Dots)|<img src="https://img.shields.io/github/stars/nor0x/Dots?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/nor0x/Dots?style=for-the-badge" />| .NET SDK manager
+
+
 # API Manager
 Name| Address | Desc
 -|-|-|
@@ -157,6 +163,13 @@ ImageGlass |[github.com/d2phap/ImageGlass](https://github.com/d2phap/ImageGlass)
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 LightBulb|[github.com/Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb)|<img src="https://img.shields.io/github/stars/Tyrrrz/LightBulb?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Tyrrrz/LightBulb?style=for-the-badge" />|Eyeshield
+
+
+# SDK manager
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Dots |[github.com/nor0x/Dots](https://github.com/nor0x/Dots)|<img src="https://img.shields.io/github/stars/nor0x/Dots?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/nor0x/Dots?style=for-the-badge" />| .NET SDK manager
+
 
 # Search
 Name| Address | Star| Last Update
