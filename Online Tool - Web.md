@@ -48,7 +48,7 @@ Swiss Transfer|[www.swisstransfer.com](https://www.swisstransfer.com)|
 # IT Toolbox
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-IT-TOOLS|[github.com/CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)|<img src="https://img.shields.io/github/stars/CorentinTh/it-tools?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/CorentinTh/it-tools?style=for-the-badge" />|-
+IT-TOOLS|[github.com/CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)|<img src="https://img.shields.io/github/stars/CorentinTh/it-tools?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/CorentinTh/it-tools?style=for-the-badge" />|
 
 # Temp Mail
 Name| Address | Desc
