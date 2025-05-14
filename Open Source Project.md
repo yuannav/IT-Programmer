@@ -194,6 +194,7 @@ ActivityWatch|[github.com/ActivityWatch/activitywatch](https://github.com/Activi
 changedetection|[github.com/dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)|<img src="https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dgtlmoon/changedetection.io?style=for-the-badge" />| Web Page Change Detection 
 Zabbix|[github.com/zabbix/zabbix](https://github.com/zabbix/zabbix)|<img src="https://img.shields.io/github/stars/zabbix/zabbix?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/zabbix/zabbix?style=for-the-badge" />| 
 keep|[github.com/keephq/keep](https://github.com/keephq/keep)|<img src="https://img.shields.io/github/stars/keephq/keep?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/keephq/keep?style=for-the-badge" />|
+Sniffnet|[github.com/GyulyVGC/sniffnet](https://github.com/allinssl/allinssl)|<img src="https://img.shields.io/github/stars/allinssl/allinssl?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/allinssl/allinssl?style=for-the-badge" />|Internet traffic
 
 
 # Message Queue
