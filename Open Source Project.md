@@ -279,6 +279,7 @@ Deskreen|[github.com/pavlobu/deskreen](https://github.com/pavlobu/deskreen)|<img
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 mkcert|[github.com/gFiloSottile/mkcert](https://github.com/gFiloSottile/mkcert)|<img src="https://img.shields.io/github/stars/gFiloSottile/mkcert?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/gFiloSottile/mkcert?style=for-the-badge" />|Trusted local SSL/TLS certificate
+ALLinSSL  |[github.com/allinssl/allinssl](https://github.com/allinssl/allinssl)|<img src="https://img.shields.io/github/stars/allinssl/allinssl?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/allinssl/allinssl?style=for-the-badge" />|
 
 # Task Scheduling
 Name| Respository Address | Star| Last Update|Desc
