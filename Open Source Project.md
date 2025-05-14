@@ -101,6 +101,7 @@ Name| Respository Address | Star| Last Update|Desc
 Mailpit|[github.com/axllent/mailpit](https://github.com/axllent/mailpit)|<img src="https://img.shields.io/github/stars/axllent/mailpit?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/axllent/mailpit?style=for-the-badge" />|EMail Server
 MailHog|[github.com/mailhog/MailHog](https://github.com/mailhog/MailHog)|<img src="https://img.shields.io/github/stars/mailhog/MailHog?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mailhog/MailHog?style=for-the-badge" />|EMail Server
 Gophish|[github.com/gophish/gophish](https://github.com/gophish/gophish)|<img src="https://img.shields.io/github/stars/gophish/gophish?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/gophish/gophish?style=for-the-badge" />|Phishing Toolkit
+Mailcow|[github.com/mailcow/mailcow-dockerized](https://github.com/allinssl/allinssl)|<img src="https://img.shields.io/github/stars/allinssl/allinssl?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/allinssl/allinssl?style=for-the-badge" />|EMail Server
 
 
 # File
