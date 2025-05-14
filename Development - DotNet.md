@@ -17,6 +17,7 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Scalar|[github.com/scalar/scalar](https://github.com/scalar/scalar)|<img src="https://img.shields.io/github/stars/scalar/scalar?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/scalar/scalar?style=for-the-badge" />|
 Swashbuckle.AspNetCore|[github.com/domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)|<img src="https://img.shields.io/github/stars/domaindrivendev/Swashbuckle.AspNetCore?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/domaindrivendev/Swashbuckle.AspNetCore?style=for-the-badge" />|
+Knife4j |[github.com/luoyunchong/IGeekFan.AspNetCore.Knife4jUI](https://github.com/luoyunchong/IGeekFan.AspNetCore.Knife4jUI)|<img src="https://img.shields.io/github/stars/luoyunchong/IGeekFan.AspNetCore.Knife4jUI?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/luoyunchong/IGeekFan.AspNetCore.Knife4jUI?style=for-the-badge" />|
 
 
 # APM Client
