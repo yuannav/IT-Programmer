@@ -176,10 +176,13 @@ Name| Address | Star| Last Update
 -|-|-|-|
 uTools|[www.u.tools](https://www.u.tools)|-|- 
 Anytxt Searcher|[anytxt.net](https://anytxt.net)|-|- 
+
 # Service
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 NSSM |[nssm.cc/download](https://nssm.cc/download)|||Win Service Manager
+winsw|[github.com/winsw/winsw](https://github.com/winsw/winsw)|<img src="https://img.shields.io/github/stars/winsw/winsw?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/winsw/winsw?style=for-the-badge" />|
+
 
 # Storage
 Name| Address | Star| Last Update|Desc
