@@ -18,6 +18,7 @@ Name| Address | Star| Last Update|Desc
 Scalar|[github.com/scalar/scalar](https://github.com/scalar/scalar)|<img src="https://img.shields.io/github/stars/scalar/scalar?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/scalar/scalar?style=for-the-badge" />|
 Swashbuckle.AspNetCore|[github.com/domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)|<img src="https://img.shields.io/github/stars/domaindrivendev/Swashbuckle.AspNetCore?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/domaindrivendev/Swashbuckle.AspNetCore?style=for-the-badge" />|
 Knife4j |[github.com/luoyunchong/IGeekFan.AspNetCore.Knife4jUI](https://github.com/luoyunchong/IGeekFan.AspNetCore.Knife4jUI)|<img src="https://img.shields.io/github/stars/luoyunchong/IGeekFan.AspNetCore.Knife4jUI?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/luoyunchong/IGeekFan.AspNetCore.Knife4jUI?style=for-the-badge" />|
+ASP.NET API Versioning |[github.com/dotnet/aspnet-api-versioning](https://github.com/dotnet/aspnet-api-versioning)|<img src="https://img.shields.io/github/stars/dotnet/aspnet-api-versioning?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dotnet/aspnet-api-versioning?style=for-the-badge" />|
 
 
 # APM Client
@@ -238,6 +239,8 @@ NPOI|[github.com/dotnetcore/NPOI](https://github.com/dotnetcore/NPOI)|<img src="
 MiniExcel|[github.com/mini-software/MiniExcel](https://github.com/mini-software/MiniExcel)|<img src="https://img.shields.io/github/stars/mini-software/MiniExcel?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mini-software/MiniExcel?style=for-the-badge" />|
 MiniWord|[github.com/mini-software/MiniWord](https://github.com/mini-software/MiniWord)|<img src="https://img.shields.io/github/stars/mini-software/MiniWord?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mini-software/MiniWord?style=for-the-badge" />|
 CsvHelper|[github.com/JoshClose/CsvHelper](https://github.com/JoshClose/CsvHelper)|<img src="https://img.shields.io/github/stars/JoshClose/CsvHelper?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/JoshClose/CsvHelper?style=for-the-badge" />
+iText |[github.com/itext/itext-dotnet](https://github.com/itext/itext-dotnet)|<img src="https://img.shields.io/github/stars/itext/itext-dotnet?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/itext/itext-dotnet?style=for-the-badge" />|PDF 
+Magicodes.IE|[github.com/dotnetcore/Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE)|<img src="https://img.shields.io/github/stars/dotnetcore/Magicodes.IE?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dotnetcore/Magicodes.IE?style=for-the-badge" />|Excel, Csv, Word, Pdf and Html
 
 
 # ORM
