@@ -142,7 +142,7 @@ OpnForm|[github.com/JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm)|<img sr
 Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
 Higress |[github.com/alibaba/higress](https://github.com/alibaba/higress)|<img src="https://img.shields.io/github/stars/alibaba/higress?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/alibaba/higress?style=for-the-badge" />|
-OpenResty Manager|[github.com/Safe3/openresty-manager](https://github.com/allinssl/allinssl)|<img src="https://img.shields.io/github/stars/allinssl/allinssl?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/allinssl/allinssl?style=for-the-badge" />|Nginx Enhanced Version
+OpenResty Manager|[github.com/Safe3/openresty-manager](https://github.com/Safe3/openresty-manager)|<img src="https://img.shields.io/github/stars/Safe3/openresty-manager?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Safe3/openresty-manager?style=for-the-badge" />|Nginx Enhanced Version
 
 
 # Git Devops
