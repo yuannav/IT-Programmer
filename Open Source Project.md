@@ -24,6 +24,9 @@ Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
 CompreFace|[github.com/exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)|<img src="https://img.shields.io/github/stars/exadel-inc/CompreFace?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/exadel-inc/CompreFace?style=for-the-badge" />|Free & Face Identification
 MoneyPrinterTurbo |[github.com/harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)|<img src="https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/harry0703/MoneyPrinterTurbo?style=for-the-badge" />|generate the video
+AudioNotes |[github.com/harry0703/AudioNotes](https://github.com/harry0703/AudioNotes)|<img src="https://img.shields.io/github/stars/harry0703/AudioNotes?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/harry0703/AudioNotes?style=for-the-badge" />|
+FunASR |[github.com/modelscope/FunASR](https://github.com/modelscope/FunASR)|<img src="https://img.shields.io/github/stars/modelscope/FunASR?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/modelscope/FunASR?style=for-the-badge" />|
+Ollama |[github.com/ollama/ollama](https://github.com/ollama/ollama)|<img src="https://img.shields.io/github/stars/ollama/ollama?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ollama/ollama?style=for-the-badge" />|
 
 # Auth
 Name| Respository Address | Star| Last Update| Desc
