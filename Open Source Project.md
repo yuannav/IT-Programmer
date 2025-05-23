@@ -23,6 +23,7 @@ py12306|[github.com/pjialin/py12306](https://github.com/pjialin/py12306)|<img sr
 Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
 CompreFace|[github.com/exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)|<img src="https://img.shields.io/github/stars/exadel-inc/CompreFace?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/exadel-inc/CompreFace?style=for-the-badge" />|Free & Face Identification
+MoneyPrinterTurbo |[github.com/harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)|<img src="https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/harry0703/MoneyPrinterTurbo?style=for-the-badge" />|generate the video
 
 # Auth
 Name| Respository Address | Star| Last Update| Desc
