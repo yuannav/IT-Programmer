@@ -47,6 +47,11 @@ Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
 DataEase|[github.com/dataease/dataease](https://github.com/dataease/dataease)|<img src="https://img.shields.io/github/stars/dataease/dataease?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dataease/dataease?style=for-the-badge" />| 
 
+# Book
+Name| Respository Address | Star| Last Update| Desc
+-|-|-|-|-|
+ChinaTextbook|[github.com/TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|<img src="https://img.shields.io/github/stars/TapXWorld/ChinaTextbook?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/TapXWorld/ChinaTextbook?style=for-the-badge" />| 
+
 
 # Build Site
 Name| Respository Address | Star| Last Update| Desc
