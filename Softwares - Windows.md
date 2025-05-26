@@ -115,7 +115,7 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 TreeSize Free|[apps.microsoft.com/detail/xp9m26rsclnt88](https://apps.microsoft.com/detail/xp9m26rsclnt88)|-|-|-
 DiskGenius|[www.diskgenius.com](https://www.diskgenius.com)|-|-|-
-CrystalDiskInfo|[crystalmark.info](https://crystalmark.info)|-|-|-
+CrystalDiskInfo|[crystalmark.info](https://crystalmark.info)|-|-| Disk Health Check
 
 # File Explorer
 Name| Address | Star| Last Update| Desc
