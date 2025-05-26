@@ -213,7 +213,7 @@ changedetection|[github.com/dgtlmoon/changedetection.io](https://github.com/dgtl
 Zabbix|[github.com/zabbix/zabbix](https://github.com/zabbix/zabbix)|<img src="https://img.shields.io/github/stars/zabbix/zabbix?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/zabbix/zabbix?style=for-the-badge" />| 
 keep|[github.com/keephq/keep](https://github.com/keephq/keep)|<img src="https://img.shields.io/github/stars/keephq/keep?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/keephq/keep?style=for-the-badge" />|
 Sniffnet|[github.com/GyulyVGC/sniffnet](https://github.com/allinssl/allinssl)|<img src="https://img.shields.io/github/stars/allinssl/allinssl?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/allinssl/allinssl?style=for-the-badge" />|Internet traffic
-Cool Monitor|[github.com/GyulyVGC/sniffnet](https://github.com/star7th/coolmonitor)|<img src="https://img.shields.io/github/stars/star7th/coolmonitor?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/star7th/coolmonitor?style=for-the-badge" />|Internet traffic
+CoolMonitor|[github.com/star7th/coolmonitor](https://github.com/star7th/coolmonitor)|<img src="https://img.shields.io/github/stars/star7th/coolmonitor?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/star7th/coolmonitor?style=for-the-badge" />|Internet traffic
 
 # Message Queue
 Name| Address | Star| Last Update|Desc
