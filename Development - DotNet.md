@@ -241,6 +241,7 @@ MiniWord|[github.com/mini-software/MiniWord](https://github.com/mini-software/Mi
 CsvHelper|[github.com/JoshClose/CsvHelper](https://github.com/JoshClose/CsvHelper)|<img src="https://img.shields.io/github/stars/JoshClose/CsvHelper?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/JoshClose/CsvHelper?style=for-the-badge" />
 iText |[github.com/itext/itext-dotnet](https://github.com/itext/itext-dotnet)|<img src="https://img.shields.io/github/stars/itext/itext-dotnet?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/itext/itext-dotnet?style=for-the-badge" />|PDF 
 Magicodes.IE|[github.com/dotnetcore/Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE)|<img src="https://img.shields.io/github/stars/dotnetcore/Magicodes.IE?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dotnetcore/Magicodes.IE?style=for-the-badge" />|Excel, Csv, Word, Pdf and Html
+ClosedXML |[github.com/ClosedXML/ClosedXML](https://github.com/ClosedXML/ClosedXML)|<img src="https://img.shields.io/github/stars/ClosedXML/ClosedXML?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ClosedXML/ClosedXML?style=for-the-badge" />| Excel 
 
 
 # ORM
