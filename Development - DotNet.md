@@ -209,6 +209,10 @@ Name| Address | Star| Last Update|Desc
 AutoMapper|[github.com/AutoMapper/AutoMapper](https://github.com/AutoMapper/AutoMapper)|<img src="https://img.shields.io/github/stars/AutoMapper/AutoMapper?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AutoMapper/AutoMapper?style=for-the-badge" />|
 Mapster|[github.com/MapsterMapper/Mapster](https://github.com/MapsterMapper/Mapster)|<img src="https://img.shields.io/github/stars/MapsterMapper/Mapster?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/MapsterMapper/Mapster?style=for-the-badge" />|
 
+# Monitor
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+LibreHardwareMonitor|[github.com/LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)|<img src="https://img.shields.io/github/stars/LibreHardwareMonitor/LibreHardwareMonitor?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/LibreHardwareMonitor/LibreHardwareMonitor?style=for-the-badge" />|
 
 # Network Programming
 Name| Address | Star| Last Update|Desc
