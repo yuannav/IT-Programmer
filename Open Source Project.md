@@ -132,6 +132,7 @@ File Converter|[github.com/Tichau/FileConverter](https://github.com/Tichau/FileC
 LocalSend |[github.com/localsend/localsend](https://github.com/localsend/localsend)|<img src="https://img.shields.io/github/stars/localsend/localsend?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/localsend/localsend?style=for-the-badge" />|File Transfer
 FileCodeBox|[github.com/vastsa/FileCodeBox](https://github.com/viatsko/awesome-vscode)|<img src="https://img.shields.io/github/stars/viatsko/awesome-vscode?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/viatsko/awesome-vscode?style=for-the-badge" />|File Transfer
 Pandoc|[github.com/jgm/pandoc](https://github.com/jgm/pandoc)|<img src="https://img.shields.io/github/stars/jgm/pandoc?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/jgm/pandoc?style=for-the-badge" />| File Converter
+Web File Browser|[github.com/filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)|<img src="https://img.shields.io/github/stars/filebrowser/filebrowser?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/filebrowser/filebrowser?style=for-the-badge" />|
 
 # Firewall
 Name| Respository Address | Star| Last Update| Desc
