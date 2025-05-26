@@ -28,6 +28,12 @@ AudioNotes |[github.com/harry0703/AudioNotes](https://github.com/harry0703/Audio
 FunASR |[github.com/modelscope/FunASR](https://github.com/modelscope/FunASR)|<img src="https://img.shields.io/github/stars/modelscope/FunASR?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/modelscope/FunASR?style=for-the-badge" />|
 Ollama |[github.com/ollama/ollama](https://github.com/ollama/ollama)|<img src="https://img.shields.io/github/stars/ollama/ollama?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ollama/ollama?style=for-the-badge" />|
 
+
+# API
+Name| Respository Address | Star| Last Update| Desc
+-|-|-|-|-|
+Public APIs|[github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)|<img src="https://img.shields.io/github/stars/public-apis/public-apis?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/public-apis/public-apis?style=for-the-badge" /> |
+
 # Auth
 Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
@@ -35,10 +41,6 @@ JustAuth|[github.com/justauth/JustAuth](https://github.com/justauth/JustAuth)|<i
 CollectiveOAuth|[github.com/justauth/CollectiveOAuth](https://github.com/justauth/CollectiveOAuth)<br>[gitee.com/rthinking/CollectiveOAuth](https://gitee.com/rthinking/CollectiveOAuth)|<img src="https://img.shields.io/github/stars/justauth/CollectiveOAuth?style=for-the-badge" /><br/><img src='https://gitee.com/rthinking/CollectiveOAuth/badge/star.svg?theme=white' alt='star'></img>|<img src="https://img.shields.io/github/last-commit/justauth/CollectiveOAuth?style=for-the-badge" />|Base .NET
 Casbin.NET|[github.com/casbin/Casbin.NET](https://github.com/casbin/Casbin.NET)|<img src="https://img.shields.io/github/stars/casbin/Casbin.NET?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/casbin/Casbin.NET?style=for-the-badge" />|Base .NET
 
-# API
-Name| Respository Address | Star| Last Update| Desc
--|-|-|-|-|
-Public APIs|[github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)|<img src="https://img.shields.io/github/stars/public-apis/public-apis?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/public-apis/public-apis?style=for-the-badge" /> |
 
 # BI Tool
 Name| Respository Address | Star| Last Update| Desc
