@@ -122,6 +122,12 @@ Name| Address | Star| Last Update
 MediatR|[github.com/jbogard/MediatR](https://github.com/jbogard/MediatR)|<img src="https://img.shields.io/github/stars/jbogard/MediatR?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/jbogard/MediatR?style=for-the-badge" />
 Dapr SDK for .NET|[github.com/dapr/dotnet-sdk](https://github.com/dapr/dotnet-sdk)|<img src="https://img.shields.io/github/stars/dapr/dotnet-sdk?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dapr/dotnet-sdk?style=for-the-badge" />
 
+# Face
+Name| Address | Star| Last Update
+-|-|-|-|
+Face Recognition |[github.com/takuya-takeuchi/FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet)|<img src="https://img.shields.io/github/stars/takuya-takeuchi/FaceRecognitionDotNet?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/takuya-takeuchi/FaceRecognitionDotNet?style=for-the-badge" />| 
+
+
 # Format
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
