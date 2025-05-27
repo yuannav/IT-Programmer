@@ -353,6 +353,10 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 WeiXinMPSDK|[github.com/JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)|<img src="https://img.shields.io/github/stars/JeffreySu/WeiXinMPSDK?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/JeffreySu/WeiXinMPSDK?style=for-the-badge" />|
 
+# WPF
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+AduSkin|[github.com/aduskin/AduSkin](https://github.com/aduskin/AduSkin)|<img src="https://img.shields.io/github/stars/aduskin/AduSkin?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/aduskin/AduSkin?style=for-the-badge" />| WPF UI
 
 # XSS
 Name| Address | Star| Last Update|Desc
