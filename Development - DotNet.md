@@ -357,6 +357,7 @@ WeiXinMPSDK|[github.com/JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiX
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 AduSkin|[github.com/aduskin/AduSkin](https://github.com/aduskin/AduSkin)|<img src="https://img.shields.io/github/stars/aduskin/AduSkin?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/aduskin/AduSkin?style=for-the-badge" />| WPF UI
+HandyControl|[github.com/HandyOrg/HandyControl](https://github.com/HandyOrg/HandyControl)|<img src="https://img.shields.io/github/stars/HandyOrg/HandyControl?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/HandyOrg/HandyControl?style=for-the-badge" />|WPF UI
 
 # XSS
 Name| Address | Star| Last Update|Desc
