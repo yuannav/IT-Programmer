@@ -86,6 +86,8 @@ AngleSharp|[github.com/AngleSharp/AngleSharp](https://github.com/AngleSharp/Angl
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Bogus |[github.com/bchavez/Bogus](https://github.com/bchavez/Bogus)|<img src="https://img.shields.io/github/stars/bchavez/Bogus?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/bchavez/Bogus?style=for-the-badge" />|Fake Data Generator 
+Hashids|[github.com/ullmark/hashids.net](https://github.com/ullmark/hashids.net)|<img src="https://img.shields.io/github/stars/ullmark/hashids.net?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ullmark/hashids.net?style=for-the-badge" />|Generate short unique IDs from numbers
+Sqids .NET|[github.com/sqids/sqids-dotnet](https://github.com/sqids/sqids-dotnet)|<img src="https://img.shields.io/github/stars/sqids/sqids-dotnet?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/sqids/sqids-dotnet?style=for-the-badge" />|Generate short unique IDs from numbers
 
 # Date Time
 Name| Address | Star| Last Update|Desc
