@@ -1,38 +1,24 @@
-
-# Data Formatter - SQL
+# Data Formatter
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-SQL Formatter|[www.json.cn/sql-format](https://www.json.cn/sql-format)|-|-|-
-SQL Compression|[www.json.cn/sql-format](https://www.json.cn/sql-format)|-|-|-
-
-# Data Formatter - XML
-Name| Address | Star| Last Update| Desc
--|-|-|-|-|
-XML Formatter|[www.json.cn/xml-format](https://www.json.cn/xml-format)|-|-|-
-XML Compression|[www.json.cn/xml-format](https://www.json.cn/xml-format)|-|-|-
-XML Sort|[www.json.cn/xml-format](https://www.json.cn/xml-format)|-|-|-
-
-# Data Formatter - JSON
-Name| Address | Star| Last Update| Desc
--|-|-|-|-|
-JSON Formatter|[jsonformatter.org](https://jsonformatter.org/)|-|-|-
-JSON Compression|[www.json.cn/jsonzip](https://www.json.cn/jsonzip)|-|-|-
-JSON 转义|[www.json.cn/jsonzip](https://www.json.cn/jsonzip)|-|-|-
-JSON 去转义|[www.json.cn/jsonzip](https://www.json.cn/jsonzip)|-|-|-
-JSON Sort|[www.json.cn/jsonsort](https://www.json.cn/jsonsort/)|-|-|-
-
-# Data Formatter - GraphQL
-Name| Address | Star| Last Update| Desc
--|-|-|-|-|
-GraphQL Formatter|[jsonformatter.org/graphql-formatter](https://jsonformatter.org/graphql-formatter)|-|-|-
-
+JSON Formatter|[jsonformatter.org](https://jsonformatter.org/)|-|-|JSON
+JSON Compression|[www.json.cn/jsonzip](https://www.json.cn/jsonzip)|-|-|JSON
+JSON 转义|[www.json.cn/jsonzip](https://www.json.cn/jsonzip)|-|-|JSON
+JSON 去转义|[www.json.cn/jsonzip](https://www.json.cn/jsonzip)|-|-|JSON
+JSON Sort|[www.json.cn/jsonsort](https://www.json.cn/jsonsort/)|-|-|JSON
+SQL Formatter|[www.json.cn/sql-format](https://www.json.cn/sql-format)|-|-|SQL
+SQL Compression|[www.json.cn/sql-format](https://www.json.cn/sql-format)|-|-|SQL
+XML Formatter|[www.json.cn/xml-format](https://www.json.cn/xml-format)|-|-|XML
+XML Compression|[www.json.cn/xml-format](https://www.json.cn/xml-format)|-|-|XML
+XML Sort|[www.json.cn/xml-format](https://www.json.cn/xml-format)|-|-|XML
+GraphQL Formatter|[jsonformatter.org/graphql-formatter](https://jsonformatter.org/graphql-formatter)|-|-|GraphQL
 
 # Downloader
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 Download Panda|[dlpanda.com](https://dlpanda.com)|-|-| Video
 
-# Encryption And Decryption
+# Encryption
 Name| Address | Desc
 -|-|-|
 Base64|[www.json.cn/base64](https://www.json.cn/base64)|
