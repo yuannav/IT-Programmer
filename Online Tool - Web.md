@@ -14,7 +14,7 @@ XML Sort|[www.json.cn/xml-format](https://www.json.cn/xml-format)|XML
 GraphQL Formatter|[jsonformatter.org/graphql-formatter](https://jsonformatter.org/graphql-formatter)|GraphQL
 
 # Downloader
-Name| Address || Desc
+Name| Address| Desc
 -|-|-|
 Download Panda|[dlpanda.com](https://dlpanda.com)|Video
 
