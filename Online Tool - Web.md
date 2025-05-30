@@ -56,3 +56,8 @@ Name| Address | Desc
 Temp Mail|[temp-mail.org](https://temp-mail.org)|
 Tempmailo|[tempmailo.com](https://tempmailo.com)|
 Tempail|[tempail.com](https://tempail.com)|
+
+# Test Website Speed
+Name| Address | Desc
+-|-|-|
+GTmetrix|[gtmetrix.com](https://gtmetrix.com/)|
