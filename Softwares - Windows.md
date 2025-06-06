@@ -1,12 +1,7 @@
 Name| Address | Star| Last Update
 -|-|-|-|
 图拉丁吧工具箱|[图拉丁吧工具箱](https://www.tbtool.cn)|-|-
-
-# SDK manager
-Name| Address | Star| Last Update|Desc
--|-|-|-|-|
-Dots |[github.com/nor0x/Dots](https://github.com/nor0x/Dots)|<img src="https://img.shields.io/github/stars/nor0x/Dots?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/nor0x/Dots?style=for-the-badge" />| .NET SDK manager
-
+Notepad++ |[github.com/notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)|<img src="https://img.shields.io/github/stars/notepad-plus-plus/notepad-plus-plus?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/notepad-plus-plus/notepad-plus-plus?style=for-the-badge" />
 
 # API Manager
 Name| Address | Desc
